@@ -37,7 +37,8 @@ RESEARCH_FILE = DATA_DIR / "research.json"
 # English directory of all job market candidates: data/global/<cycle>.csv (see data/global/_template.csv).
 # Rows that match a China JMC candidate (same cycle, school and name) only fill in / correct that entry.
 GLOBAL_DIR = DATA_DIR / "global"
-GLOBAL_COLS = ["name", "school", "country", "school_rank", "jmp", "fields", "website", "placement"]
+# education: "B.A. Economics | Peking University | 2019; Ph.D. Economics | Yale University | 2027" (oldest first)
+GLOBAL_COLS = ["name", "school", "country", "school_rank", "jmp", "fields", "website", "placement", "education"]
 
 # ---------------------------------------------------------------- regexes ---
 RE_REGION = re.compile(r"^#{1,6}\s*(.+?)\s*$")
@@ -357,11 +358,39 @@ def norm(s: str | None) -> str:
     return re.sub(r"\s+", " ", (s or "").strip()).lower()
 
 
+def name_variants(name: str) -> set[str]:
+    """"Shengqi (Stephen) Ni" -> {"shengqi (stephen) ni", "shengqi ni", "stephen ni"}."""
+    n = norm(name)
+    out = {n}
+    m = re.match(r"^(?P<given>.*?)\s*\((?P<nick>[^)]+)\)\s*(?P<rest>.*)$", n)
+    if m:
+        surname = m.group("rest").split()[-1] if m.group("rest") else ""
+        out.add(norm(f"{m.group('given')} {m.group('rest')}"))
+        out.add(norm(f"{m.group('nick')} {surname}"))
+    return out
+
+
+def parse_education(text: str) -> list[dict]:
+    out = []
+    for item in (x.strip() for x in text.split(";")):
+        if not item:
+            continue
+        parts = [x.strip() for x in item.split("|")]
+        parts += [""] * (3 - len(parts))
+        out.append({"degree": parts[0], "school": parts[1], "year": int(parts[2]) if parts[2].isdigit() else None})
+    return out
+
+
+def phd_year_of(edu: list[dict]) -> int | None:
+    years = [e["year"] for e in edu if re.match(r"ph\.?\s?d|doctor", e["degree"], re.I) and e["year"]]
+    return years[-1] if years else None
+
+
 def load_global(cn_candidates: list[dict], known_fields: set[str], region_map: KeywordMap, inst_map: KeywordMap,
                 warnings: list[str]) -> list[dict]:
     """Read data/global/<cycle>.csv. Returns the rows that are not already China JMC candidates."""
     import csv
-    by_key = {(c["cycle"], norm(c["school"]), norm(c["name"])): c for c in cn_candidates}
+    by_key = {(c["cycle"], norm(c["school"]), v): c for c in cn_candidates for v in name_variants(c["name"])}
     out: list[dict] = []
     used_ids = {c["id"] for c in cn_candidates}
     for f in sorted(GLOBAL_DIR.glob("*.csv")) if GLOBAL_DIR.exists() else []:
@@ -382,12 +411,15 @@ def load_global(cn_candidates: list[dict], known_fields: set[str], region_map: K
                     warnings.append(f"global/{f.name}: line {i}: unknown field category: {x}")
             fields = [x for x in fields if x in known_fields]
             website = r["website"] if re.match(r"https?://", r["website"]) else None
-            cn = by_key.get((cycle, norm(r["school"]), norm(r["name"])))
+            education = parse_education(r["education"])
+            cn = next((by_key[k] for k in ((cycle, norm(r["school"]), v) for v in name_variants(r["name"])) if k in by_key), None)
             if cn is not None:  # already in the China JMC data: fill gaps only
                 cn["jmp"] = cn["jmp"] or r["jmp"] or None
                 cn["website"] = cn["website"] or website
                 if fields and not cn["fields"]:
                     cn["fields"] = fields
+                if education:  # English education for the English site; the md bio keeps the Chinese one
+                    cn["education_en"] = education
                 continue
             placement = r["placement"] or None
             ptype = classify_placement(placement)
@@ -402,6 +434,7 @@ def load_global(cn_candidates: list[dict], known_fields: set[str], region_map: K
                 "country": r["country"] or "United States",
                 "rank": int(r["school_rank"]) if r["school_rank"].isdigit() else None,
                 "jmp": r["jmp"] or None, "fields": fields, "website": website,
+                "education": education, "phd_year": phd_year_of(education),
                 "placement": placement, "placement_type": ptype,
                 "placement_region": match_destination(placement, region_map) if academic or ptype == "Postdoc" else None,
                 "placement_inst": match_destination(placement, inst_map) if academic else None,

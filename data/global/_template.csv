@@ -1,2 +1,2 @@
-name,school,country,school_rank,jmp,fields,website,placement
-Jane Doe,Harvard,United States,1,"Example Job Market Paper Title",Labor; Public,https://janedoe.github.io,"AP @ Example University"
+name,school,country,school_rank,jmp,fields,website,placement,education
+Jane Doe,Harvard,United States,1,"Example Job Market Paper Title",Labor; Public,https://janedoe.github.io,"AP @ Example University","B.A. Economics | Peking University | 2019; M.A. Economics | Duke University | 2021; Ph.D. Economics | Harvard University | 2027"

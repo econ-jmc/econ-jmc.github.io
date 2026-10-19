@@ -1,0 +1,429 @@
+[
+ {
+  "school": "Arizona State University",
+  "status": "not_posted",
+  "url": "https://wpcarey.asu.edu/economics-degrees/candidates-on-the-market",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Boston College",
+  "status": "not_posted",
+  "url": "https://www.bc.edu/bc-web/schools/morrissey/departments/economics/graduate/phd-candidates.html",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Boston University",
+  "status": "posted",
+  "url": "https://www.bu.edu/econ/job-market-candidates/",
+  "n": 18,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Brown",
+  "status": "posted",
+  "url": "https://economics.brown.edu/job-market-candidates-0",
+  "n": 11,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "CalTech",
+  "status": "posted",
+  "url": "https://www.hss.caltech.edu/graduate-studies/job-market-candidates",
+  "n": 6,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "CMU",
+  "status": "posted",
+  "url": "https://www.cmu.edu/tepper/recruiting-and-partnerships/hire-our-talent/hire-phd-candidate",
+  "n": 4,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Columbia",
+  "status": "posted",
+  "url": "https://econ.columbia.edu/phd/job-market-candidates-2/",
+  "n": 14,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Cornell",
+  "status": "posted",
+  "url": "https://economics.cornell.edu/economics-phd-job-market-candidates",
+  "n": 14,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Duke",
+  "status": "posted",
+  "url": "https://econ.duke.edu/graduate/hire-duke-phd",
+  "n": 10,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Emory University",
+  "status": "posted",
+  "url": "https://economics.emory.edu/doctoral/phd-job-market.html",
+  "n": 8,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Georgetown University",
+  "status": "posted",
+  "url": "https://econ.georgetown.edu/academics/phd/phd-students/current-job-market-candidates/",
+  "n": 7,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Harvard",
+  "status": "posted",
+  "url": "https://www.economics.harvard.edu/job-market-candidates",
+  "n": 13,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Indiana University--Bloomington",
+  "status": "not_posted",
+  "url": "https://economics.indiana.edu/graduate/job-candidates/index.html",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Johns Hopkins University",
+  "status": "posted",
+  "url": "https://econ.jhu.edu/role/job-market-candidate/",
+  "n": 6,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Michigan State University",
+  "status": "posted",
+  "url": "https://econ.msu.edu/academics/graduate/job-candidates",
+  "n": 15,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "MIT",
+  "status": "posted",
+  "url": "https://economics.mit.edu/academic-programs/phd-program/job-market",
+  "n": 20,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Northwestern",
+  "status": "posted",
+  "url": "https://economics.northwestern.edu/job-market-candidates/",
+  "n": 22,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "NYU",
+  "status": "not_posted",
+  "url": "https://as.nyu.edu/econ/job-market/candidates.html",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Ohio State University",
+  "status": "posted",
+  "url": "https://economics.osu.edu/job-market-candidate-information",
+  "n": 8,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Penn State University",
+  "status": "not_posted",
+  "url": "https://econ.la.psu.edu/ph-d-program/2025-2026-job-market-candidates/",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Princeton",
+  "status": "not_posted",
+  "url": "https://economics.princeton.edu/graduate-program/job-market-and-placements/",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Purdue University",
+  "status": "posted",
+  "url": "https://www.business.purdue.edu/academics/economics/job-market-candidates.php",
+  "n": 3,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Rice University",
+  "status": "not_posted",
+  "url": "https://economics.rice.edu/graduate-program/phd/job-market-candidates",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Rutgers University",
+  "status": "not_posted",
+  "url": "https://economics.rutgers.edu/job-market",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "SMU",
+  "status": "posted",
+  "url": "https://www.smu.edu/dedman/academics/departments/economics/graduate/phd/jobmarket",
+  "n": 1,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Stanford",
+  "status": "not_posted",
+  "url": "https://economics.stanford.edu/graduate/job-market-candidates",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Stony Brook University",
+  "status": "not_posted",
+  "url": "https://www.stonybrook.edu/commcms/economics/graduate/job-market-candidates.php",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Syracuse University",
+  "status": "posted",
+  "url": "https://www.maxwell.syr.edu/academics/economics-department/graduate-studies/ph-d-in-economics/ph-d-job-candidates",
+  "n": 7,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Texas A&M University",
+  "status": "posted",
+  "url": "https://artsci.tamu.edu/economics/contact/phd-job-market-candidates.html",
+  "n": 11,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "UBC",
+  "status": "posted",
+  "url": "https://economics.ubc.ca/people/phd-job-market-candidates/",
+  "n": 11,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "UC Berkeley",
+  "status": "not_posted",
+  "url": "https://econ.berkeley.edu/graduate/placement/job-market-candidates-phd",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "UC Davis",
+  "status": "posted",
+  "url": "https://economics.ucdavis.edu/people/on-the-job-market",
+  "n": 11,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "UChicago",
+  "status": "not_posted",
+  "url": "https://economics.uchicago.edu/people/2025-26-job-market-candidates",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "UCLA",
+  "status": "not_posted",
+  "url": "https://economics.ucla.edu/graduate/graduate-profiles/job-market-candidates/",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "UCSD",
+  "status": "posted",
+  "url": "https://economics.ucsd.edu/graduate-program/jobmarket-tab/index.html",
+  "n": 26,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "UMich",
+  "status": "posted",
+  "url": "https://lsa.umich.edu/econ/doctoral-program/current-job-market-candidates.html",
+  "n": 24,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Arizona",
+  "status": "posted",
+  "url": "https://eller.arizona.edu/programs/doctoral/economics/program/candidates",
+  "n": 7,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of California--Santa Cruz",
+  "status": "posted",
+  "url": "https://economics.ucsc.edu/department-updates/economics-phd-job-market-candidates-2026-27/",
+  "n": 5,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of California--Irvine",
+  "status": "not_posted",
+  "url": "https://www.economics.uci.edu/grad/jobmarket.php",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of California--Santa Barbara",
+  "status": "posted",
+  "url": "https://econ.ucsb.edu/programs/graduate/candidates",
+  "n": 14,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Colorado--Boulder",
+  "status": "not_posted",
+  "url": "https://www.colorado.edu/economics/graduate/job-market-candidates",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Georgia",
+  "status": "posted",
+  "url": "https://www.terry.uga.edu/phd/economics/job-candidates/",
+  "n": 7,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Illinois Urbana Champaign",
+  "status": "posted",
+  "url": "https://economics.illinois.edu/people/job-market-candidates",
+  "n": 7,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Iowa",
+  "status": "not_posted",
+  "url": "https://tippie.uiowa.edu/phd/job-market-candidates",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Maryland",
+  "status": "posted",
+  "url": "https://econ.umd.edu/graduate/job-market-candidates-2026-2027",
+  "n": 8,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Minnesota",
+  "status": "posted",
+  "url": "https://cla.umn.edu/economics/people/job-market-candidates",
+  "n": 12,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of North Carolina--Chapel Hill",
+  "status": "posted",
+  "url": "https://econ.unc.edu/job-market-candidates/",
+  "n": 11,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Notre Dame",
+  "status": "not_posted",
+  "url": "https://economics.nd.edu/graduate/students-on-the-job-market/",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Oregon",
+  "status": "posted",
+  "url": "https://socialsciences.uoregon.edu/economics/job-market",
+  "n": 8,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Pittsburgh",
+  "status": "posted",
+  "url": "https://www.econ.pitt.edu/people/phd-job-candidates",
+  "n": 3,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Rochester",
+  "status": "posted",
+  "url": "https://www.sas.rochester.edu/eco/graduate/job.html",
+  "n": 7,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Southern California",
+  "status": "posted",
+  "url": "https://dornsife.usc.edu/econ/doctoral/job-market-candidates/",
+  "n": 13,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Virginia",
+  "status": "not_posted",
+  "url": "https://economics.virginia.edu/job-market-candidates",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "University of Washington",
+  "status": "posted",
+  "url": "https://econ.washington.edu/people/graduate-student/job-market-candidate",
+  "n": 8,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "UoT",
+  "status": "not_posted",
+  "url": "https://www.economics.utoronto.ca/index.php/index/graduate/jobCandidates",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "UPenn",
+  "status": "not_posted",
+  "url": "https://economics.sas.upenn.edu/graduate/job-market-candidates",
+  "n": 0,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "UT Austin",
+  "status": "posted",
+  "url": "https://liberalarts.utexas.edu/economics/ph-d-program/job-market-candidates.html",
+  "n": 14,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "UW Madison",
+  "status": "posted",
+  "url": "https://econ.wisc.edu/doctoral/job-market-candidates/",
+  "n": 22,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Vanderbilt University",
+  "status": "posted",
+  "url": "https://as.vanderbilt.edu/economics/job-market-candidates/",
+  "n": 4,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Washington University in St. Louis",
+  "status": "posted",
+  "url": "https://economics.washu.edu/job-market-candidates",
+  "n": 6,
+  "checked": "2026-10-19"
+ },
+ {
+  "school": "Yale",
+  "status": "not_posted",
+  "url": "https://economics.yale.edu/phd-program/placement",
+  "n": 0,
+  "checked": "2026-10-19"
+ }
+]

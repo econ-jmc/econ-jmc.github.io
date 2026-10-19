@@ -23,10 +23,15 @@
       id: c.id, cycle: c.cycle, name: c.name, name_zh: c.name_zh, school: c.school, country: COUNTRY[c.region] || "Other",
       rank: c.rank, order: c.school_order, jmp: c.jmp, fields: c.fields || [], website: c.website, placement: c.placement,
       ptype: c.placement_type, pregion: PREGION[c.placement_region] || null, phd: c.phd_year, research: c.research, china: true,
+      education: c.education_en || [],
     })),
-    ...(D.global || []).map((g) => ({ ...g, ptype: g.placement_type, pregion: PREGION[g.placement_region] || null, order: 9999, research: null, china: false })),
+    ...(D.global || []).map((g) => ({ ...g, ptype: g.placement_type, pregion: PREGION[g.placement_region] || null, phd: g.phd_year,
+      order: 9999, research: null, china: false })),
   ];
-  for (const c of ALL) c.skey = c.country + "|" + c.school;
+  for (const c of ALL) {
+    c.skey = c.country + "|" + c.school;
+    c.undergrad = (c.education.find((e) => /^b\.?\s?[a-z]|bachelor|^ll\.?b|^b[a-z]{0,3}/i.test(e.degree)) || {}).school || "";
+  }
   const BYID = new Map(ALL.map((c) => [c.id, c]));
 
   // schools per cycle in source order (China JMC lists schools with no candidates too), then schools only in global data
@@ -111,7 +116,7 @@
     if (ign !== "q" && S.q) {
       const r = c.research;
       const papers = r ? [...r.publications, ...r.rr, ...r.wp].map((p) => p.title + " " + (p.venue || "") + " " + (p.authors || "")) : [];
-      const hay = [c.name, c.school, c.jmp, c.placement, ...c.fields, ...papers].join(" ").toLowerCase();
+      const hay = [c.name, c.school, c.jmp, c.placement, ...c.fields, ...c.education.map((e) => e.school + " " + e.degree), ...papers].join(" ").toLowerCase();
       if (!hay.includes(S.q.toLowerCase())) return false;
     }
     return true;
@@ -132,9 +137,10 @@
   function candRow(c) {
     const site = c.website ? `<a class="site" href="${esc(c.website)}" target="_blank" rel="noopener" title="${esc(c.website)}">Website ↗</a>` : "";
     const meta = [c.phd ? `PhD ${c.phd}` : "", cycle === "all" ? c.cycle : ""].filter(Boolean).join(" · ");
+    const ug = c.undergrad ? `<span class="meta ug" title="Undergraduate">BA · ${esc(c.undergrad)}</span>` : "";
     return `<tr class="cand" data-id="${esc(c.id)}">
       <td class="name"><a class="nm" href="#/c/${encodeURIComponent(c.id)}">${esc(c.name)}</a>
-        <span class="meta">${meta}${meta && site ? " · " : ""}${site}</span>${resCounts(c)}</td>
+        <span class="meta">${meta}${meta && site ? " · " : ""}${site}</span>${ug}${resCounts(c)}</td>
       <td class="school"><span class="rank">${c.rank ? "#" + c.rank : ""}</span>${esc(c.school)}</td>
       <td class="jmp">${c.jmp ? `<span class="jt">${esc(c.jmp)}</span>` : `<span class="none">–</span>`}</td>
       <td class="fields">${fieldsHtml(c)}</td>
@@ -188,7 +194,7 @@
       </section>
       <section class="controls">
         <div class="row">
-          <input id="q" type="search" placeholder="Search name, school, job market paper, publications …" autocomplete="off" value="${esc(S.q)}">
+          <input id="q" type="search" placeholder="Search name, school, job market paper, education, publications …" autocomplete="off" value="${esc(S.q)}">
           <select id="country">${opt("", "All countries", S.country)}${countries.map((x) => opt(x, `${x} (${pool.filter((c) => c.country === x && match(c, "country")).length})`, S.country)).join("")}</select>
           <select id="school">${opt("", "All PhD programs", S.school)}${schools.map((k) => {
             const s = SCHOOLS.find((x) => x.key === k);
@@ -261,6 +267,8 @@
         <dl class="facts">
           <div><dt>Job market paper</dt><dd>${c.jmp ? `<span class="jt">${esc(c.jmp).replace(/ \| /g, "<br>")}</span>` : `<span class="none">–</span>`}</dd></div>
           <div><dt>Fields</dt><dd class="fields">${c.fields.length ? c.fields.map((f) => `<a href="#/?cycle=${c.cycle}&fields=${encodeURIComponent(f)}">${esc(f)}</a>`).join(" · ") : `<span class="none">–</span>`}</dd></div>
+          <div><dt>Education</dt><dd>${c.education.length ? `<ul class="edu">${c.education.map((e) =>
+            `<li><span class="yr">${e.year || ""}</span><span>${esc(e.degree)}${e.school ? `, <b>${esc(e.school)}</b>` : ""}</span></li>`).join("")}</ul>` : `<span class="none">–</span>`}</dd></div>
           <div><dt>Placement</dt><dd class="place">${placeHtml(c)}${c.pregion ? `<span class="txt muted">${esc(c.pregion)}</span>` : ""}</dd></div>
         </dl>
         ${r ? `<div class="research"><h4>Research</h4>${groups || `<p class="none">No papers listed on the website.</p>`}

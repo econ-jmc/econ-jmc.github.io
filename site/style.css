@@ -266,3 +266,8 @@ table.inst tr.clk:hover td { background: color-mix(in oklab, var(--tag) 70%, var
   table.inst thead { display: table-header-group; }
   table.inst, table.inst tbody, table.inst tr, table.inst td, table.inst th { display: revert; width: auto; }
 }
+td.name .meta.ug { margin-top: 1px; }
+.edu { list-style: none; margin: 0; padding: 0; }
+.edu li { display: grid; grid-template-columns: 44px 1fr; gap: 8px; margin: 0 0 3px; }
+.edu .yr { color: var(--muted); font-variant-numeric: tabular-nums; }
+.edu b { font-weight: 600; }
