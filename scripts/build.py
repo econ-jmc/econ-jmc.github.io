@@ -516,6 +516,9 @@ def main() -> int:
     global_candidates = load_global(all_candidates, known_fields, region_map, inst_map, warnings)
     for w in warnings[n_warn:]:
         print("   " + w)
+    for g in global_candidates:  # papers from research.json, same key format as China JMC
+        r = research.get(f"{g['cycle']}|{g['school']}|{g['name']}")
+        g["research"] = {k: r.get(k) or [] for k in ("publications", "rr", "wp")} | {"source": r.get("source"), "checked": r.get("checked")} if r else None
     for g in global_candidates:
         if g["cycle"] not in cycles:
             cycles.append(g["cycle"])

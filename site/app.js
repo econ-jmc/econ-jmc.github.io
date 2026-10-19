@@ -17,16 +17,21 @@
     "加拿大": "Canada", "欧洲": "Europe", "其他": "Other", "美国": "United States" };
   const PLACE_LABEL = { "Faculty": "Faculty", "Non-tenure-track": "Non-tenure-track", "Postdoc": "Postdoc", "Industry & Other": "Industry & other", "Deferred": "Deferred" };
 
+  // the English directory covers only cycles with full lists in data/global; earlier cycles (China JMC only) stay in china/
+  const CYCLES = [...new Set((D.global || []).map((g) => g.cycle))].sort().reverse();
+  if (!CYCLES.length) CYCLES.push(D.cycles[0]);
+  const inScope = (x) => CYCLES.includes(x.cycle);
+
   // one English record per candidate, whatever the source
   const ALL = [
-    ...D.candidates.map((c) => ({
+    ...D.candidates.filter(inScope).map((c) => ({
       id: c.id, cycle: c.cycle, name: c.name, name_zh: c.name_zh, school: c.school, country: COUNTRY[c.region] || "Other",
       rank: c.rank, order: c.school_order, jmp: c.jmp, fields: c.fields || [], website: c.website, placement: c.placement,
       ptype: c.placement_type, pregion: PREGION[c.placement_region] || null, phd: c.phd_year, research: c.research, china: true,
       education: c.education_en || [],
     })),
     ...(D.global || []).map((g) => ({ ...g, ptype: g.placement_type, pregion: PREGION[g.placement_region] || null, phd: g.phd_year,
-      order: 9999, research: null, china: false })),
+      order: 9999, china: false })),
   ];
   for (const c of ALL) {
     c.skey = c.country + "|" + c.school;
@@ -43,7 +48,7 @@
     seenSchool.add(k);
     SCHOOLS.push({ cycle, name, country, rank, order, key: country + "|" + name });
   };
-  for (const s of D.schools) addSchool(s.cycle, s.name, COUNTRY[s.region] || "Other", s.rank, s.order);
+  for (const s of D.schools.filter(inScope)) addSchool(s.cycle, s.name, COUNTRY[s.region] || "Other", s.rank, s.order);
   for (const c of ALL) addSchool(c.cycle, c.school, c.country, c.rank, c.order);
   // a school's position comes from the school list, so its China JMC and global candidates sort into one group
   const SORDER = new Map(SCHOOLS.map((s) => [s.cycle + "|" + s.key, s.order]));
@@ -78,11 +83,11 @@
   function setNav(v) { document.querySelectorAll("#nav a[data-view]").forEach((a) => a.classList.toggle("active", a.dataset.view === v)); }
 
   // cycle tabs are shared by the candidate, institution and field views
-  let cycle = D.cycles[0];
+  let cycle = CYCLES[0];
   function renderTabs(show, onPick) {
     tabsEl.hidden = !show;
     if (!show) return;
-    tabsEl.innerHTML = [...D.cycles, "all"].map((c) =>
+    tabsEl.innerHTML = [...CYCLES, ...(CYCLES.length > 1 ? ["all"] : [])].map((c) =>
       `<button type="button" data-cycle="${c}" class="${cycle === c ? "active" : ""}">${c === "all" ? "All cycles" : c}</button>`).join("");
     tabsEl.onclick = (e) => { const b = e.target.closest("button[data-cycle]"); if (b) { cycle = b.dataset.cycle; onPick(); } };
   }
@@ -90,7 +95,7 @@
 
   function render() {
     const { parts, q } = route();
-    if (q.has("cycle") && (D.cycles.includes(q.get("cycle")) || q.get("cycle") === "all")) cycle = q.get("cycle");
+    if (q.has("cycle") && (CYCLES.includes(q.get("cycle")) || (CYCLES.length > 1 && q.get("cycle") === "all"))) cycle = q.get("cycle");
     const v = parts[0] || "";
     if (v === "c") return renderProfile(decodeURIComponent(parts.slice(1).join("/")));
     if (v === "institutions") return renderInstitutions();
@@ -107,7 +112,7 @@
     S.fields = new Set((q.get("fields") || "").split(",").filter(Boolean));
   }
   function writeS() {
-    setQuery("/", { cycle: cycle !== D.cycles[0] ? cycle : "", q: S.q, country: S.country, school: S.school, placement: S.placement,
+    setQuery("/", { cycle: cycle !== CYCLES[0] ? cycle : "", q: S.q, country: S.country, school: S.school, placement: S.placement,
       sort: S.sort !== "rank" ? S.sort : "", group: S.group ? "" : "0", fields: [...S.fields].join(",") });
   }
   function match(c, ign) {
@@ -300,15 +305,16 @@
       const cs = ALL.filter((c) => c.skey === k);
       const placed = cs.filter((c) => c.placement);
       return { s: info.get(k), cs, placed, fac: placed.filter((c) => c.ptype === "Faculty").length };
-    }).sort((a, b) => cmpSchool({ ...a.s, school: a.s.name }, { ...b.s, school: b.s.name }));
+    }).filter((r) => r.cs.length)  // programs that have not posted a list yet have no row
+      .sort((a, b) => cmpSchool({ ...a.s, school: a.s.name }, { ...b.s, school: b.s.name }));
     app.innerHTML = `
       <h2 class="view-h">PhD programs</h2>
       <p class="intro">Candidates on the market from each program, by cycle. Click a program to list its candidates.</p>
       <section class="table-wrap"><table class="inst">
-        <thead><tr><th class="num">#</th><th>Program</th><th>Country</th>${D.cycles.map((y) => `<th class="num">${y}</th>`).join("")}<th class="num">Total</th><th class="num">Known placements</th><th class="num">Faculty</th></tr></thead>
+        <thead><tr><th class="num">#</th><th>Program</th><th>Country</th>${CYCLES.map((y) => `<th class="num">${y}</th>`).join("")}<th class="num">Total</th><th class="num">Known placements</th><th class="num">Faculty</th></tr></thead>
         <tbody>${rows.map(({ s, cs, placed, fac }) => `<tr class="clk" data-key="${esc(s.key)}">
           <td class="num rank">${s.rank ?? ""}</td><td><a href="#/?cycle=all&school=${encodeURIComponent(s.key)}"><b>${esc(s.name)}</b></a></td><td class="muted">${esc(s.country)}</td>
-          ${D.cycles.map((y) => { const n = cs.filter((c) => c.cycle === y).length; return `<td class="num">${n || `<span class="none">·</span>`}</td>`; }).join("")}
+          ${CYCLES.map((y) => { const n = cs.filter((c) => c.cycle === y).length; return `<td class="num">${n || `<span class="none">·</span>`}</td>`; }).join("")}
           <td class="num"><b>${cs.length}</b></td><td class="num">${placed.length}</td><td class="num">${placed.length ? fac + ` <span class="muted">(${Math.round(100 * fac / placed.length)}%)</span>` : ""}</td></tr>`).join("")}</tbody>
       </table></section>`;
     app.querySelectorAll("tr.clk").forEach((tr) => tr.onclick = (e) => { if (!e.target.closest("a")) location.hash = "#/?cycle=all&school=" + encodeURIComponent(tr.dataset.key); });
@@ -317,7 +323,7 @@
   // ------------------------------------------------------------ fields ----
   function renderFields() {
     setNav("fields");
-    renderTabs(true, () => { setQuery("/fields", { cycle: cycle !== D.cycles[0] ? cycle : "" }); renderFields(); });
+    renderTabs(true, () => { setQuery("/fields", { cycle: cycle !== CYCLES[0] ? cycle : "" }); renderFields(); });
     const pool = ALL.filter(inCycle);
     const cnt = (f, list) => list.filter((c) => c.fields.includes(f)).length;
     const cats = D.field_categories.slice().sort((a, b) => cnt(b, pool) - cnt(a, pool));
@@ -341,12 +347,13 @@
     setNav("about");
     renderTabs(false);
     const nCn = D.candidates.length, nG = (D.global || []).length;
+    const span = (a) => a.length > 1 ? `${a.length} job market cycles (${a.slice().reverse().join(", ")})` : `the ${a[0]} job market cycle`;
     app.innerHTML = `
       <article class="about">
         <h2 class="view-h">About Econ JMC</h2>
-        <p><b>Econ JMC</b> is an open, community-maintained directory of economics PhD job market candidates: where they trained, their job market papers and fields, their research, and where they were placed. It currently lists <b>${ALL.length}</b> candidates from ${D.cycles.length} job market cycles (${D.cycles.slice().reverse().join(", ")}).</p>
+        <p><b>Econ JMC</b> is an open, community-maintained directory of economics PhD job market candidates: where they trained, their job market papers and fields, their research, and where they were placed. It currently lists <b>${ALL.length}</b> candidates from ${span(CYCLES)}: every candidate listed on the job market pages of the economics departments covered.</p>
         <h3>Coverage</h3>
-        <p>The directory started from <a href="china/" lang="zh-CN">China JMC</a> (${nCn} candidates): economics PhD candidates from mainland China at US and Canadian programs, compiled in Chinese every cycle since 2024. We are expanding it to <b>all</b> economics job market candidates${nG ? ` (${nG} more so far)` : ""}. Coverage of other candidates is still partial, so counts on this site are not yet representative of the whole market.</p>
+        <p>The directory started from <a href="china/" lang="zh-CN">China JMC</a> (${nCn} candidates): economics PhD candidates from mainland China at US and Canadian programs, compiled in Chinese every cycle since 2024. From 2026-2027 on it covers <b>all</b> candidates of each program; earlier cycles, which list only China JMC candidates, are in <a href="china/" lang="zh-CN">China JMC</a>. Programs are added as they post their candidate lists, so counts are not yet complete for the current cycle.</p>
         <h3>China JMC · 中国经济学博士求职者名录</h3>
         <p>The original Chinese-language directory, with candidate bios, education and a placement statistics report, continues as its own module: <a href="china/">China JMC</a> · <a href="china/stats.html">placement statistics</a>.</p>
         <h3>Contributing</h3>

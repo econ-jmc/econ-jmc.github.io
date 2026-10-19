@@ -4,7 +4,8 @@ Download each candidate's homepage (plus same-site Research / Papers / CV-like
 subpages) and save the visible text to cache/pages/<key>.txt, for building
 data/research.json.
 
-Usage:  python scripts/fetch_homepages.py [--cycle 2026-2027] [--force]
+Usage:  python scripts/fetch_homepages.py [--cycle 2026-2027] [--global] [--force]
+        --global: candidates from data/global/*.csv (site/data.json "global") instead of China JMC
 Requires site/data.json (run scripts/build.py first).
 """
 from __future__ import annotations
@@ -94,7 +95,8 @@ def main() -> int:
     force = "--force" in sys.argv
     cyc = sys.argv[sys.argv.index("--cycle") + 1] if "--cycle" in sys.argv else None
     data = json.loads((ROOT / "site" / "data.json").read_text(encoding="utf-8"))
-    cands = [c for c in data["candidates"] if c.get("website") and (not cyc or c["cycle"] == cyc)]
+    pool = data.get("global", []) if "--global" in sys.argv else data["candidates"]
+    cands = [c for c in pool if c.get("website") and (not cyc or c["cycle"] == cyc)]
     CACHE.mkdir(parents=True, exist_ok=True)
     index = {}
     with cf.ThreadPoolExecutor(12) as ex:
@@ -104,7 +106,7 @@ def main() -> int:
             key, status = f.result()
             index[key] = {"file": file_stem(key) + ".txt", "url": c["website"], "status": status}
             print(f"{status:14s} {key}")
-    (CACHE.parent / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
+    (CACHE.parent / ("index_global.json" if "--global" in sys.argv else "index.json")).write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"\n{len(cands)} candidates; failed: {sum(1 for v in index.values() if v['status'] == 'failed')}")
     return 0
 
