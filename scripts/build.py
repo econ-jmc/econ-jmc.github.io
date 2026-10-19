@@ -34,6 +34,10 @@ INDUSTRY_MAP_FILE = DATA_DIR / "industry.json"
 # papers scraped from candidates' homepages, keyed by "cycle|school|name"
 # (built by scripts/fetch_homepages.py + manual review; editable by hand)
 RESEARCH_FILE = DATA_DIR / "research.json"
+# English directory of all job market candidates: data/global/<cycle>.csv (see data/global/_template.csv).
+# Rows that match a China JMC candidate (same cycle, school and name) only fill in / correct that entry.
+GLOBAL_DIR = DATA_DIR / "global"
+GLOBAL_COLS = ["name", "school", "country", "school_rank", "jmp", "fields", "website", "placement"]
 
 # ---------------------------------------------------------------- regexes ---
 RE_REGION = re.compile(r"^#{1,6}\s*(.+?)\s*$")
@@ -349,6 +353,64 @@ def parse_file(path: Path, field_map: list[tuple[str, str]], region_map: Keyword
     return {"cycle": cycle, "schools": schools, "candidates": candidates}
 
 
+def norm(s: str | None) -> str:
+    return re.sub(r"\s+", " ", (s or "").strip()).lower()
+
+
+def load_global(cn_candidates: list[dict], known_fields: set[str], region_map: KeywordMap, inst_map: KeywordMap,
+                warnings: list[str]) -> list[dict]:
+    """Read data/global/<cycle>.csv. Returns the rows that are not already China JMC candidates."""
+    import csv
+    by_key = {(c["cycle"], norm(c["school"]), norm(c["name"])): c for c in cn_candidates}
+    out: list[dict] = []
+    used_ids = {c["id"] for c in cn_candidates}
+    for f in sorted(GLOBAL_DIR.glob("*.csv")) if GLOBAL_DIR.exists() else []:
+        if f.name.startswith("_"):
+            continue
+        cycle = f.stem
+        with f.open(encoding="utf-8-sig", newline="") as fh:
+            rows = list(csv.DictReader(fh))
+        n_new = 0
+        for i, r in enumerate(rows, 2):
+            r = {k: (r.get(k) or "").strip() for k in GLOBAL_COLS}
+            if not r["name"] or not r["school"]:
+                warnings.append(f"global/{f.name}: line {i}: name and school are required")
+                continue
+            fields = [x.strip() for x in re.split(r"[;,]", r["fields"]) if x.strip()]
+            for x in fields:
+                if x not in known_fields:
+                    warnings.append(f"global/{f.name}: line {i}: unknown field category: {x}")
+            fields = [x for x in fields if x in known_fields]
+            website = r["website"] if re.match(r"https?://", r["website"]) else None
+            cn = by_key.get((cycle, norm(r["school"]), norm(r["name"])))
+            if cn is not None:  # already in the China JMC data: fill gaps only
+                cn["jmp"] = cn["jmp"] or r["jmp"] or None
+                cn["website"] = cn["website"] or website
+                if fields and not cn["fields"]:
+                    cn["fields"] = fields
+                continue
+            placement = r["placement"] or None
+            ptype = classify_placement(placement)
+            academic = ptype in ("Faculty", "Non-tenure-track")
+            slug = re.sub(r"[^a-z0-9]+", "-", r["name"].lower()).strip("-")
+            cid = f"{cycle}/{slug}"
+            if cid in used_ids:
+                cid += "-" + re.sub(r"[^a-z0-9]+", "-", r["school"].lower()).strip("-")
+            used_ids.add(cid)
+            out.append({
+                "id": cid, "cycle": cycle, "name": r["name"], "school": r["school"],
+                "country": r["country"] or "United States",
+                "rank": int(r["school_rank"]) if r["school_rank"].isdigit() else None,
+                "jmp": r["jmp"] or None, "fields": fields, "website": website,
+                "placement": placement, "placement_type": ptype,
+                "placement_region": match_destination(placement, region_map) if academic or ptype == "Postdoc" else None,
+                "placement_inst": match_destination(placement, inst_map) if academic else None,
+            })
+            n_new += 1
+        print(f"global/{f.name}: {len(rows)} rows, {n_new} new candidates")
+    return out
+
+
 def main() -> int:
     check_only = "--check" in sys.argv
     field_map = load_field_map()
@@ -416,6 +478,15 @@ def main() -> int:
         for w in warnings:
             print("   " + w)
 
+    known_fields = set(json.loads(FIELD_MAP_FILE.read_text(encoding="utf-8"))["categories"].keys())
+    n_warn = len(warnings)
+    global_candidates = load_global(all_candidates, known_fields, region_map, inst_map, warnings)
+    for w in warnings[n_warn:]:
+        print("   " + w)
+    for g in global_candidates:
+        if g["cycle"] not in cycles:
+            cycles.append(g["cycle"])
+
     if check_only:
         return 0
 
@@ -426,6 +497,8 @@ def main() -> int:
         "placement_regions": [region for region, _ in region_map],
         "schools": all_schools,
         "candidates": all_candidates,
+        # English directory: candidates from data/global/*.csv that are not in the China JMC data above
+        "global": global_candidates,
     }
     SITE_DIR.mkdir(parents=True, exist_ok=True)
     out = SITE_DIR / "data.js"

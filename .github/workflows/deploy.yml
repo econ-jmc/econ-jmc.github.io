@@ -29,8 +29,8 @@ jobs:
       - name: Stamp asset URLs with the commit so browsers fetch fresh CSS/JS
         run: |
           v="${GITHUB_SHA::8}"
-          sed -i -E "s/(href|src)=\"([a-z]+\.(css|js))\"/\1=\"\2?v=$v\"/g" site/*.html
-          grep -ho '\(href\|src\)="[a-z]*\.\(css\|js\)?v=[0-9a-f]*"' site/*.html | sort -u
+          sed -i -E "s#(href|src)=\"((\.\./)?[a-z]+\.(css|js))\"#\1=\"\2?v=$v\"#g" site/*.html site/china/*.html
+          grep -ho '\(href\|src\)="[a-z./]*\.\(css\|js\)?v=[0-9a-f]*"' site/*.html site/china/*.html | sort -u
       - name: Upload site artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3

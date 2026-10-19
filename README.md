@@ -1,4 +1,19 @@
-# Chinese Econ JMC · 中国经济学博士 Job Market Candidates 名录
+# Econ JMC · Economics PhD Job Market Candidates
+
+网站：<https://econ-jmc.github.io/>（英文主站，目标是收录所有经济学 JMC）· 中文模块 China JMC：<https://econ-jmc.github.io/china/>
+
+## 结构
+
+- `site/index.html` + `site/app.js`：英文主站（Candidates / Institutions / Fields / About，hash 路由，如 `#/c/2024-2025/xiangyu-shi`）。
+- `site/china/`：中文 China JMC 模块（原中文名录 + 统计页），与主站共用 `site/style.css`、`site/theme.js`、`site/data.js`。
+- 数据：
+  - `data/<周期>.md`：China JMC 数据（中文 markdown，格式见下）。
+  - `data/global/<周期>.csv`：其他所有候选人（英文），列为 `name,school,country,school_rank,jmp,fields,website,placement`，模板见 `data/global/_template.csv`。`fields` 用分号分隔、取 `data/fields.json` 里的类别名；`school` 请沿用 md 里的院校简称（如 `UPenn`、`UoT`）。与 China JMC 中同周期、同院校、同姓名的行只用于补全该条目，不会重复。
+- `scripts/build.py` 把两类数据合成 `site/data.js`（`candidates` = China JMC，`global` = CSV 新增）。
+
+---
+
+## China JMC · 中国经济学博士 Job Market Candidates 名录
 
 一个按年度更新、可多人共同维护的静态网站，收录**美国和加拿大院校**中来自中国大陆的经济学博士 Job Market Candidates 信息（院校、研究领域、JMP、个人主页、去向）。灵感来自 [econ.now/jmc](https://econ.now/jmc/2025)。
 
@@ -20,14 +35,14 @@ python -m http.server 8000 -d site
 
 ## 二、发布到 GitHub Pages（只需做一次）
 
-1. 在 GitHub 新建一个仓库（本项目使用组织 `chinese-econ-jmc` 下的仓库 `chinese-econ-jmc.github.io`，这样网址就是组织名根域）。
+1. 在 GitHub 新建一个仓库（本项目使用组织 `econ-jmc`（原名 `chinese-econ-jmc`） 下的仓库 `econ-jmc.github.io`，这样网址就是组织名根域）。
 2. 在本地推送：
    ```bash
-   git remote add origin https://github.com/chinese-econ-jmc/chinese-econ-jmc.github.io.git
+   git remote add origin https://github.com/econ-jmc/econ-jmc.github.io.git
    git push -u origin main
    ```
 3. 仓库 **Settings → Pages → Build and deployment → Source** 选 **GitHub Actions**。
-4. 等 Actions 跑完（约 1 分钟），网站地址是 `https://chinese-econ-jmc.github.io/`。
+4. 等 Actions 跑完（约 1 分钟），网站地址是 `https://econ-jmc.github.io/`。
 5. 把 `site/app.js` 顶部 `CONFIG.repoUrl` 改成你的仓库地址，页脚的"补充 / 纠错"链接和条目里的"编辑此条目"链接就会指向仓库。
 
 之后每次 `data/` 有改动并推送到 `main`，网站会自动重新构建。

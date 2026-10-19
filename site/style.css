@@ -208,3 +208,61 @@ td.name .rc i { width: 6px; height: 6px; border-radius: 50%; background: current
 .theme-switch button { font: inherit; font-size: 12px; border: none; background: none; color: var(--muted); padding: 2px 10px; border-radius: 999px; cursor: pointer; }
 .theme-switch button:hover { color: var(--text); }
 .theme-switch button.active { background: var(--tag); color: var(--text); font-weight: 600; }
+
+/* ---- English site (index.html): views beyond the candidate table ---- */
+.brand h1 a.home { color: inherit; text-decoration: none; }
+.pages a.cn { border-style: dashed; }
+.cycles[hidden] { display: none; }
+.crumb { margin: 22px 0 0; color: var(--muted); font-size: 13px; }
+.view-h { margin: 28px 0 4px; font-family: var(--serif); font-size: 24px; font-weight: 600; }
+.intro { margin: 0 0 18px; color: var(--muted); font-size: 14px; }
+.muted { color: var(--muted); }
+td.name a.nm { color: var(--text); }
+td.name a.nm:hover { color: var(--accent); text-decoration: none; }
+
+/* candidate profile */
+.profile { margin: 10px 0 40px; padding-top: 16px; border-top: 2px solid var(--text); }
+.profile h2 { margin: 0; font-family: var(--serif); font-size: 30px; font-weight: 600; line-height: 1.2; }
+.profile .sub { margin: 6px 0 18px; color: var(--muted); font-size: 14px; }
+.profile .sub .rank { font-family: var(--serif); }
+.facts { margin: 0 0 18px; border-top: 1px solid var(--line); }
+.facts > div { display: grid; grid-template-columns: 170px 1fr; gap: 16px; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.facts dt { font-size: 11.5px; font-weight: 600; letter-spacing: .06em; color: var(--muted); padding-top: 3px; }
+.facts dd { margin: 0; font-size: 14px; }
+.facts .jt { font-family: var(--serif); font-size: 17px; line-height: 1.45; }
+.facts .place .txt { display: block; font-size: 14px; margin-top: 2px; }
+.profile .research { border-top: none; padding-top: 0; }
+.profile > .src { color: var(--muted); font-size: 12.5px; margin-top: 18px; }
+
+/* institutions table */
+table.inst td, table.inst th { padding: 8px 10px; }
+table.inst thead th { white-space: nowrap; }
+table.inst td { border-bottom: 1px solid color-mix(in oklab, var(--line) 70%, var(--panel)); font-size: 14px; }
+table.inst .num { text-align: right; font-variant-numeric: tabular-nums; }
+table.inst td.rank { color: var(--muted); font-family: var(--serif); }
+table.inst td a { color: var(--text); }
+table.inst tr.clk { cursor: pointer; }
+table.inst tr.clk:hover td { background: color-mix(in oklab, var(--tag) 70%, var(--panel)); }
+
+/* field grid */
+.fgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 0 28px; margin-bottom: 40px; border-top: 1.5px solid var(--text); }
+.fcell { display: grid; grid-template-columns: 1fr auto; gap: 4px 10px; padding: 12px 0; border-bottom: 1px solid var(--line); color: var(--text); }
+.fcell:hover { text-decoration: none; }
+.fcell:hover .fn { color: var(--accent); }
+.fcell .fn { font-family: var(--serif); font-size: 17px; font-weight: 600; }
+.fcell .c { font-family: var(--serif); font-size: 17px; font-variant-numeric: tabular-nums; }
+.fcell .bar { grid-column: 1 / -1; height: 4px; background: var(--tag); border-radius: 2px; overflow: hidden; }
+.fcell .bar i { display: block; height: 100%; background: var(--accent); opacity: .75; }
+.fcell .fs { grid-column: 1 / -1; color: var(--muted); font-size: 12px; }
+
+/* about */
+.about { max-width: 46em; margin-bottom: 40px; font-size: 15px; line-height: 1.7; }
+.about h3 { margin: 24px 0 4px; font-family: var(--serif); font-size: 18px; font-weight: 600; }
+.about p { margin: 0 0 10px; }
+.about code { font-size: 13px; background: var(--tag); padding: 1px 5px; border-radius: 3px; }
+
+@media (max-width: 760px) {
+  .facts > div { grid-template-columns: 1fr; gap: 4px; }
+  table.inst thead { display: table-header-group; }
+  table.inst, table.inst tbody, table.inst tr, table.inst td, table.inst th { display: revert; width: auto; }
+}
