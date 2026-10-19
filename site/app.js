@@ -45,6 +45,12 @@
   };
   for (const s of D.schools) addSchool(s.cycle, s.name, COUNTRY[s.region] || "Other", s.rank, s.order);
   for (const c of ALL) addSchool(c.cycle, c.school, c.country, c.rank, c.order);
+  // a school's position comes from the school list, so its China JMC and global candidates sort into one group
+  const SORDER = new Map(SCHOOLS.map((s) => [s.cycle + "|" + s.key, s.order]));
+  for (const c of ALL) c.order = SORDER.get(c.cycle + "|" + c.skey) ?? c.order;
+  // across cycles a school keeps the rank and position of its latest cycle (SCHOOLS runs oldest cycle first)
+  const LATEST = new Map();
+  for (const s of SCHOOLS) LATEST.set(s.key, { rank: s.rank, order: s.order });
 
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const opt = (v, label, sel) => `<option value="${esc(v)}" ${String(sel) === String(v) ? "selected" : ""}>${esc(label)}</option>`;
@@ -153,9 +159,13 @@
     renderTabs(true, () => { S.school = ""; writeS(); renderCandidates(route().q); });
     const pool = ALL.filter(inCycle);
     const list = pool.filter((c) => match(c));
-    list.sort(S.sort === "name" ? (a, b) => byName(a, b) || cmpSchool(a, b)
+    // "All cycles": one group per school (latest rank / position), newest cycle first inside it
+    const bySchool = cycle === "all"
+      ? (a, b) => cmpSchool({ ...a, ...LATEST.get(a.skey) }, { ...b, ...LATEST.get(b.skey) }) || b.cycle.localeCompare(a.cycle)
+      : cmpSchool;
+    list.sort(S.sort === "name" ? (a, b) => byName(a, b) || bySchool(a, b)
       : S.sort === "school" ? (a, b) => a.school.localeCompare(b.school) || byName(a, b)
-      : (a, b) => cmpSchool(a, b) || byName(a, b));
+      : (a, b) => bySchool(a, b) || byName(a, b));
     const grouped = S.group && S.sort === "rank";
 
     const placed = list.filter((c) => c.placement);
@@ -174,10 +184,12 @@
     if (grouped) {
       let last = null;
       for (const c of list) {
-        const k = c.cycle + "|" + c.skey;
+        const gk = (x) => (cycle === "all" ? "" : x.cycle + "|") + x.skey;
+        const k = gk(c);
         if (k !== last) {
-          const nIn = list.filter((x) => x.cycle + "|" + x.skey === k).length;
-          rows += `<tr class="group"><th colspan="5"><span class="rank">${c.rank ? "#" + c.rank : ""}</span><span class="sn">${esc(c.school)}</span>${c.country !== "United States" ? `<span class="zh">${esc(c.country)}</span>` : ""}${cycle === "all" ? `<span class="zh">${c.cycle}</span>` : ""}<span class="n">${nIn}</span></th></tr>`;
+          const nIn = list.filter((x) => gk(x) === k).length;
+          const rank = cycle === "all" ? LATEST.get(c.skey).rank : c.rank;
+          rows += `<tr class="group"><th colspan="5"><span class="rank">${rank ? "#" + rank : ""}</span><span class="sn">${esc(c.school)}</span>${c.country !== "United States" ? `<span class="zh">${esc(c.country)}</span>` : ""}<span class="n">${nIn}</span></th></tr>`;
           last = k;
         }
         rows += candRow(c);
