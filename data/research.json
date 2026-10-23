@@ -30626,5 +30626,674 @@
     "url": null
    }
   ]
+ },
+ "2026-2027|Stanford|Shelby Buckman": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/shelbybuckman (CV: https://drive.google.com/file/d/1ctdcxY_IixPlHKNvI6m-zCV2rNRgjgSc/view)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Economic Gains from Equity",
+    "authors": "Laura Choi, Mary C. Daly, Lily Seitelman",
+    "venue": "Brookings Papers on Economic Activity",
+    "year": 2022,
+    "note": null,
+    "url": "https://www.brookings.edu/wp-content/uploads/2021/09/15985-BPEA-BPEA-FA21_WEB_Buckman-et-al.pdf"
+   },
+   {
+    "title": "Replicating and Projecting the Path of COVID-19 with a Model-Implied Reproduction Number",
+    "authors": "Reuven Glick, Kevin Lansing, Nicolas Petrosky-Nadeau, Lily Seitelman",
+    "venue": "Infectious Disease Modelling",
+    "year": 2020,
+    "note": null,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7453227/pdf/main.pdf"
+   }
+  ],
+  "rr": [
+   {
+    "title": "The New Geography of Labor Markets",
+    "authors": "Mert Akan, Jose Maria Barrero, Nick Bloom, Tom Bowen, Steve Davis, Hyoseul Kim",
+    "venue": "Economic Journal",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": "https://www.nber.org/system/files/working_papers/w33508/w33508.pdf"
+   },
+   {
+    "title": "Measuring Work from Home",
+    "authors": "Jose Maria Barrero, Nick Bloom, Steve Davis",
+    "venue": "Journal of Human Resources",
+    "year": null,
+    "note": "Reject & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Should I Stay or Should I Go? Coworker Promotions and Turnover",
+    "authors": "Lily Seitelman, Tom Bowen",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://www.nber.org/system/files/working_papers/w33582/w33582.pdf"
+   },
+   {
+    "title": "The Gendered Effects of Work-from-Home on Spousal Labor Market Outcomes",
+    "authors": "Lily M. Seitelman",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Big India vs Big U.S.",
+    "authors": "Mert Akan, Nick Bloom, Pete Klenow, Megha Patnaik",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Unemployment and long-run EPOP",
+    "authors": "Huiyu Li, Nicolas Petrosky-Nadeau",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Stanford|Alvaro Calderon": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/alvarocalderon/ (CV: Dropbox cv_2026sep.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Racial Diversity and Racial Policy Preferences: The Great Migration and Civil Rights",
+    "authors": "Vasiliki Fouka, Marco Tabellini",
+    "venue": "Review of Economic Studies",
+    "year": 2023,
+    "note": null,
+    "url": "https://doi.org/10.1093/restud/rdac026"
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Does Access to International Markets Increase Conflict? Evidence from Peru",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Enduring Effects of Disenfranchisement: Evidence from Nineteenth-Century Peru",
+    "authors": "Christopher Carter",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Land Demarcation under Weak State Capacity: The Effect of Peasant Communities on Agricultural Development",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Highway Blockades",
+    "authors": "Hiroshi Toma",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Stanford|Rafael Costa Berriel Abreu": {
+  "status": "ok",
+  "source": "https://www.rafaelberriel.com/research (CV: Dropbox R-sum-_v2-5.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Fiscal Federalism and Monetary Unions",
+    "authors": "Eugenia Gonzalez-Aguado, Elena Pastorino, Patrick J. Kehoe",
+    "venue": "Journal of Monetary Economics",
+    "year": 2024,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Optimal Risk Sharing and Incentive Provision in Social Security Systems",
+    "authors": "Carlos E. da Costa",
+    "venue": "Journal of Economic Theory",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   },
+   {
+    "title": "Network Stability under Imperfect Monitoring",
+    "authors": "Luiz Carpizo, Michael Crystal",
+    "venue": "Games and Economic Behavior",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "How Liquidity Regulations Create Illiquidity",
+    "authors": "Harry Cooperman",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Limits of Consumption Taxation: A Theory of Optimal Capital Taxation",
+    "authors": "Ravi Jagadeesan",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Optimal Investment Time under Moral Hazard",
+    "authors": "Otavio Rubiao",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Stanford|Calvin He": {
+  "status": "ok",
+  "source": "https://calvinhe.com/ (CV: https://calvinhe.com/uploads/Calvin_He_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Monetary Policy, Capital Reallocation and Aggregate Productivity",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://calvinhe.com/uploads/jmp.pdf"
+   },
+   {
+    "title": "Welfare Costs and Benefits of Deficit-Financed Fiscal Policy",
+    "authors": "Raman S. Chhina",
+    "venue": null,
+    "year": 2025,
+    "note": null,
+    "url": "https://calvinhe.com/uploads/welfare_HANK.pdf"
+   },
+   {
+    "title": "Firm Fisher Effects",
+    "authors": "Otavio Rubiao",
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": "https://calvinhe.com/uploads/firm-fisher.pdf"
+   },
+   {
+    "title": "Monetary Policy, Equity Markets and the Information Effect",
+    "authors": null,
+    "venue": null,
+    "year": 2021,
+    "note": "RBA Research Discussion Paper",
+    "url": "https://www.rba.gov.au/publications/rdp/2021/pdf/rdp2021-04.pdf"
+   },
+   {
+    "title": "The Distributional Effects of Monetary Policy: Evidence from Local Housing Markets",
+    "authors": "Gianni La Cava",
+    "venue": null,
+    "year": 2020,
+    "note": "RBA Research Discussion Paper",
+    "url": "https://doi.org/10.47688/rdp2020-02"
+   }
+  ]
+ },
+ "2026-2027|Stanford|Emmanuella Kyei Manu": {
+  "status": "ok",
+  "source": "https://www.emmanuellakyeimanu.com/ (CV: CV_KyeiManu.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Migrant Networks and Climate Change",
+    "authors": "Shifrah Aron-Dine",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://www.emmanuellakyeimanu.com/jmp.pdf"
+   },
+   {
+    "title": "Misallocation versus Inequality",
+    "authors": "Chang-Tai Hsieh, Peter J. Klenow, Emma Rockall",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": "https://www.emmanuellakyeimanu.com/MvI_draft.pdf"
+   },
+   {
+    "title": "Locality, Volatility, and Firm Dynamics in Developing Countries",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Growth Implications of Heterogeneous Firm-to-Firm Knowledge Spillovers",
+    "authors": "Reiko Laski",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Stanford|Eva Lestant": {
+  "status": "ok",
+  "source": "https://elestant.github.io/ (CV: https://elestant.github.io/assets/pdf/CV_research.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Panel Data Evidence on the Effects of the COVID-19 Pandemic on Livelihoods in Urban Côte d'Ivoire",
+    "authors": "Pascaline Dupas, Marcel Fafchamps",
+    "venue": "PLoS ONE",
+    "year": 2023,
+    "note": null,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277559"
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Sourcing (Together): Fostering Economies of Scale through Retail Cooperatives",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Estimating Variances for Causal Panel Data Estimators",
+    "authors": "Alexander Almeida, Susan Athey, Guido Imbens, Alexia Olaizola",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": "https://arxiv.org/abs/2510.11841"
+   },
+   {
+    "title": "From Training to Earning. The 7-Year Impact of Dual Apprenticeships on Youth Employment",
+    "authors": "Bruno Crépon, Patrick Premand",
+    "venue": null,
+    "year": null,
+    "note": "World Bank Policy Research Working Paper",
+    "url": "https://documents1.worldbank.org/curated/en/099148202112615306/pdf/IDU-58648a49-2ff9-4e49-8ce8-49171bb998b3.pdf"
+   },
+   {
+    "title": "Demand and Supply Determinants of a Formal Apprenticeship Program: Scale-up Analysis",
+    "authors": "Bruno Crépon, Patrick Premand",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Consumer Search in a Centralized Market: Informational Friction and Market Segmentation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Stanford|Tamri Matiashvili": {
+  "status": "ok",
+  "source": "https://www.tamrim.com/ (CV: https://www.tamrim.com/files/Matiashvili_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Culture, Economic Stress, and Missing Girls",
+    "authors": "Viktor Malein, Francisco Beltrán Tapia",
+    "venue": "Journal of Economic History",
+    "year": null,
+    "note": "Accepted",
+    "url": "https://www.tamrim.com/files/famine_draft.pdf"
+   },
+   {
+    "title": "Intergenerational Mobility over Two Centuries",
+    "authors": "Ran Abramitzky, Leah Boustan",
+    "venue": "Handbook of Intergenerational Mobility",
+    "year": null,
+    "note": "Forthcoming",
+    "url": "https://www.nber.org/papers/w33330"
+   },
+   {
+    "title": "Modernization in Progress: Part-Year Operation, Capital Accumulation, and Labor Force Composition in Late Imperial Russia",
+    "authors": "Amanda Gregg",
+    "venue": "Journal of Economic History",
+    "year": 2022,
+    "note": null,
+    "url": "https://www.tamrim.com/files/GreggMatiashvili_PYO_June2022.pdf"
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Talent, Trust, and Health: The Effects of the First Female Physicians",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://www.tamrim.com/files/Matiashvili_JMP.pdf"
+   },
+   {
+    "title": "Worth the Wait? Willingness to Pay for Gender-Concordant Physicians Across Medical Specialties",
+    "authors": "Helen Kissel, Helena Roy",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": "https://www.tamrim.com/files/KisselMatiashviliRoy_WP.pdf"
+   },
+   {
+    "title": "Paid Caregiving Leave Policies and an Update on Paid Parental Leave",
+    "authors": "Priyanka Anand, Maya Rossin-Slater",
+    "venue": null,
+    "year": null,
+    "note": "In preparation for the Oxford Handbook on the Economics of Care",
+    "url": "https://www.nber.org/papers/w34997"
+   },
+   {
+    "title": "Cultural Links and Technology Diffusion: Evidence from Industry in Late Imperial Russia",
+    "authors": "Timur Natkhov",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": "https://www.tamrim.com/files/Matiashvili_Natkhov_WP.pdf"
+   },
+   {
+    "title": "Willingness to Wait for Racially Concordant Physicians",
+    "authors": "Helen Kissel, Helena Roy",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Improvements in Urban Sanitation and Child Mortality Decline: The Case of the Russian Empire",
+    "authors": "Viktor Malein",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Physician Value Added in the Pre-Antibiotic Era",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Patenting System of the Russian Empire",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress; in preparation for International Historical Patent Data and Institutions",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Stanford|Kate Reinmuth": {
+  "status": "ok",
+  "source": "https://www.kate-reinmuth.com/ (CV: Dropbox Reinmuth-CV-Econ.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Innovation through Inventor Mobility: Evidence from Non-Compete Agreements",
+    "authors": "Emma Rockall",
+    "venue": "American Economic Journal: Applied Economics",
+    "year": 2026,
+    "note": null,
+    "url": "https://www.aeaweb.org/articles?id=10.1257/app.20240804"
+   },
+   {
+    "title": "Striking the Balance: University Commercialization and Scientific Research Productivity",
+    "authors": null,
+    "venue": "Stanford Journal of Law, Economics & Business",
+    "year": 2025,
+    "note": null,
+    "url": "https://law.stanford.edu/publications/striking-the-balance-university-commercialization-and-scientific-research-productivity/"
+   },
+   {
+    "title": "Default Difficulties: Merchants' Reliance on Default Rules that Harm Consumers",
+    "authors": null,
+    "venue": "Stanford Law Review",
+    "year": 2025,
+    "note": null,
+    "url": "https://www.stanfordlawreview.org/print/article/default-difficulties-the-case-for-regulatory-intervention-in-merchants-reliance-on-default-rules-that-harm-consumers/"
+   },
+   {
+    "title": "Turnover, Loyalty and Competence in the West Wing: The Trump White House in Historical Context",
+    "authors": "Matthew Dickinson",
+    "venue": "Presidential Studies Quarterly",
+    "year": 2021,
+    "note": null,
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/psq.12757"
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Leaky Pipeline: Retention, Performance, and Promotion Policies",
+    "authors": "Brian Higgins",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://www.dropbox.com/scl/fi/5iw3dwst1wa56wny5x1u6/Reinmuth-JMP-The-Leaky-Pipeline.pdf?rlkey=5rh50s1ooczfq9pyqtd5br4og&st=px1wsg3d&dl=0"
+   },
+   {
+    "title": "Consumer Welfare and Misallocation in Panic Buying of Gasoline",
+    "authors": "Katja Hofmann",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": "https://ktjhofmann.github.io/assets/pdf/PanicBuying.pdf"
+   },
+   {
+    "title": "Disclosures, Deals, and Dollars: A Survey of Management Practices in University Technology Transfer Offices",
+    "authors": "Lisa Larrimore Ouellette, Daniela Scur, Heidi Williams",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Stanford|Tess Snyder": {
+  "status": "ok",
+  "source": "https://www.tess-snyder.com/ (CV: Google Drive id 1XQH1i_Q52lZzloWXW3hmyiT6B2NvW0WB)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Product Design Under Regulation: Evidence from the U.S. Automobile Market",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://drive.google.com/file/d/1U7JVm-RF-4VLuic4X0p0sdTNoeQrVmli/view?usp=sharing"
+   },
+   {
+    "title": "Designing Electric Vehicle Subsidies for Equity and Efficiency",
+    "authors": "Hunt Allcott, Levi Kiefer, Hyuk-soo Kwon",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Subsidy Design in the Electric Vehicle Charging Industry",
+    "authors": "Santiago Varela Seoane",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Stanford|Amar Venugopal": {
+  "status": "ok",
+  "source": "https://amarvenugopal.com/ (pub.json, wp.json, wip.json, jmp.json; CV: https://amarvenugopal.com/files/amar_venugopal_cv.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Double and Single Descent in Causal Inference with an Application to High-Dimensional Synthetic Control",
+    "authors": "Jann Spiess, Guido Imbens",
+    "venue": "Advances in Neural Information Processing Systems 36 (NeurIPS)",
+    "year": 2023,
+    "note": null,
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/c904c5d43d8a01177063977bd67bf6fc-Paper-Conference.pdf"
+   },
+   {
+    "title": "Search for bottom-type, vectorlike quark pair production in a fully hadronic final state in proton-proton collisions at √s = 13 TeV",
+    "authors": "The CMS Collaboration",
+    "venue": "Physical Review D",
+    "year": 2020,
+    "note": null,
+    "url": "https://journals.aps.org/prd/pdf/10.1103/PhysRevD.102.112004"
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Distributional Synthetic Control for Text Outcomes with an Application to Local Government Speech",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Participation and Representation in Local Government Speech",
+    "authors": "Olivia Martin",
+    "venue": null,
+    "year": 2026,
+    "note": "arXiv preprint",
+    "url": "https://arxiv.org/pdf/2604.21202"
+   },
+   {
+    "title": "Causal Effect Estimation with Latent Textual Treatments",
+    "authors": "Omri Feldman, Jann Spiess, Amir Feder",
+    "venue": null,
+    "year": 2026,
+    "note": "arXiv preprint",
+    "url": "https://arxiv.org/pdf/2602.15730"
+   },
+   {
+    "title": "Causal Inference on Outcomes Learned from Text",
+    "authors": "Iman Modarressi, Jann Spiess",
+    "venue": null,
+    "year": 2025,
+    "note": "arXiv preprint",
+    "url": "https://arxiv.org/pdf/2503.00725"
+   },
+   {
+    "title": "Assessing AI Choice Prediction",
+    "authors": "B. Douglas Bernheim, Daniel Björkegren, Michael Pollmann, Peter Robertson",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Interpretable Causal Estimation with Text-as-Treatment",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Stanford|Jlateh Vincent Jappah": {
+  "status": "ok",
+  "source": "https://vincent-jappah.vercel.app/ (no CV or research page found; JMP title from Stanford department list)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Teacher training as a key component of educational investment and human development in post-conflict Liberia",
+    "authors": "D. T. Smith",
+    "venue": "Africa Today",
+    "year": 2022,
+    "note": null,
+    "url": "https://doi.org/10.2979/africatoday.68.3.03"
+   },
+   {
+    "title": "The political economy of child servitude in Liberia, West Africa",
+    "authors": "D. T. Smith",
+    "venue": "Medicine, Conflict and Survival",
+    "year": 2022,
+    "note": null,
+    "url": "https://doi.org/10.1080/13623699.2022.2112011"
+   },
+   {
+    "title": "Global governmentality: Biosecurity in the era of infectious diseases",
+    "authors": "D. T. Smith",
+    "venue": "Global Public Health",
+    "year": 2015,
+    "note": null,
+    "url": "https://doi.org/10.1080/17441692.2015.1038843"
+   },
+   {
+    "title": "The convergence of American and Nigerian religious conservatism in a biopolitical shaping of Nigeria's HIV/AIDS prevention programmes",
+    "authors": null,
+    "venue": "Global Public Health",
+    "year": 2013,
+    "note": null,
+    "url": "https://doi.org/10.1080/17441692.2013.765023"
+   },
+   {
+    "title": "Transitional justice: Prioritizing truth commissions or international tribunals to ensure healing and reconciliation",
+    "authors": "D. T. Smith",
+    "venue": "Journal of International and Global Studies",
+    "year": 2013,
+    "note": null,
+    "url": "https://doi.org/10.62608/2158-0669.1163"
+   },
+   {
+    "title": "State sponsored famine: Conceptualizing politically induced famine as a crime against humanity",
+    "authors": "D. T. Smith",
+    "venue": "Journal of International and Global Studies",
+    "year": 2012,
+    "note": null,
+    "url": "https://doi.org/10.62608/2158-0669.1114"
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Do Economic Incentives Increase Attendance at Blood Drives: Experimental Evidence from Sierra Leone",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   }
+  ]
  }
 }
