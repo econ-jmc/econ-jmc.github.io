@@ -12,6 +12,15 @@
   document.getElementById("repo-link").href = CONFIG.repoUrl;
   const tabsEl = document.getElementById("cycle-tabs");
 
+  // which directory this page is (economics at the root, other disciplines in <key>/), and the switcher across them
+  const DB = D.db || { key: "econ", name: "Economics", brand: "Econ", dir: "global", program: "economics department", ranking: "", root: "", all: [] };
+  const ECON = DB.key === "econ";
+  document.getElementById("brand").textContent = DB.brand;
+  if (DB.tagline) document.getElementById("tagline").textContent = DB.tagline;
+  if (!ECON) document.getElementById("china-link").remove();
+  document.getElementById("dbs").innerHTML = DB.all.length > 1 ? DB.all.map((d) =>
+    `<a href="${DB.root}${d.key === "econ" ? "" : d.key + "/"}" class="${d.key === DB.key ? "active" : ""}">${d.name}</a>`).join("") : "";
+
   const COUNTRY = { "美国区域": "United States", "加拿大区域": "Canada" };
   const PREGION = { "中国大陆": "Mainland China", "港澳": "Hong Kong & Macau", "新加坡": "Singapore", "日本": "Japan", "澳新": "Australia & NZ",
     "加拿大": "Canada", "欧洲": "Europe", "其他": "Other", "美国": "United States" };
@@ -49,6 +58,8 @@
     SCHOOLS.push({ cycle, name, country, rank, order, key: country + "|" + name });
   };
   for (const s of D.schools.filter(inScope)) addSchool(s.cycle, s.name, COUNTRY[s.region] || "Other", s.rank, s.order);
+  // programs listed in <db>/programs.csv (rank, country, position) for every cycle shown
+  for (const cy of CYCLES) for (const p of D.programs || []) addSchool(cy, p.name, p.country, p.rank, 1000 + p.order);
   for (const c of ALL) addSchool(c.cycle, c.school, c.country, c.rank, c.order);
   // a school's position comes from the school list, so its China JMC and global candidates sort into one group
   const SORDER = new Map(SCHOOLS.map((s) => [s.cycle + "|" + s.key, s.order]));
@@ -179,7 +190,8 @@
     const filtered = list.length !== pool.length;
 
     const countries = uniq(pool.map((c) => c.country));
-    const schools = uniq(SCHOOLS.filter((s) => (cycle === "all" || s.cycle === cycle) && (!S.country || s.country === S.country))
+    const hasCands = new Set(pool.map((c) => c.skey));
+    const schools = uniq(SCHOOLS.filter((s) => (cycle === "all" || s.cycle === cycle) && (!S.country || s.country === S.country) && (hasCands.has(s.key) || s.key === S.school))
       .sort((a, b) => cmpSchool({ ...a, school: a.name }, { ...b, school: b.name })).map((s) => s.key));
     const fcount = {};
     for (const c of pool) if (match(c, "fields")) for (const f of c.fields) fcount[f] = (fcount[f] || 0) + 1;
@@ -274,7 +286,7 @@
     const r = c.research;
     const groups = r ? RES_GROUPS.filter(([k]) => r[k].length).map(([k, label, cls]) =>
       `<div class="r-group ${cls}"><div class="r-label"><i></i>${label}<span>${r[k].length}</span></div><ul class="papers">${r[k].map(paperItem).join("")}</ul></div>`).join("") : "";
-    const src = c.china ? `data/${esc(c.cycle)}.md` : `data/global/${esc(c.cycle)}.csv`;
+    const src = c.china ? `data/${esc(c.cycle)}.md` : `data/${esc(DB.dir)}/${esc(c.cycle)}.csv`;
     app.innerHTML = `
       <p class="crumb"><a href="#/?cycle=${c.cycle}">Candidates</a> / <a href="#/?cycle=${c.cycle}&school=${encodeURIComponent(c.skey)}">${esc(c.school)}</a> / ${esc(c.name)}</p>
       <article class="profile">
@@ -346,18 +358,25 @@
   function renderAbout() {
     setNav("about");
     renderTabs(false);
-    const nCn = D.candidates.length, nG = (D.global || []).length;
+    const nCn = D.candidates.length;
     const span = (a) => a.length > 1 ? `${a.length} job market cycles (${a.slice().reverse().join(", ")})` : `the ${a[0]} job market cycle`;
+    const progs = D.programs || [];
+    const posted = uniq(ALL.map((c) => c.skey)).length;
+    const byCountry = uniq(progs.map((p) => p.country)).map((k) => `${k} ${progs.filter((p) => p.country === k).length}`).join(" · ");
+    const others = DB.all.filter((d) => d.key !== DB.key).map((d) => `<a href="${DB.root}${d.key === "econ" ? "" : d.key + "/"}">${esc(d.name)}</a>`).join(" · ");
+    const title = `${DB.brand} JMC`;
     app.innerHTML = `
       <article class="about">
-        <h2 class="view-h">About Econ JMC</h2>
-        <p><b>Econ JMC</b> is an open, community-maintained directory of economics PhD job market candidates: where they trained, their job market papers and fields, their research, and where they were placed. It currently lists <b>${ALL.length}</b> candidates from ${span(CYCLES)}: every candidate listed on the job market pages of the economics departments covered.</p>
+        <h2 class="view-h">About ${esc(title)}</h2>
+        <p><b>${esc(title)}</b> is an open, community-maintained directory of ${esc(DB.noun || DB.name.toLowerCase())} PhD job market candidates: where they trained, their job market papers and fields, their research, and where they were placed. It currently lists <b>${ALL.length}</b> candidates from ${span(CYCLES)}: every candidate listed on the job market pages of the ${esc(DB.program)}s covered.</p>
         <h3>Coverage</h3>
-        <p>The directory started from <a href="china/" lang="zh-CN">China JMC</a> (${nCn} candidates): economics PhD candidates from mainland China at US and Canadian programs, compiled in Chinese every cycle since 2024. From 2026-2027 on it covers <b>all</b> candidates of each program; earlier cycles, which list only China JMC candidates, are in <a href="china/" lang="zh-CN">China JMC</a>. Programs are added as they post their candidate lists, so counts are not yet complete for the current cycle.</p>
+        <p>${progs.length} programs are tracked (${esc(byCountry)}); ${posted} of them have candidates listed so far. Programs are added as they post their candidate lists, so counts are not yet complete for the current cycle.${DB.ranking ? ` Program ranks (#) follow the ${esc(DB.ranking)}; programs outside that ranking are listed without a rank.` : " Programs are listed without a rank."}</p>
+        ${ECON ? `<p>The directory started from <a href="china/" lang="zh-CN">China JMC</a> (${nCn} candidates): economics PhD candidates from mainland China at US and Canadian programs, compiled in Chinese every cycle since 2024. From 2026-2027 on it covers <b>all</b> candidates of each program; earlier cycles, which list only China JMC candidates, are in <a href="china/" lang="zh-CN">China JMC</a>.</p>
         <h3>China JMC · 中国经济学博士求职者名录</h3>
-        <p>The original Chinese-language directory, with candidate bios, education and a placement statistics report, continues as its own module: <a href="china/">China JMC</a> · <a href="china/stats.html">placement statistics</a>.</p>
+        <p>The original Chinese-language directory, with candidate bios, education and a placement statistics report, continues as its own module: <a href="china/">China JMC</a> · <a href="china/stats.html">placement statistics</a>.</p>` : ""}
+        ${others ? `<h3>Other directories</h3><p>The same directory for related fields: ${others}.</p>` : ""}
         <h3>Contributing</h3>
-        <p>Data live in the <a href="${CONFIG.repoUrl}" target="_blank" rel="noopener">GitHub repository</a>. Add candidates for any program to <code>data/global/&lt;cycle&gt;.csv</code> (columns: name, school, country, school_rank, jmp, fields, website, placement; see <code>data/global/_template.csv</code>); China JMC entries are edited in <code>data/&lt;cycle&gt;.md</code>. The site rebuilds automatically on every commit.</p>
+        <p>Data live in the <a href="${CONFIG.repoUrl}" target="_blank" rel="noopener">GitHub repository</a>. Add candidates to <code>data/${esc(DB.dir)}/&lt;cycle&gt;.csv</code> (columns: name, school, country, school_rank, jmp, fields, website, placement, education; see <code>data/global/_template.csv</code>); the programs covered are in <code>data/${esc(DB.dir)}/programs.csv</code>.${ECON ? " China JMC entries are edited in <code>data/&lt;cycle&gt;.md</code>." : ""} The site rebuilds automatically on every commit.</p>
         <p>Candidates may request corrections or removal of their entry by opening an issue. All information is compiled from public personal websites and department placement pages.</p>
       </article>`;
   }

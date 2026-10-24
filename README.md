@@ -10,6 +10,9 @@
   - `data/<周期>.md`：China JMC 数据（中文 markdown，格式见下）。
   - `data/global/<周期>.csv`：其他所有候选人（英文），列为 `name,school,country,school_rank,jmp,fields,website,placement`，模板见 `data/global/_template.csv`。`fields` 用分号分隔、取 `data/fields.json` 里的类别名；`school` 请沿用 md 里的院校简称（如 `UPenn`、`UoT`）。与 China JMC 中同周期、同院校、同姓名的行只用于补全该条目，不会重复。
 - `scripts/build.py` 把两类数据合成 `site/data.js`（`candidates` = China JMC，`global` = CSV 新增）。
+- **分学科数据库**（页面顶部切换）：`data/dbs.json` 登记各库（Economics / Ag & Applied Econ / Finance / Accounting / Marketing）及其研究领域类别。经济学用 `data/global/`；其余各库在 `data/<key>/`（`programs.csv` 收录院校与排名、`<周期>.csv` 候选人、`<周期>_sources.json` 各院校发布状态），构建到 `site/<key>/`（生成文件，不入库）。
+  - 院校名单：经济学 = US News 2025 经济学排名前 100（美国）+ 英/加/港/新院校；农经 = 主要农经/应用经济系（无排名）；Finance/Accounting/Marketing = UTD 商学院研究排名（北美 2021-2025）前 50 + 英/加/港/新/法院校。
+  - 爬取结果（每院校一个 JSON）用 `python scripts/merge_programs.py <文件夹> <周期>` 合并进 CSV（只新增，不覆盖已有行）。
 
 ---
 

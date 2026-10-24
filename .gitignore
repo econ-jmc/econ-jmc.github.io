@@ -6,3 +6,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 cache/
+site/agecon/
+site/finance/
+site/accounting/
+site/marketing/

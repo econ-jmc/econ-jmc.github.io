@@ -1,0 +1,39 @@
+{
+  "_comment": "One directory (database) per discipline. econ is the main site (data/global, field categories from data/fields.json, plus China JMC); every other database lives in data/<key>/ (programs.csv, <cycle>.csv, <cycle>_sources.json, research.json) and is built into site/<key>/. The order here is the order of the switcher at the top of every page.",
+  "dbs": {
+    "econ": {
+      "name": "Economics", "noun": "economics", "brand": "Econ", "dir": "global",
+      "program": "economics department", "ranking": "U.S. News & World Report Best Economics Schools (2025) for U.S. programs",
+      "tagline": "Economics PhD job market candidates · job market papers, fields, research and placements · updated every cycle"
+    },
+    "agecon": {
+      "name": "Ag & Applied Econ", "noun": "agricultural and applied economics", "brand": "AgEcon", "dir": "agecon",
+      "program": "agricultural, applied and resource economics department", "ranking": "",
+      "tagline": "Agricultural, applied, environmental and resource economics PhD job market candidates · updated every cycle",
+      "fields": ["Agricultural Economics", "Environmental & Resource", "Energy", "Climate", "Development", "Food & Consumer",
+                 "Trade & Policy", "Markets & IO", "Labor & Health", "Econometrics", "Behavioral & Experimental"]
+    },
+    "finance": {
+      "name": "Finance", "noun": "finance", "brand": "Finance", "dir": "finance",
+      "program": "business school finance PhD program", "ranking": "UT Dallas Top 100 Business School Research Rankings, North America, 2021-2025",
+      "tagline": "Finance PhD job market candidates at leading business schools · updated every cycle",
+      "fields": ["Asset Pricing", "Corporate Finance", "Banking & Intermediation", "Household Finance", "Behavioral Finance",
+                 "Market Microstructure", "Macro-Finance", "International Finance", "FinTech & Digital", "Sustainable Finance",
+                 "Real Estate", "Financial Econometrics", "Theory"]
+    },
+    "accounting": {
+      "name": "Accounting", "noun": "accounting", "brand": "Accounting", "dir": "accounting",
+      "program": "business school accounting PhD program", "ranking": "UT Dallas Top 100 Business School Research Rankings, North America, 2021-2025",
+      "tagline": "Accounting PhD job market candidates at leading business schools · updated every cycle",
+      "fields": ["Financial Reporting", "Disclosure", "Capital Markets", "Auditing", "Tax", "Managerial Accounting",
+                 "Corporate Governance", "Sustainability & ESG", "Analytical"]
+    },
+    "marketing": {
+      "name": "Marketing", "noun": "marketing", "brand": "Marketing", "dir": "marketing",
+      "program": "business school marketing PhD program", "ranking": "UT Dallas Top 100 Business School Research Rankings, North America, 2021-2025",
+      "tagline": "Marketing PhD job market candidates at leading business schools · updated every cycle",
+      "fields": ["Quantitative Marketing", "Consumer Behavior", "Marketing Strategy", "Digital & Platforms", "Advertising & Media",
+                 "Pricing", "Judgment & Decision Making", "AI & Machine Learning"]
+    }
+  }
+}

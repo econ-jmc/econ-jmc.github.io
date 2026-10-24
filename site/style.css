@@ -271,3 +271,12 @@ td.name .meta.ug { margin-top: 1px; }
 .edu li { display: grid; grid-template-columns: 44px 1fr; gap: 8px; margin: 0 0 3px; }
 .edu .yr { color: var(--muted); font-variant-numeric: tabular-nums; }
 .edu b { font-weight: 600; }
+
+/* discipline switcher (one directory per field) above the brand */
+.dbs { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 2px 18px; margin: -10px 0 4px; padding-bottom: 8px; border-bottom: 1px solid var(--line); font-size: 13px; }
+.dbs:empty { display: none; }
+.dbs a { color: var(--muted); font-weight: 600; padding: 2px 0; border-bottom: 2px solid transparent; }
+.dbs a:hover { color: var(--text); text-decoration: none; }
+.dbs a.active { color: var(--accent); border-bottom-color: var(--accent); }
+.dbs .lbl { color: var(--muted); font-weight: 400; }
+.brand h1 b { font-weight: inherit; }

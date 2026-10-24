@@ -1,0 +1,330 @@
+[
+ {
+  "school": "UC Davis",
+  "status": "posted",
+  "url": "https://are.ucdavis.edu/phd/job-candidates/",
+  "n": 12,
+  "note": "Page last updated Aug 17 2026 but mixes in postdocs/earlier graduates (Lee PhD 2024, Zheng PhD 2025, Koss exp. 2026). Hasbany: no CV/JMP accessible (Google Drive embed), education empty.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "UC Berkeley",
+  "status": "posted",
+  "url": "https://are.berkeley.edu/job-market-candidates",
+  "n": 12,
+  "note": "Includes 1 postdoctoral scholar (Billy Ferguson) listed on the page. Chandra/Javier degree years not on CVs found; Shariat and Snyder JMP not found; Layvant PhD year assumed 2027 (CV says 2021-present).",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Cornell",
+  "status": "posted",
+  "url": "https://business.cornell.edu/admissions/graduate/phd/aem/for-hire/",
+  "n": 16,
+  "note": "Some candidates (Tan, Yoshihara, Wang) may be finance-oriented. Fields/JMP missing for Borar and Jaromczyk (no CV or site found); JMP not stated for Dai and Tan. Luo JMP assumed = first working paper; Luo Ph.D. year assumed 2027.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Illinois",
+  "status": "not_posted",
+  "url": "https://ace.illinois.edu/academics/graduate-degrees/job-market-candidates",
+  "n": 0,
+  "note": "Page still shows the 2025-2026 list.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Purdue",
+  "status": "posted",
+  "url": "https://ag.purdue.edu/department/agecon/graduate_program/job_candidates.html",
+  "n": 5,
+  "note": "Page modified Aug 28 2026. Chakrabartty listed as postdoctoral fellow (PhD Delaware 2024). Only 2 CVs available.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Minnesota",
+  "status": "posted",
+  "url": "https://apec.umn.edu/graduate/job-market-candidates",
+  "n": 5,
+  "note": "Page last modified 2026-10-14. Several candidates already hold the PhD (2026) / are postdocs; Perez Castano's site says she joins Universidad Javeriana fall 2026; Parasuram's own site still says 2025-26. CVs for Perez Castano, Parasuram, Kula, Guerrero were not retrievable (Drive/404), so education is partial.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Wisconsin",
+  "status": "not_posted",
+  "url": "https://aae.wisc.edu/people/job-market-candidates/",
+  "n": 0,
+  "note": "Page returns 404 (2025-26 page removed); placement page lists only 2026 placements.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Michigan State",
+  "status": "not_posted",
+  "url": "https://www.afrejobcandidates.com/",
+  "n": 0,
+  "note": "Site still shows the 2025 - 2026 AFRE Job Candidates list.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "NC State",
+  "status": "not_posted",
+  "url": "https://poole.ncsu.edu/gradecon/about-us/job-candidates/",
+  "n": 0,
+  "note": "Joint econ/ARE page says '2026-2027 PhD Job Market Candidates - Coming soon.' as of Oct 24 2026.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Maryland",
+  "status": "posted",
+  "url": "http://www.arec.umd.edu/people/job-market-candidates",
+  "n": 8,
+  "note": "Page undated but last modified 2026-10-23 and Putri CV dated Oct 2026, consistent with 2026-27. Hu, Yang, Bratti Lobato have no personal site on the page; education not found (web-search budget ran out).",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Penn State",
+  "status": "not_posted",
+  "url": "https://aese.psu.edu/graduateprograms/eefe/job-market-candidates",
+  "n": 0,
+  "note": "Page requires Microsoft/PSU login (not bypassed).",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Ohio State",
+  "status": "posted",
+  "url": "https://aede.osu.edu/academics/graduate/job-market-candidates",
+  "n": 13,
+  "note": "Candidates confirm 2026-27 market on personal sites. Fan and Hou: no CV accessible, education left empty. Several JMP titles taken from the candidate's own site/CV where they differ from the department page.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Texas A&M",
+  "status": "not_posted",
+  "url": "https://agecon.tamu.edu/",
+  "n": 0,
+  "note": "agecon.tamu.edu is behind a Cloudflare bot wall (HTTP 403); not bypassed. Economics dept page says 2026-27 candidates 'will soon be listed'.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Kansas State",
+  "status": "not_posted",
+  "url": "https://www.ageconomics.k-state.edu/about/people/directory/marketplace/",
+  "n": 0,
+  "note": "Marketplace page (stamped Updated 6/30/26) still lists the 2025-26 cohort (Ala-Kokko, Sharma, Ofori-Bah, Day, Gharib); several were already placed in 2025 (e.g. Ala-Kokko to Arkansas, Day to Texas A&M). No 2026-27 list found.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Oregon State",
+  "status": "posted",
+  "url": "https://appliedecon.oregonstate.edu/aecgradprogram/about-our-students/job-market-candidates",
+  "n": 3,
+  "note": "Websites are the department page; education from department page (PhD expected 2026/2027, recorded as 2027).",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Washington State",
+  "status": "not_posted",
+  "url": "https://ses.wsu.edu/job-market-candidates/",
+  "n": 0,
+  "note": "Page exists but lists no candidates yet.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Virginia Tech",
+  "status": "posted",
+  "url": "https://aaec.vt.edu/people/Job_Candidates.html",
+  "n": 8,
+  "note": "Education only for candidates with CVs found; others [].",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Georgia",
+  "status": "posted",
+  "url": "https://agecon.uga.edu/people/job-market-candidates.html",
+  "n": 5,
+  "note": "JMP titles for Poudel, Nutsugah, Oh, Gupta not stated on pages (Gupta describes two JMPs without titles). Some CVs show outdated expected PhD years, left blank.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Florida",
+  "status": "posted",
+  "url": "https://fred.ifas.ufl.edu/graduate/doctor-of-philosophy-phd/job-market-candidates/",
+  "n": 11,
+  "note": "Page last modified Aug 2026. Some listed candidates already hold jobs (e.g. Gurung) or graduate in 2026. Education only where a CV was found; Dai has an M.S. Applied and Computational Mathematics from Johns Hopkins (year unknown, omitted).",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "UConn",
+  "status": "not_posted",
+  "url": "https://are.uconn.edu/",
+  "n": 0,
+  "note": "No job market candidates page found on are.uconn.edu (checked home, /phd/, /graduate-program-2/; searches).",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "UMass Amherst",
+  "status": "not_posted",
+  "url": "https://www.umass.edu/resource-economics/academics/graduate",
+  "n": 0,
+  "note": "Graduate page still links only the 2025-2026 job market candidates page; 2026-2027 URL returns 404.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Missouri",
+  "status": "not_posted",
+  "url": "https://dass.missouri.edu/",
+  "n": 0,
+  "note": "No AAE job market page found on dass.missouri.edu / cafnr.missouri.edu. (The economics.missouri.edu 2026-27 page belongs to the Arts & Science Economics dept, not AAE.)",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Arizona",
+  "status": "no_program",
+  "url": "https://aaec.arizona.edu/graduate/graduate-student-resources/student-placements",
+  "n": 0,
+  "note": "Department (Agricultural & Applied Economics) offers MS programs and a PhD minor only; PhD students go through Economics.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Colorado State",
+  "status": "not_posted",
+  "url": "https://agsci.colostate.edu/dare/graduate-student-resources/agricultural-resource-economics-programs/graduate-student-placement/",
+  "n": 0,
+  "note": "No job market candidates page; only a placements-of-graduates page (through 2024).",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Tennessee",
+  "status": "no_program",
+  "url": "https://arec.tennessee.edu/academics/graduate-studies/",
+  "n": 0,
+  "note": "AREC offers PhD only as Natural Resources PhD with Natural Resource Economics concentration (School of Natural Resources); no job market candidates page found.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Nebraska",
+  "status": "not_posted",
+  "url": "https://agecon.unl.edu/",
+  "n": 0,
+  "note": "No job market candidates page found on agecon.unl.edu (department now part of SASSA).",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Kentucky",
+  "status": "not_posted",
+  "url": "https://agecon.mgcafe.uky.edu/graduate-program",
+  "n": 0,
+  "note": "No job market candidates page found on department site.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Arkansas",
+  "status": "not_posted",
+  "url": "https://agribusiness.uark.edu/",
+  "n": 0,
+  "note": "No job market candidates page found on department site or by search.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Oklahoma State",
+  "status": "not_posted",
+  "url": "https://agriculture.okstate.edu/departments-programs/agecon/graduate/",
+  "n": 0,
+  "note": "Department site returned HTTP 403 to automated access (bot wall); not bypassed. No candidate page found.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Auburn",
+  "status": "posted",
+  "url": "https://agriculture.auburn.edu/aers/job-market-candidates.php",
+  "n": 4,
+  "note": "Page lists only names; details from individual directory profiles/CVs. Bafowaa's profile has no CV/website/fields. Saha PhD year not stated.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "LSU",
+  "status": "not_posted",
+  "url": "https://www.lsu.edu/agriculture/agecon/",
+  "n": 0,
+  "note": "No job market candidates page found.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Mississippi State",
+  "status": "no_program",
+  "url": "https://www.agecon.msstate.edu/",
+  "n": 0,
+  "note": "Department site/catalog show only M.S. and agribusiness master's programs; no PhD job market page found.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "North Dakota State",
+  "status": "not_posted",
+  "url": "https://www.ndsu.edu/programs/graduate/agribusiness-and-applied-economics",
+  "n": 0,
+  "note": "No job market candidates page found on NDSU site; PhD in Applied Economics reportedly small/not admitting.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Montana State",
+  "status": "no_program",
+  "url": "https://www.montana.edu/econ/graduateprogram.html",
+  "n": 0,
+  "note": "Department offers MS in Applied Economics and a graduate certificate only; no PhD program.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Utah State",
+  "status": "not_posted",
+  "url": "https://www.usu.edu/degrees-majors/economics_applied-economics_phd",
+  "n": 0,
+  "note": "No job market page found; department site URLs returned 404.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Rhode Island",
+  "status": "not_posted",
+  "url": "https://web.uri.edu/enre/",
+  "n": 0,
+  "note": "PhD program exists; no job market candidates page found.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Delaware",
+  "status": "no_program",
+  "url": "https://www.udel.edu/academics/colleges/canr/departments/applied-economics-and-statistics/graduate-programs/",
+  "n": 0,
+  "note": "APEC offers MS Applied Economics and PhD in Statistics/Data Science only; no applied economics PhD job market page (economics PhD is in Lerner College).",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Guelph",
+  "status": "not_posted",
+  "url": "https://www.uoguelph.ca/oac/fare/graduate",
+  "n": 0,
+  "note": "FARE has a PhD program but no job market candidates page found (checked fare site/graduate pages).",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Alberta",
+  "status": "not_posted",
+  "url": "https://www.ualberta.ca/en/agriculture-life-environment-sciences/programs/graduate-programs/prospective-students/resource-economics-and-environmental-sociology/index.html",
+  "n": 0,
+  "note": "University site returned 403 to automated fetch; no candidates page found via search.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "Saskatchewan",
+  "status": "not_posted",
+  "url": "https://agbio.usask.ca/departments/agricultural-and-resource-economics.php",
+  "n": 0,
+  "note": "PhD program exists; no job market candidates page found.",
+  "checked": "2026-10-24"
+ },
+ {
+  "school": "UBC FRE",
+  "status": "no_program",
+  "url": "https://www.landfood.ubc.ca/future/future-graduate/",
+  "n": 0,
+  "note": "FRE offers MFRE (master's) only; no FRE-specific PhD job market page found (PhD students go through other UBC units).",
+  "checked": "2026-10-24"
+ }
+]

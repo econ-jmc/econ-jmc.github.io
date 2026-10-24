@@ -37,6 +37,8 @@ RESEARCH_FILE = DATA_DIR / "research.json"
 # English directory of all job market candidates: data/global/<cycle>.csv (see data/global/_template.csv).
 # Rows that match a China JMC candidate (same cycle, school and name) only fill in / correct that entry.
 GLOBAL_DIR = DATA_DIR / "global"
+# other disciplines (ag econ, finance, accounting, marketing): data/<key>/, built into site/<key>/
+DBS_FILE = DATA_DIR / "dbs.json"
 # education: "B.A. Economics | Peking University | 2019; Ph.D. Economics | Yale University | 2027" (oldest first)
 GLOBAL_COLS = ["name", "school", "country", "school_rank", "jmp", "fields", "website", "placement", "education"]
 
@@ -387,14 +389,15 @@ def phd_year_of(edu: list[dict]) -> int | None:
 
 
 def load_global(cn_candidates: list[dict], known_fields: set[str], region_map: KeywordMap, inst_map: KeywordMap,
-                warnings: list[str]) -> list[dict]:
-    """Read data/global/<cycle>.csv. Returns the rows that are not already China JMC candidates."""
+                warnings: list[str], folder: Path = GLOBAL_DIR) -> list[dict]:
+    """Read <folder>/<cycle>.csv (data/global for economics). Returns the rows that are not already China JMC candidates."""
     import csv
     by_key = {(c["cycle"], norm(c["school"]), v): c for c in cn_candidates for v in name_variants(c["name"])}
     out: list[dict] = []
     used_ids = {c["id"] for c in cn_candidates}
-    for f in sorted(GLOBAL_DIR.glob("*.csv")) if GLOBAL_DIR.exists() else []:
-        if f.name.startswith("_"):
+    tag = folder.name
+    for f in sorted(folder.glob("*.csv")) if folder.exists() else []:
+        if f.name.startswith("_") or not re.fullmatch(r"\d{4}-\d{4}", f.stem):  # programs.csv etc. are not candidate lists
             continue
         cycle = f.stem
         with f.open(encoding="utf-8-sig", newline="") as fh:
@@ -403,12 +406,12 @@ def load_global(cn_candidates: list[dict], known_fields: set[str], region_map: K
         for i, r in enumerate(rows, 2):
             r = {k: (r.get(k) or "").strip() for k in GLOBAL_COLS}
             if not r["name"] or not r["school"]:
-                warnings.append(f"global/{f.name}: line {i}: name and school are required")
+                warnings.append(f"{tag}/{f.name}: line {i}: name and school are required")
                 continue
             fields = [x.strip() for x in re.split(r"[;,]", r["fields"]) if x.strip()]
             for x in fields:
                 if x not in known_fields:
-                    warnings.append(f"global/{f.name}: line {i}: unknown field category: {x}")
+                    warnings.append(f"{tag}/{f.name}: line {i}: unknown field category: {x}")
             fields = [x for x in fields if x in known_fields]
             website = r["website"] if re.match(r"https?://", r["website"]) else None
             education = parse_education(r["education"])
@@ -440,8 +443,50 @@ def load_global(cn_candidates: list[dict], known_fields: set[str], region_map: K
                 "placement_inst": match_destination(placement, inst_map) if academic else None,
             })
             n_new += 1
-        print(f"global/{f.name}: {len(rows)} rows, {n_new} new candidates")
+        print(f"{tag}/{f.name}: {len(rows)} rows, {n_new} new candidates")
     return out
+
+
+def load_dbs() -> dict[str, dict]:
+    """data/dbs.json: one directory per discipline; economics takes its field categories from data/fields.json."""
+    dbs = json.loads(DBS_FILE.read_text(encoding="utf-8"))["dbs"]
+    dbs["econ"]["fields"] = list(json.loads(FIELD_MAP_FILE.read_text(encoding="utf-8"))["categories"].keys())
+    return dbs
+
+
+def db_meta(dbs: dict[str, dict], key: str) -> dict:
+    """What a page needs to know about its own directory, plus the switcher entries for all of them."""
+    me = dbs[key]
+    return {"key": key, "name": me["name"], "noun": me["noun"], "brand": me["brand"], "dir": me["dir"], "program": me["program"],
+            "ranking": me["ranking"], "tagline": me["tagline"], "root": "" if key == "econ" else "../",
+            "all": [{"key": k, "name": d["name"]} for k, d in dbs.items()]}
+
+
+def load_programs(path: Path) -> list[dict]:
+    """<db>/programs.csv: the programs a directory covers, in display order (rank may be empty)."""
+    import csv
+    if not path.exists():
+        return []
+    with path.open(encoding="utf-8-sig", newline="") as fh:
+        return [{"name": r["school"].strip(), "full_name": (r.get("full_name") or "").strip(), "country": r["country"].strip() or "United States",
+                 "rank": int(r["rank"]) if (r.get("rank") or "").strip().isdigit() else None, "unit": (r.get("unit") or "").strip(),
+                 "url": (r.get("url") or "").strip(), "order": i}
+                for i, r in enumerate(csv.DictReader(fh)) if (r.get("school") or "").strip()]
+
+
+def write_db_page(key: str, payload: dict) -> None:
+    """site/<key>/: data.js plus an index.html derived from the economics page (shared app.js, style.css, theme.js)."""
+    out = SITE_DIR / key
+    out.mkdir(parents=True, exist_ok=True)
+    (out / "data.js").write_text("window.JMC_DATA = " + json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8")
+    html = (SITE_DIR / "index.html").read_text(encoding="utf-8")
+    db = payload["db"]
+    html = re.sub(r'(href|src)="(theme\.js|style\.css|app\.js)"', r'\1="../\2"', html)
+    html = html.replace("<title>Econ JMC · A Directory of Economics PhD Job Market Candidates</title>",
+                        f"<title>{db['brand']} JMC · A Directory of {db['name']} PhD Job Market Candidates</title>")
+    html = re.sub(r'<meta name="description" content="[^"]*">',
+                  f'<meta name="description" content="An open, yearly, community-maintained directory of {db["noun"]} PhD job market candidates.">', html)
+    (out / "index.html").write_text(html, encoding="utf-8")
 
 
 def main() -> int:
@@ -523,11 +568,40 @@ def main() -> int:
         if g["cycle"] not in cycles:
             cycles.append(g["cycle"])
 
+    # the other discipline directories (data/<key>/) and the economics program list
+    dbs = load_dbs()
+    other = {}
+    for key, db in dbs.items():
+        if key == "econ":
+            continue
+        folder = DATA_DIR / db["dir"]
+        n_warn = len(warnings)
+        rows = load_global([], set(db["fields"]), region_map, inst_map, warnings, folder)
+        for w in warnings[n_warn:]:
+            print("   " + w)
+        res = json.loads((folder / "research.json").read_text(encoding="utf-8")) if (folder / "research.json").exists() else {}
+        for g in rows:
+            r = res.get(f"{g['cycle']}|{g['school']}|{g['name']}")
+            g["research"] = {k: r.get(k) or [] for k in ("publications", "rr", "wp")} | {"source": r.get("source"), "checked": r.get("checked")} if r else None
+        other[key] = rows
+
     if check_only:
         return 0
 
+    generated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    for key, rows in other.items():
+        db = dbs[key]
+        cyc = sorted({g["cycle"] for g in rows} or {max(cycles)}, reverse=True)
+        sub = {
+            "generated": generated, "cycles": cyc, "field_categories": db["fields"],
+            "placement_regions": [region for region, _ in region_map], "schools": [], "candidates": [], "global": rows,
+            "programs": load_programs(DATA_DIR / db["dir"] / "programs.csv"), "db": db_meta(dbs, key),
+        }
+        write_db_page(key, sub)
+        print(f"Wrote site/{key}/ ({len(rows)} candidates)")
+
     payload = {
-        "generated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+        "generated": generated,
         "cycles": sorted(cycles, reverse=True),
         "field_categories": list(json.loads(FIELD_MAP_FILE.read_text(encoding="utf-8"))["categories"].keys()),
         "placement_regions": [region for region, _ in region_map],
@@ -535,6 +609,9 @@ def main() -> int:
         "candidates": all_candidates,
         # English directory: candidates from data/global/*.csv that are not in the China JMC data above
         "global": global_candidates,
+        # economics programs covered by the English directory (rank, country) beyond the China JMC school list
+        "programs": load_programs(GLOBAL_DIR / "programs.csv"),
+        "db": db_meta(dbs, "econ"),
     }
     SITE_DIR.mkdir(parents=True, exist_ok=True)
     out = SITE_DIR / "data.js"
