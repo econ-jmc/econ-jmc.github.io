@@ -1,0 +1,2172 @@
+{
+ "2026-2027|Berkeley Haas|Gene Woo Kang": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/genewookang",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Which Branches Survive? Digital Banking, Capital Regulation, and Local Lending",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Local Housing Market Experiences and Homeownership Decisions",
+    "authors": "Junru Lyu, Sharath Sonti",
+    "venue": null,
+    "year": null,
+    "note": "Submitted",
+    "url": null
+   },
+   {
+    "title": "Nonbank Lending in Mortgage Market and Monetary Policy Transmission",
+    "authors": "G. Kara, M. Siemmer",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Role of Information Disclosure Cost in Firms' Choice on Debt Type",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Digital Banking in the United States: New Facts from App-level Data",
+    "authors": "Matteo Benetton",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Bank and Non-bank Specialization in the Mortgage Market",
+    "authors": "Matteo Benetton",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|CMU Tepper|Mingjun Sun": {
+  "status": "ok",
+  "source": "https://www.mingjunsun.com/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Uncertainty Quantification for Financial Foundation Models: A Survey",
+    "authors": null,
+    "venue": "7th ACM International Conference on AI in Finance (ICAIF)",
+    "year": 2026,
+    "note": "Accepted",
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "What Do Public Firms Reveal About Firms Going Public?",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "High-Dimensional Factor Models with Cross-Sectional and Time-Series Predictors",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Dissecting Time-varying Anomalies",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Demand-based Links and Predictable Returns",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|CMU Tepper|Yue (Sarah) Wu": {
+  "status": "no_papers_listed",
+  "source": "https://www.cmu.edu/tepper/programs/phd/student-profiles/phd-student-wu-yue-sarah",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|Chicago Booth|Lauren Mostrom": {
+  "status": "ok",
+  "source": "https://www.laurenmostrom.com/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Investing in Customer Capital",
+    "authors": "Bianca He, Amir Sufi",
+    "venue": "Journal of Finance",
+    "year": null,
+    "note": "Forthcoming",
+    "url": null
+   },
+   {
+    "title": "FinTech and Customer Capital",
+    "authors": "Bianca He, Amir Sufi",
+    "venue": "AEA Papers and Proceedings",
+    "year": null,
+    "note": "Forthcoming",
+    "url": null
+   },
+   {
+    "title": "Venture Capital-Led Entrepreneurship in Health Care",
+    "authors": "Amitabh Chandra, Cirrus Foroughi",
+    "venue": "The Role of Innovation and Entrepreneurship in Economic Growth",
+    "year": 2022,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Reducing Volatility at the Source: Investment in Supply Chain Risk Management",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Birth of Finance Capitalism in the United States: Securities Underwriters on Corporate Boards, 1880-1920",
+    "authors": "Carola Frydman, Eric Hilt",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Chicago Booth|Sixun Tang": {
+  "status": "ok",
+  "source": "https://sixun-tang.info",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Competing Through Patent Litigation: Product-Market Targeting and Innovation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "When AI Meets Entrepreneurship: Evidence from the Commercialization of ChatGPT",
+    "authors": "Edoardo Marchesi",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Building or Blocking: Financing Constraints, Defensive Action, and Aggregate Innovation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Columbia|Kirsten Burr": {
+  "status": "no_papers_listed",
+  "source": "https://business.columbia.edu/post-grad/people/kirsten-burr (page not fetched; web search found no papers)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|Columbia|Meha Sadasivam": {
+  "status": "ok",
+  "source": "https://mehasadasivam.github.io",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Financing Limits of Local Adaptation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Different Shades of ESG Funds",
+    "authors": "Simona Abis, Andrea Buffa",
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Extreme Weather and Risk Perception",
+    "authors": null,
+    "venue": null,
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Climate Risk Transfer?",
+    "authors": "Jack McCoy",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Emory Goizueta|Dmitry Malakhov": {
+  "status": "ok",
+  "source": "https://www.dmitrymalakhov.com/research",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Welcome to the Factor Zoo: Where Mutual Fund Alpha Hides",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Another Moment for CAPM",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Mini Flash Crashes and Predictability in High-Frequency Markets",
+    "authors": "Tarun Chordia, Donald Lee, Andrei Kostyrka",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Good, the Bad, the Asymmetric: Evidence from a Conditional Density Model",
+    "authors": "Andrei Kostyrka",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Bad Tails, Bad Times",
+    "authors": "Justin Raymond Eloriaga",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|HEC Paris|Mian Liu": {
+  "status": "ok",
+  "source": "https://mianliu027.github.io/research/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Agency Conflicts and Financial Covenants: Theory and Structural Estimates of Control Rights",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Loan Renegotiation Channel of Quantitative Easing",
+    "authors": "Lin Xie",
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Endogenously Imperfect Risk Sharing and Financial Amplification",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Anatomy of Creditor Governance: Defensive and Offensive Control in Credit Markets",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|HEC Paris|Romain Rossello": {
+  "status": "ok",
+  "source": "https://www.romainrossello.com/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Decentralized Autonomous Organizations and the Limits of Shareholder Democracy",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Stablecoin Issuers' Financial Policies",
+    "authors": "Zijun Wang",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Voters' Preferences and the Willingness to Pay for Voting Rights: New Evidence from Decentralized Finance",
+    "authors": "Stefano Balietti, Stefan Kitzler, Pietro Saggese",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Platform Tokenization and Agency Conflicts",
+    "authors": "Michele Fabi, Valerie Laturnus",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|HEC Paris|Zijun Wang": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/zijunwangsite/home",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Does the winner-take-all rule favor minorities?",
+    "authors": "Yukio Koriyama",
+    "venue": "Social Choice and Welfare",
+    "year": null,
+    "note": "Forthcoming",
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Self-Fulfilling Liquidity in Intermediated Markets",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "A Model of Managerial Short-Termism",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Stablecoin Issuers' Financial Policies",
+    "authors": "Romain Rossello",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|HKU|Yican Liu": {
+  "status": "ok",
+  "source": "https://www.yicanliu.com/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "AI Exposure and Policy Preferences: Experimental Evidence from Latin America",
+    "authors": "Yiming Cao, Tian Chen, Guillermo Rosas",
+    "venue": "Journal of Development Economics",
+    "year": null,
+    "note": "Conditionally accepted via Pre-Results Review",
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "How Valuable are Consumers' Digital Footprints?",
+    "authors": "Tingyu Feng, Fangzhou Lu",
+    "venue": "Journal of Financial and Quantitative Analysis",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Crypto ATMs: Material Effects of Virtual Currencies",
+    "authors": "Lin William Cong, Tingyu Feng, Fangzhou Lu",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Happy App Happy Tip: The Return Predictability from Amusement Apps Downloads Around the World",
+    "authors": "Tse-Chun Lin, Fangzhou Lu",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "AI-Writing in the Financial Materials",
+    "authors": "Zongyuan Deng, Yuheng Wang",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Environmental Cost of Artificial Intelligence Development",
+    "authors": "Zongyuan Deng, Fan Zhang",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Media and Technology: The Direction of Technological and Scientific Research",
+    "authors": "Yiming Cao, Tian Chen, Guillermo Rosas",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Geo-Politics and Stock Returns in China",
+    "authors": "Fangzhou Lu, Hanyu Zheng",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Institutional Guidance Shapes Adolescents' AI Use and Well-Being: A Field Experiment in China",
+    "authors": "Junyou Chen, Jingyuan Hu",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Persistent Impact of Historical Conflicts in China",
+    "authors": "Tian Chen, Pei Gao, Yu-Hsiang Lei",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|INSEAD|Jiayi Wei": {
+  "status": "ok",
+  "source": "https://jiayi-wei.com/ (research page not yet online; JMP title from home page)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Real Effects of Anonymous Payment Systems",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|INSEAD|Minxia Chen": {
+  "status": "ok",
+  "source": "https://minxia-chen.com/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Clientele Effect in Sovereign Bonds: Evidence from Islamic Sukuk Bonds in Malaysia",
+    "authors": "Joseph Cherian, Ziyun Li, Yuping Shao, Marti G. Subrahmanyam",
+    "venue": "Critical Finance Review",
+    "year": 2022,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Watchlist Trap",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Trading on the Chatbot’s Clock",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Does Information Reduce the Disposition Effect? Attention, Mobile Push, and Trading at a Loss",
+    "authors": "Liqiang Huang, Massimo Massa",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Selection Behind the Penalty: Strategic and Mandatory AI Disclosure in Music Streaming",
+    "authors": "Xi Kang, Yahe Tan, Wanshu Niu, Liqiang Huang",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "When Consumers Become Investors (Investomers): Ownership Effects in Music Royalty Markets",
+    "authors": "Liqiang Huang, Xi Kang, Yahe Tan",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Push to Read and Trade",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Do Machines Help Analysts? Evidence from AI-Augmented Equity Forecasts",
+    "authors": "Xi Kang, Xinran Zhao",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Dollar Funding Pressure, Syndication Structure, and Inefficient Monitoring: Evidence from the U.S. Syndicated Loan Market during the Euro Crisis",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress (inactive)",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|INSEAD|Xinran Zhao": {
+  "status": "no_papers_listed",
+  "source": "https://www.insead.edu/phd-student/xinran-zhao (profile lists no papers)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|Illinois Gies|Yucheng Zhou": {
+  "status": "ok",
+  "source": "https://yuchengzhou.com/papers/ (also https://yuchengzhou.com/wip/)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "A Macro-Finance Model of Capital Reallocation and Misallocation",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Equity Constraint Channel of Monetary Policy",
+    "authors": "Heitor Almeida, Timothy Johnson, Sebastiao Oliveira",
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Rates Up, Balances Up: Uneven Transmission of Monetary Policy in Consumer Credit Markets",
+    "authors": "Viraj Chordiya, Divij Kohli, Justin Mohr",
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Beliefs Heterogeneity and the Equity Term Structure",
+    "authors": "Hamilton Galindo Gil",
+    "venue": null,
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Macroprudential Policy, Balance Sheets, and Tail Risk",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Transmission of Productivity Shocks: Implications from a Two-Sector Economy",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Huggett Meets Epstein-Zin in Continuous Time",
+    "authors": "Hamilton Galindo Gil, Ji Huang",
+    "venue": null,
+    "year": 2025,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|LSE|Andrew Wang": {
+  "status": "ok",
+  "source": "https://andrewjmwang.github.io/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Variance Misperception and Biased Beliefs",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Option Prices, Analyst Expectations, and Stock Returns",
+    "authors": "Ian Martin, Christian Wagner, Moritz Rodenkirchen",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|LSE|Jianing Yuan": {
+  "status": "ok",
+  "source": "https://www.lse.ac.uk/finance/phd-job-market (only the JMP is listed)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Price Discovery, Shareholder Information, and Credible Activism",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|LSE|Marco Bellifemine": {
+  "status": "ok",
+  "source": "https://marcobellifemine.com",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Monetary Unions with Heterogeneous Fiscal Space",
+    "authors": "Adrien Couturier, Rustam Jamilov",
+    "venue": "Journal of International Economics",
+    "year": 2025,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "The Regional Keynesian Cross",
+    "authors": "Adrien Couturier, Rustam Jamilov",
+    "venue": "Review of Economic Studies",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Can't Lend or Won't Lend? Beliefs and the Macroeconomics of Financial Crises",
+    "authors": "Adrien Couturier, Jacopo Tozzo",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Sentiment Channel of Fiscal Policy",
+    "authors": "Adrien Couturier, Jacopo Tozzo",
+    "venue": null,
+    "year": null,
+    "note": "Submitted",
+    "url": null
+   },
+   {
+    "title": "A Distributional Theory of Household Sentiment",
+    "authors": "Adrien Couturier, Seyed Hosseini Maasoum",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "HBANK: Monetary Policy with Heterogeneous Banks",
+    "authors": "Rustam Jamilov, Tommaso Monacelli",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Marginal Propensity to Invest: Evidence from Italian Public Debt Settlements",
+    "authors": "Adrien Couturier",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|LSE|Niels Wagner": {
+  "status": "ok",
+  "source": "https://www.nielswagner.com/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Rechargeable Collateral and Bank Lock-in",
+    "authors": "Angela Maddaloni",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Bank Local Specialisation",
+    "authors": "Anne Duquerroy, Clément Mazet-Sonilhac, Jean-Stéphane Mésonnier, Daniel Paravisini",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Captive Steering under Zero Emission Vehicle Mandates",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Maturity Markups",
+    "authors": "Nuno Clara, Arthur Taburet",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|LSE|Yuan Tian": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/yuantian11/research",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "When Banks Retreat: The Demand for Public Safe Assets",
+    "authors": "Jialu Sun",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Platform Money",
+    "authors": "Kathy Yuan, Emre Özdenören",
+    "venue": null,
+    "year": null,
+    "note": "Submitted to JPE",
+    "url": null
+   },
+   {
+    "title": "Cheap Funding, Fragile Ties: Lending Relationships in Money Markets",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Price of Balance-Sheet Warehousing: Quarter-End Dislocations in U.S. Money Markets and the Limits to Arbitrage",
+    "authors": "Kathy Yuan",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Tokenized Money Funds",
+    "authors": "Kathy Yuan",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Foreign Exchange Intervention: Evidence from Bank of Japan",
+    "authors": "Kathy Yuan, Tomohiro Tsuruga",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "U.S. Dealer Banks on FX Swap Market",
+    "authors": "Tomohiro Tsuruga, Andrea Deghi, Taneli Mäkinen",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|MIT Sloan|Giuditta Perinelli": {
+  "status": "ok",
+  "source": "https://www.giudittaperinelli.com/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Temporary Liquidity and Firm Investment: The Large Effects of Corporate Loan Moratorium in a Time of Crisis",
+    "authors": "Alberto Grassi, Nils Kerwien",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Investors and Inflation",
+    "authors": "Marie Hoerova, Johannes Breckenfelder",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Financial Accelerator with Specialized Lenders",
+    "authors": "Basile Dubois, Paul Rintamäki",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Inflation Expectations, Investment, and the Mundell-Tobin Financing Channel",
+    "authors": "Jackson Mejia, Alex Tagliabracci",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress; draft under revision",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|MIT Sloan|Jiageng Liu": {
+  "status": "ok",
+  "source": "https://www.jiagengliu.com/ (past research: /past-research)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Anatomy of a Run: The Terra Luna Crash",
+    "authors": "Igor Makarov, Antoinette Schoar",
+    "venue": "Journal of Financial Economics",
+    "year": 2026,
+    "note": "184: 104359",
+    "url": null
+   },
+   {
+    "title": "Variance-Reduced Stochastic Learning by Networked Agents under Random Reshuffling",
+    "authors": "Kun Yuan, Bicheng Ying, Ali H. Sayed",
+    "venue": "IEEE Transactions on Signal Processing",
+    "year": null,
+    "note": "67(2), 351-366",
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Longshot Trading, Limited Arbitrage, and Prediction Market Design",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "JMP; Draft to come",
+    "url": null
+   },
+   {
+    "title": "Competition in Crypto Staking",
+    "authors": "Igor Makarov, Antoinette Schoar",
+    "venue": null,
+    "year": 2025,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Inflation and the Two Sides of Banks: How Disinflation Replaces Liquidity with Lending",
+    "authors": "Tomás da Nóbrega",
+    "venue": null,
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Entrepreneurial Learning on GitHub",
+    "authors": null,
+    "venue": null,
+    "year": 2024,
+    "note": "Unpublished Master's thesis",
+    "url": null
+   },
+   {
+    "title": "Price Discovery of Post-IPO Stocks in China",
+    "authors": null,
+    "venue": null,
+    "year": 2020,
+    "note": "Unpublished Master's thesis",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Michigan Ross|Filipp Prokopev": {
+  "status": "ok",
+  "source": "https://sites.google.com/umich.edu/filippprokopev/research",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "A Necessary Lie: Conflict of Interest in Investor-Paid Ratings",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "When climate-risk disclosures reduce green investment and welfare",
+    "authors": "Snehal Banerjee",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Competition and Collusion Among Strategic Traders Who Face Uncertainty",
+    "authors": "Snehal Banerjee, George Malikov",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Market Fragmentation and Price Informativeness",
+    "authors": "Zhengge Zhou",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Green Bonds: Bridging Managerial Incentives and Environmental Goals",
+    "authors": "Natasha Boreyko",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Northwestern Kellogg|Federico Lenzi": {
+  "status": "ok",
+  "source": "https://federicolenzi.com/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Subnational Income, Growth, and the COVID-19 Pandemic",
+    "authors": "M. A. Choudhary, I. Dal Barco, I. A. Haqqani, N. Limodio",
+    "venue": "The World Bank Economic Review",
+    "year": 2025,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Downside-Risk Sharing",
+    "authors": "L. Rossi",
+    "venue": "European Economic Review",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Advertising versus Screening? Online-Collected Data in Lending Markets",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Collateral and Technology Adoption",
+    "authors": "E. Benmelech, S. Rotberg",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Strategic Search Frictions in the AI Age",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Pooling Collateral: Helping or Trapping SMEs?",
+    "authors": "T. Chen, R. Wittenberg-Moerman",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Guaranteed Innovation?",
+    "authors": "G. Cascarino",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Northwestern Kellogg|Junko Oguri": {
+  "status": "ok",
+  "source": "https://junkoguri.com/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Ample Reserves for Whom? The Role of Foreign Banks in U.S. Monetary Policy Implementation",
+    "authors": "Cristoforo Pizzimenti",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Supply Chain of Synthetic Dollar Funding",
+    "authors": "Jialu Sun",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Monetary Policy and Firm Financing in Emerging Markets",
+    "authors": "Pablo Sanchez, Rodolfo Erasmo Oviedo Moguel",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Northwestern Kellogg|Lior Shabtai": {
+  "status": "ok",
+  "source": "https://liorshabtai.com/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Generalist Inventors and Induced Innovation",
+    "authors": "Yudan Ying",
+    "venue": null,
+    "year": null,
+    "note": "JMP; draft coming soon",
+    "url": null
+   },
+   {
+    "title": "The Unintended Consequences of Carbon Markets",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Decline of Productivity-Enhancing R&D",
+    "authors": "Efraim Benmelech",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Unfinished Business: The Long Ascent of Women into Corporate Leadership",
+    "authors": "Richard B. Baker, Carola Frydman, Grant Goehring, Eric Hilt",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Northwestern Kellogg|Yudan Ying": {
+  "status": "ok",
+  "source": "https://yudanying.github.io/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Global Financial Integration and Productivity: The Role of Risk Sharing",
+    "authors": "Takaaki Sagawa",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Revisiting the Global Allocation Puzzle: The Composition of Capital Flows",
+    "authors": "Takaaki Sagawa",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Generalist Inventors and Induced Innovation",
+    "authors": "Lior Shabtai",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Risk Sharing and Credit Allocation in Bank Networks",
+    "authors": "Anna Rogantini-Picco",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Fiscal Stress and Macroeconomic Fragility",
+    "authors": "Brian Livingston",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Ohio State Fisher|Ezra Daniel": {
+  "status": "ok",
+  "source": "https://ezra-daniel.github.io/publications/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Belief Distortions and Lending Cyclicality: Evidence from Industry-Specialized Banks",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "How Banks Responded to the 2023 Interest Rate Shock",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Ohio State Fisher|Seiwoong Hong": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/seiwoonghonghomepage/research",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "How Do Firms Respond to Patent Grants to Related Firms?",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Funding the Uncommon: Financial Incentives and Corporate Investment in Rare Disease Innovation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Draft available upon request",
+    "url": null
+   },
+   {
+    "title": "Intangible Capital and the Boundaries of the Firm",
+    "authors": "René Stulz",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Trading the Grid: Financial Traders in Electricity Markets",
+    "authors": "Dustin Bae, Itzhak Ben-David, Hyeongjun Kim",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Ohio State Fisher|Yicheng Liu": {
+  "status": "ok",
+  "source": "https://fisher.osu.edu/academic-departments/department-finance/programs/phd-program/job-market-candidates (personal site yichengliu.finance research page not retrievable)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "What Are Intangibles Worth? Production versus Market Power",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State Smeal|Haowei (Wayne) Yuan": {
+  "status": "ok",
+  "source": "https://www.wayneyuanfinance.com/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "Peer Momentum",
+    "authors": "Mihail Velikov, Ulas Misirli, Daniela Scida",
+    "venue": "Review of Finance",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   },
+   {
+    "title": "Mispriced Equity, Default Likelihood, and Credit Rating Accuracy",
+    "authors": "Alexei Zhdanov, Samuel Bonsall IV",
+    "venue": "Journal of Accounting and Economics",
+    "year": null,
+    "note": "Reject & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Managerial Expected Growth and the Value Premium",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "A Tale of Two Anomalies: Value, Momentum, and Risk Sentiment",
+    "authors": "Christian Lundblad, Mihail Velikov, Alexei Zhdanov",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State Smeal|Jewon Shin": {
+  "status": "ok",
+  "source": "https://www.jewonshin.com/research",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "How Does Taxation Affect Corporate Social Responsibility? Evidence from a Korean Tax Reform",
+    "authors": "Hyejin Park, Jiyoon Lee",
+    "venue": "Journal of Business Ethics",
+    "year": 2024,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Corporate Governance, Compensation Mechanisms, and Voluntary Disclosure of Carbon Emissions: Evidence from Korea",
+    "authors": "Jiyong Park, Jiyoon Lee",
+    "venue": "Journal of Contemporary Accounting & Economics",
+    "year": 2023,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Burdening the Young: Life Cycle Effects of Mandatory Disclosure on Investment",
+    "authors": "Matthew Gustafson",
+    "venue": "Contemporary Accounting Research",
+    "year": null,
+    "note": "Revise and Resubmit",
+    "url": null
+   },
+   {
+    "title": "Does corporate governance affect foreign investor ownership in emerging economies?: Evidence from the 1999 reform in Korea",
+    "authors": "Jiyoon Lee",
+    "venue": "Journal of Corporate Finance",
+    "year": null,
+    "note": "Revise and Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Can Disclosure Mandates Shape Corporate Reputation? Evidence from ESG Profiles around the SRC Reform",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Discerning Acquirer Value from M&A Transcripts",
+    "authors": "Charles Cao, Matthew Gustafson, Wei Wang",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Corporate Carbon Offsetting: An Empirical Analysis of Korean Firms",
+    "authors": "Hyejin Park, Jiyoon Lee, Eunpyo Hong",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "From None to One: Evaluating the Impact of Moderate Gender Diversity on Corporate Value",
+    "authors": "Jiyoon Lee",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Activism Without Enforcement: Gadfly Activism and Symbolic Corporate Responses",
+    "authors": "Gunchang Kim",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State Smeal|Masashi Takahashi": {
+  "status": "ok",
+  "source": "https://masashiltakahashi.github.io/research/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Who Holds U.S. Bonds and How It Shapes the Yield Effects of QE and QT",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Rationed, Not Repriced: Mortgage Access and House Prices",
+    "authors": "Wenchuan Zhao",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Expectations and Risk Premiums in Illiquid Real Assets",
+    "authors": "Jiro Yoshida",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Climate Risk in Financial Contracts: Evidence from Leases, Loans, Bonds, and Mergers",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Temple Fox|Sebeom Oh": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/sebeom-oh",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "A comparative analysis of housing prices in different cities using the Black–Scholes and Jump Diffusion models",
+    "authors": "Hyejin Ku, Doobae Jun",
+    "venue": "Finance Research Letters",
+    "year": 2022,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Measuring CSR, ESG, and Sustainability",
+    "authors": "J.H. John Kim",
+    "venue": "Responsible Firms: CSR, ESG, and Global Sustainability (book chapter, eds. J. Jay Choi and Jimi Kim)",
+    "year": 2024,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Price Discovery Within Earnings Calls",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Preference-Driven Herding in Primary Markets: Evidence from Non-Fungible Tokens",
+    "authors": "Samuel Rosen, Anthony Lee Zhang",
+    "venue": null,
+    "year": null,
+    "note": "Under review",
+    "url": null
+   },
+   {
+    "title": "Artificial Trading in Transparent Market: Evidence from NFT Wash Trading",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Under review",
+    "url": null
+   },
+   {
+    "title": "CEO Q&A Engagement and the Cost of Debt",
+    "authors": "J.H. John Kim, Yinge (Jack) Zhang",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UNC Kenan-Flagler|Matthew Johnsen": {
+  "status": "no_papers_listed",
+  "source": "https://www.kenan-flagler.unc.edu/programs/phd/job-market-candidates-placements/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|UNC Kenan-Flagler|Naman Nishesh": {
+  "status": "ok",
+  "source": "https://www.namannishesh.com/research",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Labor and Corporate Finance",
+    "authors": "Paige Ouimet, Elena Simintzi",
+    "venue": "Handbook of Corporate Finance",
+    "year": 2024,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "When Emergency Medicine Becomes a Staple Diet: Evidence from Indian Banking Crisis",
+    "authors": "Nithin Mannil, Prasanna Tantri",
+    "venue": "Journal of Banking and Finance",
+    "year": 2024,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Familiarity Breeds Contagion",
+    "authors": "Sumit Agarwal, Aditya Murlidharan, Prasanna Tantri",
+    "venue": "Journal of Money, Credit and Banking",
+    "year": 2026,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Debt Relief and the Reallocation of Household Labor and Capital",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Big Data and Bigger Firms: A Labor Market Channel",
+    "authors": "Abhinav Gupta, Elena Simintzi",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Does Regulatory Forbearance Exacerbate Agency Frictions Within Firms?: The Indian Experience",
+    "authors": "Yakshup Chopra, Prasanna Tantri",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UT Austin McCombs|Minjoo Kim": {
+  "status": "ok",
+  "source": "https://minjookim-finance.github.io/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Credit Access and Retirement Savings",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Firm Shocks and Retirement Savings",
+    "authors": "Clemens Sialm, Hanjiang Zhang",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Who Bears Rising Commercial Property Insurance Costs?",
+    "authors": "Prateek Mahajan, Zirui Wang",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Labor Market Outcomes and Compensation for High-Skilled Workers",
+    "authors": "Mindy Xiaolan, Aaron Pancost",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UT Austin McCombs|Prateek Mahajan": {
+  "status": "ok",
+  "source": "https://www.prateekmahajan.com/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Did FinTech Lenders Facilitate PPP Fraud?",
+    "authors": "John M. Griffin, Samuel Kruger",
+    "venue": "Journal of Finance",
+    "year": 2023,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Is Fraud Contagious? Social Connections and the Looting of COVID Relief Programs",
+    "authors": "John M. Griffin, Samuel Kruger",
+    "venue": "Review of Financial Studies",
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Did Pandemic Relief Fraud Inflate House Prices?",
+    "authors": "John M. Griffin, Samuel Kruger",
+    "venue": "Journal of Financial Economics",
+    "year": 2026,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Missing Homeowners: Never Entered or Early Exit?",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Who Bears Rising Commercial Property Insurance Costs?",
+    "authors": "Minjoo Kim, Zirui Wang",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Is Auto ABS a Vehicle for Misreporting?",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UT Austin McCombs|Zirui Wang": {
+  "status": "ok",
+  "source": "https://www.zirui-wang.com/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Do Mortgage Brokers Help Borrowers Get Better Rates?",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Are Crypto Anti-Money Laundering Policies Effective?",
+    "authors": "John M. Griffin, Kevin Mei",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Who Bears Rising Commercial Property Insurance Costs?",
+    "authors": "Minjoo Kim, Prateek Mahajan",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UW Foster|Hossein Poorvasei": {
+  "status": "no_papers_listed",
+  "source": "https://foster.uw.edu/academics/degree-programs/phd-program/directory/hossein-poorvasei/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|UW Foster|Jun Xu": {
+  "status": "no_papers_listed",
+  "source": "https://foster.uw.edu/academics/degree-programs/phd-program/directory/jun-xu/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|UW Foster|Kourosh Ghobadi": {
+  "status": "no_papers_listed",
+  "source": "https://foster.uw.edu/academics/degree-programs/phd-program/directory/kourosh-ghobadi/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|UW Foster|Mingyang (Chris) Liu": {
+  "status": "no_papers_listed",
+  "source": "https://foster.uw.edu/academics/degree-programs/phd-program/directory/mingyang-chris-liu/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|UW Foster|Yifan Luo": {
+  "status": "ok",
+  "source": "https://robinyluo.github.io/ (job-market site of Robin Yifan Luo; UW Foster directory: https://foster.uw.edu/academics/degree-programs/phd-program/directory/yifan-luo/)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "In Search of a Unicorn: Dynamic Agency with Endogenous Investment Opportunities",
+    "authors": "Felix Feng, Beatrice Michaeli",
+    "venue": "Journal of Accounting and Economics",
+    "year": 2024,
+    "note": null,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0165410124000685"
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Misallocation in Banking",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Optimal Schedules of Incentives and Cash Flows",
+    "authors": "Felix Feng, Mark Westerfield",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395132"
+   },
+   {
+    "title": "Clientele Specialization, Stable Capital, and Value in Asset Management",
+    "authors": "Hossein Poorvasei",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Money-Market Capacity and the Funding Channel of Monetary Policy",
+    "authors": "Germán Gutiérrez, Hossein Poorvasei",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Industrial Organization of Safe Savings",
+    "authors": "Germán Gutiérrez, Hossein Poorvasei",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Production Functions in Asset Management",
+    "authors": "Ahmed Guecioueur",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UW Foster|Yizhen Liu": {
+  "status": "no_papers_listed",
+  "source": "https://foster.uw.edu/academics/degree-programs/phd-program/directory/yizhen-liu/ (directory profile only)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|Wharton|Benjamin David": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/benjamin-david",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Value of Acquisition Capacity",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "How (Not) to Identify Demand Elasticities in Dynamic Asset Markets",
+    "authors": "Jules van Binsbergen, Christian Opp",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Yale SOM|Dolly Yu": {
+  "status": "ok",
+  "source": "https://dollyyu97.github.io/research/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Shadow Cost of Credit: Payment Choice and Credit Capacity",
+    "authors": "Jose Murillo",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Fintech to the (Worker) Rescue? Earned Wage Access, Worker Welfare and Employee Retention",
+    "authors": "Jose Murillo, Boris Vallée",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Riding the Waves: Geographic Diversification and Bank Responses to Local Funding Shocks",
+    "authors": "Wei Li, Mingmei Liu",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Economics of Rent-to-Own Housing",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Mortgage Securitization and Housing Affordability",
+    "authors": "Daojing Zhai",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Yale SOM|Dong Huang": {
+  "status": "ok",
+  "source": "https://www.donghuang-finance.com/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Delegating Dirty Work: Blame Shifting and the Boundary of the Firm",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "How Good is AI at Twisting Arms? Experiments in Debt Collection",
+    "authors": "James J. Choi, Zhishu Yang, Qi Zhang",
+    "venue": null,
+    "year": 2025,
+    "note": "NBER Working Paper No. 33669",
+    "url": null
+   },
+   {
+    "title": "Non-Fungible Tokens as Investment",
+    "authors": "William N. Goetzmann, Milad Nozari",
+    "venue": null,
+    "year": 2026,
+    "note": "NBER Working Paper No. 34837",
+    "url": null
+   },
+   {
+    "title": "Selection-Neglect in the NFT Bubble",
+    "authors": "William N. Goetzmann",
+    "venue": null,
+    "year": 2023,
+    "note": "NBER Working Paper No. 31498",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Yale SOM|Hongyu Wu": {
+  "status": "ok",
+  "source": "https://www.hongyu-wu.com/research",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Credit Information in Earnings Calls",
+    "authors": "Harry Mamaysky, Yiwen Shen",
+    "venue": "Journal of Banking and Finance",
+    "year": null,
+    "note": "Forthcoming",
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "On the Dynamics of Belief Correction",
+    "authors": "Bryan Kelly, Semyon Malamud, Emil Siriwardane",
+    "venue": "Quarterly Journal of Economics",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Primary Dealers and U.S. Treasury Yields",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "What Do Investors Fear in the Cross-Section? A News-Based Approach",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Can LLMs Do Better? Post-Training Alignment in Expected Return Estimation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Yale SOM|Jamil A. Rahman": {
+  "status": "ok",
+  "source": "https://www.jarahman.com/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Machine Forecast Disagreement",
+    "authors": "Turan Bali, Bryan Kelly, Mathis Mörke",
+    "venue": "Review of Financial Studies",
+    "year": 2026,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Foreign Economic Policy Uncertainty and U.S. Equity Returns",
+    "authors": "Mohammad Jahan-Parvar, Yuriy Kitsul, Beth Anne Wilson",
+    "venue": "Review of Asset Pricing Studies",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "What Binds Matters: Bank Constraints and Asset Prices",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Credit Cycles and Asset Price Bubbles",
+    "authors": "Matthew Baron, Zhou Fan",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Yale SOM|Pranav Garg": {
+  "status": "ok",
+  "source": "https://www.gargpranav.com/research",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Who Insures Firms? Banking Regulation and the Supply of Corporate Liquidity Insurance",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Facing Default?",
+    "authors": "Marius Guenzel, Shimon Kogan, Marina Niessner, Kelly Shue",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Monetary Transmission in Equity Markets: Evidence from Financial Intermediaries",
+    "authors": "Matthew Famiglietti",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Insulated Leaders: Market Share and Earnings Cyclicality",
+    "authors": "J. Weber",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "When Supervision Meets Politics: Bailouts, Lending and Investment",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "From Collateral to Credit to Real Activity: Causal Evidence on the Bank Lending Channel",
+    "authors": "A.-L. Delatte, J. Imbs",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Passive Money and Asset Volatility",
+    "authors": "M. Famiglietti",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Yale SOM|Tania Diaz-Bazan": {
+  "status": "ok",
+  "source": "https://taniadiazbazan.com/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Political Orientation and Household Climate Adaptation: Evidence from Building Permits",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Underreaction to Known Changes in Fundamental Value: Evidence from a Laboratory Experiment and Ex-Dividend Days",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Do Firms Benefit from Public Health Interventions? Evidence from Malaria Control in Sub-Saharan Africa",
+    "authors": "Eli P. Fenichel, Stefano Giglio, Tobi Oladiran",
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Measuring Inequality from Top to Bottom",
+    "authors": null,
+    "venue": null,
+    "year": 2014,
+    "note": null,
+    "url": null
+   }
+  ]
+ }
+}

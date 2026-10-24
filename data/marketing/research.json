@@ -1,0 +1,1607 @@
+{
+ "2026-2027|Berkeley Haas|Kristine Cho": {
+  "status": "ok",
+  "source": "https://kristinecho.com/current-research-projects/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Doubling-back aversion: A reluctance to make progress by undoing it",
+    "authors": "C. R. Critcher",
+    "venue": "Psychological Science",
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Liking scales fail to accurately capture preferences for probabilistic outcomes",
+    "authors": "S. M. Baum, E. R. K. Evers",
+    "venue": "Psychological Science",
+    "year": null,
+    "note": "Conditionally accepted",
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "When Stating the Obvious Backfires: Consumers Dislike Products that Advertise Positive but Obvious Attributes",
+    "authors": "E. R. K. Evers",
+    "venue": "Journal of Consumer Research",
+    "year": null,
+    "note": "JMP; Revise & Resubmit (2nd round)",
+    "url": null
+   },
+   {
+    "title": "Too basic to be expert: Consumers believe popular preferences indicate a lack of expertise",
+    "authors": "A. E. Geiser, L. D. Nelson",
+    "venue": "Journal of Consumer Research",
+    "year": null,
+    "note": "Revise & Resubmit (2nd round)",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Add-on vs. all-in pricing: Price presentation in menus skews consumer preferences",
+    "authors": "W. H. Ryan, C. Hong, E. R. K. Evers",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Choose now or wait? When and why choice set fluctuations prompt choice",
+    "authors": "C. R. Critcher",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Targeting referrers by value: Why who refers matters more than how many",
+    "authors": "R. Gershon, Z. Jiang",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Berkeley Haas|Peiyao Li": {
+  "status": "ok",
+  "source": "https://www.peiyao-li.com/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Determining the validity of large language models for automated perceptual analysis",
+    "authors": "Noah Castelo, Zsolt Katona, Miklos Sarvary",
+    "venue": "Marketing Science",
+    "year": 2024,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "AI and perception biases in investments: An experimental study",
+    "authors": "Anastassia Fedyk, Ali Kakhbod, Ulrike Malmendier",
+    "venue": "Journal of Financial Economics",
+    "year": null,
+    "note": "Forthcoming",
+    "url": null
+   },
+   {
+    "title": "Are Patents with Female Inventors Under-Cited? Evidence from Text Estimation",
+    "authors": "Yael Hochberg, Ali Kakhbod, Kunal Sachdeva",
+    "venue": "Journal of Financial Economics",
+    "year": 2026,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Measuring Creative Destruction",
+    "authors": "Ali Kakhbod, Leonid Kogan, Dimitris Papanikolaou",
+    "venue": "Review of Financial Studies",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "No Spoilers: A Contamination-Free LLM for Brand Perception Analysis",
+    "authors": "Zsolt Katona",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "NoLBERT: A No Lookahead (back) Foundational Language Model",
+    "authors": "Ali Kakhbod",
+    "venue": null,
+    "year": null,
+    "note": "Workshop paper, NeurIPS 2025 (GenAI in Finance)",
+    "url": null
+   },
+   {
+    "title": "Personality, Selective Recall, and Investor Heterogeneity: Experimental Evidence",
+    "authors": "Anastassia Fedyk, Ali Kakhbod, Ulrike Malmendier",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "How AI outperforms humans at creative idea generation",
+    "authors": "Noah Castelo, Zsolt Katona, Miklos Sarvary",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|CMU Tepper|Yuan Yuan": {
+  "status": "ok",
+  "source": "https://yyuan01.github.io/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Gender and Racial Price Disparities in the NFT Marketplace",
+    "authors": "Xiao Liu, Shunyuan Zhang, Kannan Srinivasan",
+    "venue": "International Journal of Research in Marketing",
+    "year": 2024,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Smiles in Profiles: Improving Fairness and Efficiency Using Estimates of User Preferences in Online Marketplaces",
+    "authors": "Susan Athey, Dean Karlan, Emil Palikot",
+    "venue": "Management Science",
+    "year": 2025,
+    "note": "Major revision",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Clean Up Your Act: Impact of Self-Disclosure Regulation on Live Streaming",
+    "authors": "Nikhil Malik, Wen Wang, Kannan Srinivasan",
+    "venue": null,
+    "year": 2024,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Columbia|Nathaniel Posner": {
+  "status": "ok",
+  "source": "https://www.nathanielposner.com/research",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Beyond Exponential Growth Bias: Principal Linearity Neglect in Savings Judgments",
+    "authors": "J. Gladstone",
+    "venue": "Journal of Consumer Psychology",
+    "year": null,
+    "note": "Conditionally accepted",
+    "url": null
+   },
+   {
+    "title": "Dark Defaults: How Choice Architecture Steers Political Campaign Donations",
+    "authors": "A. Simonov, K. Mrkva, E. J. Johnson",
+    "venue": "Proceedings of the National Academy of Sciences",
+    "year": 2023,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Nudging App Adoption: Choice Architecture Facilitates Consumer Uptake of Mobile Apps",
+    "authors": "C. Reeck, K. Mrkva, E. J. Johnson",
+    "venue": "Journal of Marketing",
+    "year": 2023,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Do Nudges Reduce Disparities? Choice Architecture Compensates for Low Consumer Knowledge",
+    "authors": "K. Mrkva, C. Reeck, E. J. Johnson",
+    "venue": "Journal of Marketing",
+    "year": 2021,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Social Concerns and Financial Reasoning When Borrowing from Family",
+    "authors": "V. Morwitz",
+    "venue": "Journal of Consumer Research",
+    "year": null,
+    "note": "JMP; Revise & Resubmit",
+    "url": null
+   },
+   {
+    "title": "Linguistic Variability, Mind Perception, and Trust in Artificial Intelligence",
+    "authors": "E. Park, B. Schmitt",
+    "venue": "Journal of Marketing",
+    "year": null,
+    "note": "Invited for second-round review",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Misperceptions of Indebtedness in Prosocial Exchange",
+    "authors": "S. Davidai, V. Morwitz",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Silent Sanctions: Costly Private Welfare Destruction in Response to Innocuous Yet Repugnant Consumption Behaviors",
+    "authors": "E. Friedman, J. Dana",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Effect of Market Expansion on Social Help-Seeking",
+    "authors": "V. Morwitz",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "A Theory of Consolation Prizes",
+    "authors": "A. Krefeld-Schwalb, B. Van den Bergh",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Impact of Risky Financial Decision-Making on Social Judgment",
+    "authors": "J. Lee, V. Morwitz",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Relationship Between Optimism and Debt",
+    "authors": "J. Gladstone",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Columbia|Penny Yi-Wen Chen": {
+  "status": "ok",
+  "source": "https://ywchen82.github.io/publications/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Policy-Aware Sampling: Prioritizing Consequential Customers for Optimized Targeting Policies",
+    "authors": "Eva Ascarza, Oded Netzer",
+    "venue": "Journal of Marketing Research",
+    "year": null,
+    "note": "Conditionally accepted",
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Targeting with Operational Constraints",
+    "authors": "George Gui, Eva Ascarza",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Dual Monetization on Creator Platforms: The Interplay Between Advertising Revenue and Brand Sponsorship",
+    "authors": "Kinshuk Jerath",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Emory Goizueta|Felix Nguyen": {
+  "status": "no_papers_listed",
+  "source": "https://goizueta.emory.edu/staff/profiles/felix-nguyen",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|Georgia State Robinson|Davon Holmes": {
+  "status": "ok",
+  "source": "https://www.davonholmes.com/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Managing the Hedonic-Eudaimonic Happiness Tension: The Marketplace Happiness Framework for Transformative Consumer Research",
+    "authors": "Tessa Garcia-Collart, Ellen Campos Sousa, Ryan Cruz, Ludovica Scalco, Smriti Kumar, Amanda Spry, Eda Anlamlier, Ahmet Kocak, Nelson Amaral",
+    "venue": "Journal of Public Policy & Marketing",
+    "year": null,
+    "note": "Accepted",
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Beyond Visual Realism: The Role of Ownership in Virtual Influencer Authenticity and Engagement",
+    "authors": "Barbara Duffek, Naveen Donthu",
+    "venue": "Journal of Business Research",
+    "year": null,
+    "note": "JMP; Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": []
+ },
+ "2026-2027|Georgia State Robinson|Ritesh Adhyapak": {
+  "status": "ok",
+  "source": "https://robinson.gsu.edu/phd/students-on-the-job-market/ (profile only; JMP title from batch)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Market Value of Latent Human Capital: Evidence from Executive Leadership During Environmental Disruption",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|HEC Paris|Mariia Lobanova": {
+  "status": "ok",
+  "source": "https://mariialobanova.site",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Risky Movers: Residential Mobility Increases Consumer Risk-Taking.",
+    "authors": "L. J. Shrum, Tina M. Lowrey",
+    "venue": null,
+    "year": null,
+    "note": "JMP; targeted for Journal of Consumer Research",
+    "url": null
+   },
+   {
+    "title": "Awesome Objects: Manipulating Vastness Makes Objects More Awe-Inspiring and Promotes Consumer Curiosity.",
+    "authors": "Craig L. Anderson",
+    "venue": null,
+    "year": null,
+    "note": "Manuscript in preparation",
+    "url": null
+   },
+   {
+    "title": "A World Run by Women: Seeking Safety from Gendered Violence.",
+    "authors": "Laura K. Hoeger, Tina M. Lowrey",
+    "venue": null,
+    "year": null,
+    "note": "Under review at Journal of Consumer Research",
+    "url": null
+   },
+   {
+    "title": "Residential Mobility and Concern with Keeping Up with the Joneses.",
+    "authors": "Dan Xie, L. J. Shrum, Tina M. Lowrey",
+    "venue": null,
+    "year": null,
+    "note": "In preparation for Journal of Consumer Psychology",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|INSEAD|Adithya Athreya Venkateswaran": {
+  "status": "ok",
+  "source": "https://adithya-athreya.github.io/ (via WebFetch; INSEAD profile https://www.insead.edu/phd-student/adithya-athreya-venkateswaran)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "Who's Coming to Dinner? How Subscription Business Models Affect Platform Participation",
+    "authors": "Khwan Kim, Manav Raj",
+    "venue": "Management Science",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Performance Marketing and Health Outcomes in Medical Crowdfunding",
+    "authors": "Varun Karamshetty, Paulo Albuquerque",
+    "venue": null,
+    "year": null,
+    "note": "JMP; preparing for Management Science",
+    "url": null
+   },
+   {
+    "title": "Access Pricing and Adverse Selection in Networked Experience Goods",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Does Earmarking Generate Greater Platform Revenue under Pay-What-You-Want Pricing?",
+    "authors": "V. Karamshetty, P. Albuquerque",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Generative AI and Demand for Marketing Jobs and Skills",
+    "authors": "S. Bharadwaj",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "When Sellers Curate: Portfolio Preferences, Pricing, and Platform Revenue in Digital Art Markets",
+    "authors": "P. Kireyev",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|INSEAD|Shemal Doshi": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/shemaldoshi/research",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "On the Trajectory of Discrimination: A Meta-analysis and Forecasting Survey Capturing 44 Years of Field Experiments on Gender and Hiring Decisions",
+    "authors": "Michael Schaerer and others (Gender Audits Forecasting Collaboration)",
+    "venue": "Organizational Behavior and Human Decision Processes",
+    "year": 2023,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Which consumers change their food choices in response to carbon footprint labels? The role of political ideology and other socio-demographic factors",
+    "authors": "Julia Diana Lenk, Pierre Chandon",
+    "venue": "Nutrients",
+    "year": 2025,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "When Bigger Is Not Better: How Temporal Reframing of Identical Sustainability Benefits Increases Adoption",
+    "authors": "Stephanie Lin, Hilke Plassmann",
+    "venue": "Journal of Consumer Research",
+    "year": null,
+    "note": "JMP; Invited for second-round review",
+    "url": null
+   },
+   {
+    "title": "Can Selectively Labeling Only Low-Emission Products Be Sufficient to Promote Sustainable Food Choices?",
+    "authors": "Pierre Chandon, Jad Chaaban",
+    "venue": "Journal of Marketing Research",
+    "year": null,
+    "note": "Invited for second-round review",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Why Some Consumers Respond More to Food Marketing: The Roles of Metabolic Health and Weight Loss Drug",
+    "authors": "Yann Cornil, Pierre Chandon, Marie-Christine Simon, Leonie Koban, Hilke Plassmann",
+    "venue": null,
+    "year": null,
+    "note": "Manuscript in preparation",
+    "url": null
+   },
+   {
+    "title": "Are We What We Eat? Nutrition Shifts Discounting in an Intertemporal Choice Task",
+    "authors": "Leonie Koban, Nicolette J. Sullivan, Daniela S. Schelski, Bernd Weber, Marie-Christine Simon, Hilke Plassmann",
+    "venue": null,
+    "year": null,
+    "note": "Manuscript in preparation",
+    "url": null
+   },
+   {
+    "title": "From Energy to Water: Spillovers from Social Norm Feedback",
+    "authors": "Rupali Kaul, Hilke Plassmann",
+    "venue": null,
+    "year": null,
+    "note": "Field data collected",
+    "url": null
+   },
+   {
+    "title": "Attention Allocation and Willful Ignorance in Sustainability Decision Making",
+    "authors": "Hilke Plassmann",
+    "venue": null,
+    "year": null,
+    "note": "Data collection in process",
+    "url": null
+   },
+   {
+    "title": "Climate Shocks and Pro-Environmental Behavior: Evidence from Natural Experiments",
+    "authors": "Robin Vigerbäck",
+    "venue": null,
+    "year": null,
+    "note": "Data collection in process",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|INSEAD|Xueqi Bao": {
+  "status": "ok",
+  "source": "https://www.xueqibao.com/research",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "\"I Need (Psychological) Space\": Consumers View Sacred–Profane Post Sequences as Inappropriate and Engage with Them Less",
+    "authors": "Stephanie C. Lin, Taly Reich, Tamar A. Kreps, Amitava Chattopadhyay",
+    "venue": "Journal of Consumer Research",
+    "year": null,
+    "note": "JMP; Revise & Resubmit",
+    "url": null
+   },
+   {
+    "title": "When and Why Mundane Mindfulness Signals Higher Social Class",
+    "authors": "Sungjin Jung, Andy J. Yap",
+    "venue": "Journal of Personality and Social Psychology",
+    "year": null,
+    "note": "Minor revision (formatting only)",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Earning Emotions: Appropriateness of Intensity of Emotional Expression Depends on Perceived Entitlement",
+    "authors": "Stephanie C. Lin, Tamar A. Kreps",
+    "venue": null,
+    "year": null,
+    "note": "Under preparation for Organizational Behavior and Human Decision Processes",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Illinois Gies|Erica Lee": {
+  "status": "ok",
+  "source": "https://giesbusiness.illinois.edu/profile/erica-ji-hyun-lee",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Branding in the Digital Age",
+    "authors": "M. Rodas, J. Stoner",
+    "venue": "Cambridge University Press Handbook on Digital Platforms",
+    "year": null,
+    "note": "Forthcoming; book chapter",
+    "url": null
+   },
+   {
+    "title": "Innovation in the sharing economy: Examining Uber's transformation",
+    "authors": "A. Rindfleisch, P. Kopalle",
+    "venue": "Journal of Product Innovation Management",
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "AI as a Convivial Tool",
+    "authors": "A. Rindfleisch, M. Kim",
+    "venue": "Journal of Macromarketing",
+    "year": 2024,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|MIT Sloan|Lei Huang": {
+  "status": "ok",
+  "source": "https://www.leihuang.site/research.html",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Theory Instead of Experiment (TIE): A Creator Valuation System at Tencent",
+    "authors": "Juanjuan Zhang",
+    "venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Impact of the COVID-19 Pandemic on the Behavior of Online Gig Workers",
+    "authors": "Xinyu Cao, Dennis Zhang",
+    "venue": "Manufacturing & Service Operations Management",
+    "year": 2022,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Designing Self-Sustaining Markets: An Application to Content Platforms",
+    "authors": "Juanjuan Zhang",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Network Recovery from Cascade Data: A Debiased Jacobian-Based Machine Learning Approach",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Experience and Identity-driven Consumer Choice: Evidence from China's Cultural Revolution",
+    "authors": "Nan Chen, Zemin (Zachary) Zhong",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|MIT Sloan|Zelin (James) Li": {
+  "status": "ok",
+  "source": "https://jameszli.com/research/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Artificial Intelligence and User-Generated Data Are Transforming How Firms Come to Understand Customer Needs",
+    "authors": "John R. Hauser, Chengfeng Mao",
+    "venue": "Review of Marketing Research",
+    "year": 2023,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Look Who's Talking: Gender Differences in Academic Job Talks",
+    "authors": "Amanda K. Glazer, Hubert Luo, Shivin Devgon, Catherine Wang, Xintong Yao, Steven Siwei Ye, Frances McQuarrie, Adalie Palma, Qinqin Wan, Warren Gu, Avi Sen, Zihui Wang, Grace D. O'Connell, Philip B. Stark",
+    "venue": "ScienceOpen Research",
+    "year": 2023,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Selling the Haggle",
+    "authors": "Keyan Li, Siqi Pei, Feng Yang",
+    "venue": "Management Science",
+    "year": null,
+    "note": "Major Revision",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Innovation Choice and Supply-Side Inference",
+    "authors": "Duncan I. Simester",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Voice, Revised: Uncovering the Effects of AI Assistance on Review Generation and Engagement",
+    "authors": "Song Lin",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Signaling by Saying No",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Wholesale Channel Spillovers",
+    "authors": "Eric T. Anderson, Duncan I. Simester",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Emotion- Versus Reasoning-based Drivers of Misinformation Sharing: A Field Experiment Using Text Message Courses in Kenya",
+    "authors": "Susan Athey, Matias Cersosimo, Kristine Koutout",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Salesperson Continuity in Multi-Stage Selling",
+    "authors": "Keyan Li, Siqi Pei",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Consumer Delegation in the Context of Agentic AI",
+    "authors": "Ingrid Koch, Keyan Li, Yuting Zhu",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Michigan Ross|Celeste Yi": {
+  "status": "ok",
+  "source": "https://celesteyi.com/research",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Negativity Bias for Visuals in Environmental Communication: Preservation versus Restoration Appeals",
+    "authors": "Aradhna Krishna",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "It's Not Just About Me: Givers Underestimate Recipients' Preferences for Extended Self-Gifts",
+    "authors": "Aradhna Krishna",
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   },
+   {
+    "title": "Tightwads and Spendthrifts as Gift Givers: Understanding Recipient Inferences About Sacrifice and Reciprocity",
+    "authors": "Scott Rick",
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   },
+   {
+    "title": "Concrete Claims Are More Effective than General Claims: Reducing Packaging-Induced Healthiness Misperceptions",
+    "authors": "Aradhna Krishna",
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Michigan Ross|Gheremey Edwards": {
+  "status": "ok",
+  "source": "https://sites.google.com/umich.edu/gheremeyedwards/research",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Documenting Self-Protective Behaviors While Navigating Retail Spaces",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Current research project",
+    "url": null
+   },
+   {
+    "title": "Updated Scale Development for Consumer Susceptibility to Interpersonal Influence",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Current research project",
+    "url": null
+   },
+   {
+    "title": "Unintentional Disrespect in Service Settings",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Current research project",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Northwestern Kellogg|Andrew Wooders": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/andrewwooders",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Mitigating Customer Returns before Checkout: The Role of Selection and Moral Hazard",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "When Your Best Customers are Your Worst: Moral Hazard and the Hidden Costs of Product Returns",
+    "authors": "Eric Anderson, Duncan Simester",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Minimax Play at Armageddon Chess",
+    "authors": "Todd Kaplan, Miguel Fonseca, John Wooders",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Impacts of Social Activism on Discrimination",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Northwestern Kellogg|Caroline Wang": {
+  "status": "ok",
+  "source": "https://carolinejunyuwang.github.io/research.html",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "What Drives Sustainable Choices? Do Good, Feel Good, and Look Good",
+    "authors": "Anocha Aribarg",
+    "venue": null,
+    "year": null,
+    "note": "JMP; Under review",
+    "url": null
+   },
+   {
+    "title": "Do Judge a Product by Its Sustainability Label: Evidence from the Amazon Marketplace",
+    "authors": "Sherry He",
+    "venue": null,
+    "year": null,
+    "note": "Under review",
+    "url": null
+   },
+   {
+    "title": "Product Reformulation: A Suitable Substitute?",
+    "authors": "Anna Tuchman, Youngeun Lee",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "AI-Enabled Referrals for Sustainable Service Adoption: Evidence from Field Experiments",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   },
+   {
+    "title": "Beyond the Label: Product Signals, Package Design, and Consumer Demand",
+    "authors": "Anocha Aribarg",
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   },
+   {
+    "title": "Pouring Out Sustainable Innovation: Misinformation, Debunking, and Consumer Responses",
+    "authors": "Sherry He",
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Northwestern Kellogg|Samuel Su": {
+  "status": "ok",
+  "source": "https://samuelsukellogg.github.io/research.html",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Rewarding Money or Time? The Sunk Cost Effects of Customized Rewards in Loyalty Programs",
+    "authors": "Zhigang Shou, Qinying Xia, Hongxin Teng",
+    "venue": "Journal of Marketing Research",
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Social Ties and Firm Performance: The Mediating Effects of Adaptive Capability and Supplier Opportunism",
+    "authors": "Wenting Zhu, Zhigang Shou",
+    "venue": "Journal of Business Research",
+    "year": 2017,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Time for Something New: The Effects of Time Perception on Novelty-Seeking Behavior",
+    "authors": "Rima Touré-Tillery",
+    "venue": null,
+    "year": null,
+    "note": "JMP; Under first-round review at Journal of Consumer Research",
+    "url": null
+   },
+   {
+    "title": "Time Flies When You’re Bad: The Fast-Forward Effect",
+    "authors": "Rima Touré-Tillery",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The First Draft Premium: How Consumers Use Creation Sequence to Evaluate Human–AI Collaborations",
+    "authors": "Sarena J. Su, Xinyue Zhou",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Up in the Air: How Perceived Lightness Cues Sustainability Judgments",
+    "authors": "Zhigang Shou, Sarena J. Su, Chuluo Sun",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Time Neglect: When We Can Always Borrow It from Tomorrow",
+    "authors": "Sarena J. Su",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Feel More or Less Time? When Awe Constructs or Destructs You",
+    "authors": "Sarena J. Su",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State Smeal|Aadya Sanwal": {
+  "status": "no_papers_listed",
+  "source": "https://smeal.psu.edu/directory/person/afs6594 (no papers listed)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|Penn State Smeal|Hannah Smith": {
+  "status": "ok",
+  "source": "https://smeal.psu.edu/directory/person/hes5407 (CV: Google Drive PDF linked from https://sites.google.com/psu.edu/hannah-bolland-smith/cv)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Trendy or Classic? Increasing Sustainability by Increasing Preference for Style Durability",
+    "authors": "Karen Page Winterich",
+    "venue": "Journal of Sustainability Marketing",
+    "year": 2024,
+    "note": "Commentary",
+    "url": null
+   },
+   {
+    "title": "SMEs Engagement with the Sustainable Development Goals: A Power Perspective",
+    "authors": "Roberta Discetti, Marco Bellucci, Diletta Acuti",
+    "venue": "Journal of Business Research",
+    "year": 2022,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "How Consumer Empathy for Social Initiatives Can Be Used to Increase Support for Environmental Initiatives",
+    "authors": "Karen Page Winterich",
+    "venue": "Journal of Consumer Research",
+    "year": null,
+    "note": "Dissertation essay 1; Revise & Resubmit (invited second-round review)",
+    "url": null
+   },
+   {
+    "title": "Who do Consumers Hold Responsible for Sustainability? How Sustainability Dimension and Firm Size Shape Corporate Responsibility Judgments?",
+    "authors": "Karen Page Winterich",
+    "venue": "Journal of Public Policy & Marketing",
+    "year": null,
+    "note": "Dissertation essay 2; Revise & Resubmit (invited third-round review)",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Externality Messaging Spurs Secondhand Clothing Consumption Through Moral Disgust for New Clothing",
+    "authors": "Karen Page Winterich",
+    "venue": null,
+    "year": null,
+    "note": "Preparing for submission",
+    "url": null
+   },
+   {
+    "title": "Returnless Replacements and Disposal Behaviors",
+    "authors": "Sara Loughran Dommer, John Costello",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Purdue Daniels|Arindam Roy Chowdhury": {
+  "status": "ok",
+  "source": "https://business.purdue.edu/academics/marketing/job-market-candidates.php",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Parking Fees and Retail Shopping: Evidence from the City of Chicago",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Purdue Daniels|Chaewon Seol": {
+  "status": "ok",
+  "source": "https://chaewonseol.github.io/research.html",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Consumer Impatience, Technological Innovation, and Market Structure",
+    "authors": "Federico Rossi, Sara Valentini, Elisa Montaguti",
+    "venue": "Marketing Science",
+    "year": 2026,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Trajectory Matters: Retail Exposure and Zoning Policies in Legal Cannabis Market",
+    "authors": "Federico Rossi, Ting Zhu",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "How Valuable Is My Location Data? Monetization vs Privacy",
+    "authors": "Federico Rossi, Ting Zhu",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "A Field Experiment on the Impact of Interactive Signage Exposure on Cannabis Consumption",
+    "authors": "Federico Rossi, Ting Zhu, Chris Thompson",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Stanford GSB|Abigail Bergman": {
+  "status": "ok",
+  "source": "https://www.abbybergman.com/ (CV: https://static1.squarespace.com/static/5a7587a94c326d1367432a73/t/6a21f8de55d7f561b198afbd/1780611294780/AB_CVJune2026.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Fifteen Reasons You Should Read This Paper: How Providing Many Arguments Increases Perceptions of Both Expertise and Persuasive Intent",
+    "authors": "Mustafa A. Hussein, Rhiannon Catapano, Zakary L. Tormala",
+    "venue": "Personality and Social Psychology Bulletin",
+    "year": 2025,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Linear Journeys Inspire More: How Progress Patterns in Goal Narratives Shape Inspiration",
+    "authors": "Szu-chi Huang",
+    "venue": null,
+    "year": null,
+    "note": "JMP; Under review at Journal of Personality and Social Psychology",
+    "url": null
+   },
+   {
+    "title": "Impact of Acceptance vs Learning in Failure Narratives",
+    "authors": "Szu-chi Huang",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Sharing How vs. What: Process vs. Outcome Narratives and Observers' Reactions",
+    "authors": "Szu-chi Huang",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Stanford GSB|Samuel Pertl": {
+  "status": "ok",
+  "source": "https://www.gsb.stanford.edu/programs/phd/academic-experience/students/samuel-pertl (CV: https://www.gsb.stanford.edu/sites/default/files/phd-cv/Pertl_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "A Multinational Analysis of How Emotions Relate to Economic Decisions Regarding Time or Risk",
+    "authors": "Tara Srirangarajan, Oleg Urminsky",
+    "venue": "Nature Human Behaviour",
+    "year": 2024,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Motivating Goal Strugglers: Bouncing Back After Failure Through Comparative Benchmarks",
+    "authors": "Szu-chi Huang",
+    "venue": null,
+    "year": 2026,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Divergent Motivational Effects of Self- vs. Peer-Comparison Benchmarks",
+    "authors": "Szu-chi Huang, Jonathan Levav",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "A New Opportunity for Success: Why Comparative Benchmarks Motivate Low Performers More Than Encouragement",
+    "authors": "Szu-chi Huang",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Temple Fox|Nattawat Theeralerttham": {
+  "status": "no_papers_listed",
+  "source": "https://www.fox.temple.edu/academics/fox-phd/students/students-market (https://www.fox.temple.edu/directory/nattawat-theeralerttham)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|UBC Sauder|Tianyujun (Lucy) Lu": {
+  "status": "ok",
+  "source": "https://tianyujunlu.com/research.html",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "The Reputational Consequences of Victim Signaling",
+    "authors": "Karl Aquino, Stefan Thau, Maja Graso, Cory Clark, Constantin Lagios, Simon Lloyd D. Restubog",
+    "venue": "Personality and Individual Differences",
+    "year": 2026,
+    "note": null,
+    "url": "https://doi.org/10.1016/j.paid.2025.113515"
+   }
+  ],
+  "rr": [
+   {
+    "title": "How Identity Signaling Can Backfire in Leadership Selection",
+    "authors": "Karl Aquino, Adam A. Kay, JoAndrea Hoegg",
+    "venue": "Organizational Behavior and Human Decision Processes",
+    "year": null,
+    "note": "Invited for revision (2nd round)",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Body-Positive Messaging Backfires for Indulgent Food Brands",
+    "authors": "Yann Cornil, Darren W. Dahl",
+    "venue": null,
+    "year": null,
+    "note": "JMP; Under 1st round review at Journal of Consumer Research",
+    "url": null
+   },
+   {
+    "title": "Age Bias in Consumer Reactions to Inclusive AI-Generated Contents",
+    "authors": "Jen Park, Noah Castelo",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Selective Diversity: Fulfilling Gender Quotas While Neglecting Racial Diversity in Higher- vs. Mid-Level Leadership Positions",
+    "authors": "Hsuan-Che (Brad) Huang, Huan You, Maja Graso, Luke Zhu, Karl Aquino",
+    "venue": null,
+    "year": null,
+    "note": "Manuscript in preparation",
+    "url": null
+   },
+   {
+    "title": "Partial Body Ownership: Scale Development and Cross-Cultural Evidence",
+    "authors": "Brent McFerran, Karl Aquino",
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   },
+   {
+    "title": "Brand Status and Cultural Appropriation",
+    "authors": "Yann Cornil, Aradhna Krishna",
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UCLA Anderson|Eitan Rude": {
+  "status": "ok",
+  "source": "https://eitanrude.com/research/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "People Endorse Harsher Policies in Principle Than in Practice: Asymmetric Beliefs About Which Errors to Prevent Versus Fix",
+    "authors": "Frank Shaddy",
+    "venue": "Psychological Science",
+    "year": 2024,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "When Are Less Precise Predictions More Credible?",
+    "authors": "A. Shiri, F. M. Affonso, H. E. Hershfield, C. R. Fox",
+    "venue": "Journal of Experimental Psychology: General",
+    "year": null,
+    "note": "In press",
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Pricing Insurance, Fairly",
+    "authors": "Frank Shaddy, H. E. Hershfield",
+    "venue": "Journal of Consumer Research",
+    "year": null,
+    "note": "JMP; Invited revision",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Ripple Effects: Associations Between Life Shocks and Connectedness to the Future Self",
+    "authors": "J. S. Reiff, H. E. Hershfield",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Perceived Portfolio Performance and Consumer Behavior",
+    "authors": "D. D. Dolifka, S. A. Spiller",
+    "venue": null,
+    "year": null,
+    "note": "Data collection in progress",
+    "url": null
+   },
+   {
+    "title": "What Do People Think About When They Think About Retirement?",
+    "authors": "A. Low, P. Pataranutaporn, P. Yin, C. Archiwaranguprok, C. Albrecht, H. E. Hershfield",
+    "venue": null,
+    "year": null,
+    "note": "Data collection in progress",
+    "url": null
+   },
+   {
+    "title": "Encouraging and Discouraging Behavior with Prices vs. Quantities",
+    "authors": "Frank Shaddy",
+    "venue": null,
+    "year": null,
+    "note": "Data collection in progress",
+    "url": null
+   },
+   {
+    "title": "Conditional Thinking and Consensus Judgments",
+    "authors": "S. A. Spiller",
+    "venue": null,
+    "year": null,
+    "note": "Data collection in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UCLA Anderson|Eunsun Kim": {
+  "status": "ok",
+  "source": "https://eunsun-kim.com/research/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Following to Lead: Dominant Followership in Sequential Price Competition",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Can Consumer AI Discipline Algorithmic Pricing?",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UConn|Lukas Schnabel": {
+  "status": "ok",
+  "source": "https://www.lukasschnabel.com/research",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "The Impact of Voluntary Carbon Goal Announcements on Stock Returns",
+    "authors": "Setareh Heidari, Stefan J. Hock, Sascha Raithel",
+    "venue": "Management Science",
+    "year": 2026,
+    "note": "JMP",
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Price Perceptions",
+    "authors": "Stefan J. Hock, Christina Kan",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Championship Wins and Firm Performance",
+    "authors": "Setareh Heidari, Stefan J. Hock, Sascha Raithel",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Impact of Rescinded and Failed Carbon Goals on Stock Returns",
+    "authors": "Setareh Heidari, Stefan J. Hock, Sascha Raithel",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Impact of Ingredient Purpose Disclosures on Purchasing Behavior: The Role of Perceived Company CSR",
+    "authors": "Stefan J. Hock",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UConn|Ziyuan Li": {
+  "status": "no_papers_listed",
+  "source": "https://www.business.uconn.edu/person/ziyuan-li/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|UT Austin McCombs|Marcelino Chavez": {
+  "status": "ok",
+  "source": "https://www.marcelinochavez.com/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "The Effectiveness of Marketing in B2B Firms",
+    "authors": null,
+    "venue": "Journal of the Academy of Marketing Science",
+    "year": null,
+    "note": "JMP; Under revision",
+    "url": null
+   }
+  ],
+  "wp": []
+ },
+ "2026-2027|UT Austin McCombs|Runyang Shu": {
+  "status": "ok",
+  "source": "https://www.mccombs.utexas.edu/graduate/phd/academics/marketing-phd/ (CV: 2023 version, outdated; JMP not posted)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Analysis of picture similarity between users and products.",
+    "authors": "Alain Lemaire",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress (2023 CV)",
+    "url": null
+   },
+   {
+    "title": "Consumer Aesthetics and visual personality.",
+    "authors": "Rex Du, Alain Lemaire",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress (2023 CV)",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UT Austin McCombs|Zhengwei (Harrison) Zhang": {
+  "status": "no_papers_listed",
+  "source": "https://www.mccombs.utexas.edu/graduate/phd/academics/marketing-phd/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|UW Foster|Arina Tveleneva": {
+  "status": "no_papers_listed",
+  "source": "https://foster.uw.edu/academics/degree-programs/phd-program/directory/arina-tveleneva/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|UW Foster|Erfan Loghmani": {
+  "status": "ok",
+  "source": "https://erfanloghmani.github.io/research.html",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Investigating the Impact of Advertising on Smoking Cessation: The Role of DTC Prescription Drug Advertising",
+    "authors": "Ali Goli",
+    "venue": "Marketing Science",
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Aligning Language Models with Observational Data: Opportunities and Risks from a Causal Perspective",
+    "authors": null,
+    "venue": "NeurIPS 2025 Workshop on CauScien: Uncovering Causality in Science",
+    "year": 2025,
+    "note": "Workshop paper",
+    "url": null
+   },
+   {
+    "title": "Effective Adaptive Exploration of Prices and Promotions in Choice-Based Demand Models",
+    "authors": "Lalit Jain, Zhaoqi Li, Blake Mason, Hema Yoganarasimhan",
+    "venue": "Marketing Science",
+    "year": 2024,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs",
+    "authors": "Julia Gastinger, Shenyang Huang, Mikhail Galkin, Ali Parviz, Farimah Poursafaei, Jacob Danovitch, Emanuele Rossi, Ioannis Koutis, Heiner Stuckenschmidt, Reihaneh Rabbany, Guillaume Rabusseau",
+    "venue": "NeurIPS 2024 Datasets and Benchmarks Track",
+    "year": 2024,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Effect of Choosing Loss Function when Using T-batching for Representation Learning on Dynamic Networks",
+    "authors": "MohammadAmin Fazli",
+    "venue": "Information Sciences",
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "RPS: Portfolio Asset Selection using Graph based Representation Learning",
+    "authors": "MohammadAmin Fazli, Parsa Alian, Ali Owfi",
+    "venue": "Intelligent Systems with Applications",
+    "year": 2024,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Reward Modeling for Business Objectives: Navigating the Bias-Variance Tradeoff between Observational and Experimental Data",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Understanding Substitution in Mobile Phone Usage: Evidence from Behavior Sequence Modeling",
+    "authors": "Ali Goli, Dinara Akchurina",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UW Foster|Kevin Jiang": {
+  "status": "no_papers_listed",
+  "source": "https://foster.uw.edu/academics/degree-programs/phd-program/directory/kevin-jiang/ (no papers listed)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|UW Foster|Yue Liang": {
+  "status": "ok",
+  "source": "https://foster.uw.edu/academics/degree-programs/phd-program/directory/yue-liang/ ; Google Scholar profile https://scholar.google.com/citations?user=GVZIylMAAAAJ (no personal site found; JMP not identified)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Pricing and Segmentation Opportunities through Loyalty Programs",
+    "authors": "Y. Jang, C. K. Anderson",
+    "venue": null,
+    "year": 2026,
+    "note": "SSRN 6608698",
+    "url": null
+   }
+  ]
+ }
+}

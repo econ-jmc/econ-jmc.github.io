@@ -1,0 +1,1152 @@
+{
+ "2026-2027|CMU Tepper|Cheng (Leo) Li": {
+  "status": "no_papers_listed",
+  "source": "https://www.cmu.edu/tepper/programs/phd/student-profiles/phd-student-li-cheng (no papers listed)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|Chicago Booth|Samuel Chang": {
+  "status": "ok",
+  "source": "https://www.samuelchang.com/research",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Beyond Greenwashing: Environmental Commitments and Gas Flaring in the African Oil Sector",
+    "authors": "Hans B. Christensen, Andrew McKinley",
+    "venue": "The Accounting Review",
+    "year": null,
+    "note": "Forthcoming",
+    "url": null
+   },
+   {
+    "title": "From LinkedIn to Labor Statistics: Using Revelio Microdata for Labor Market Research in Developing Economies",
+    "authors": "Hans B. Christensen, Ziang Zhang",
+    "venue": "Journal of Development Economics",
+    "year": 2027,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "12 Best Practices for Leveraging Generative AI in Experimental Research",
+    "authors": "Andrew Kennedy, Aaron Leonard, John A. List",
+    "venue": "Journal of Economic Behavior and Organization",
+    "year": 2026,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Taxation by Regulation: Economic Impacts of Local Content Regulation in the African Mining Sector",
+    "authors": null,
+    "venue": "American Economic Journal: Economic Policy",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   },
+   {
+    "title": "Are Audits Shifting the Battleground? Supply Chain Certifications and Conflict Dynamics in the Congo",
+    "authors": "Hans B. Christensen",
+    "venue": "Management Science",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Information Sharing in Global Audit Networks",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Accountants in Developing Economies",
+    "authors": "Hans B. Christensen, Theodora A. A. Koomson, Delphine Samuels",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Trust in Banks and Borrower Behavior",
+    "authors": "Rimmy E. Tomy, Jizhou Wang",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Accounting Fraud and Individual Financial Health",
+    "authors": "Arndt Weinrich, Ji-Eon Kim",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Columbia|Dian Jiao": {
+  "status": "ok",
+  "source": "https://d-jiao.github.io/research/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "Sequential Voluntary Disclosure",
+    "authors": null,
+    "venue": "The Accounting Review",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "The Economics of Key Performance Indicator Disclosure",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Mandatory US Subsidy Disclosures: Early Evidence",
+    "authors": "Aneesh Raghunandan, Shivaram Rajgopal, Min Jun Song",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Regulating in Name Only: The Consequences of Mutual Fund Naming Rules",
+    "authors": "Kalash Jain, Shivaram Rajgopal",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Exploiting Myopia: The Returns to Long-Term Investing",
+    "authors": "Kalash Jain",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Use of Debt Covenants to Curb Risk Shifting",
+    "authors": "Tim Baldenius",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "What's Said vs. What's Expected: Information Surprise in MD&A Topics",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Information and Preference Channels in Environmental Fund Demand",
+    "authors": "Sonakshi Agrawal, Lisa Yao Liu",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Columbia|Sonakshi Agrawal": {
+  "status": "ok",
+  "source": "https://sonakshiagrawal.com/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "ESG Ratings of ESG Index Providers",
+    "authors": "Lisa Liu, Shiva Rajgopal, Suhas A. Sridharan, Yifan (Eva) Yan, Teri Lombardi Yohn",
+    "venue": "The Accounting Review",
+    "year": null,
+    "note": "Forthcoming",
+    "url": null
+   },
+   {
+    "title": "Credit Rating Agencies' Assessments of Related Party Transactions",
+    "authors": "Hariom Manchiraju, Sumeet Rajput",
+    "venue": "Accounting Theory and Practice",
+    "year": 2025,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Cash Now, Current Later: Energy Investment in the AI Era",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Who Bears Climate Risk? Differential Impacts on Public and Private Firms",
+    "authors": "Lisa Liu, Shiva Rajgopal",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Do Public Firms Prioritize Domestic Shareholders Over Foreign Stakeholders? Evidence from Regulatory Arbitration",
+    "authors": "Anthony Le, Lisa Liu",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Unveiling Influence: Mandatory Disclosure of Voting Rationale",
+    "authors": "Sumeet Rajput",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Impact of Climate Risk Disclosure on the Insurance Industry",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Financial Analysis in Inflationary Times: A Study on Adjusted Reporting and Asset Pricing Factors",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Florida Warrington|Blake Canziani": {
+  "status": "no_papers_listed",
+  "source": "https://warrington.ufl.edu/directory/blake-canziani/ (also https://warrington.ufl.edu/graduate/phd-accounting/)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|Florida Warrington|Eashwar Nagaraj": {
+  "status": "ok",
+  "source": "https://www.economeash.com/research.html",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "IRS Officials’ Stock Holdings and Corporate Tax Outcomes",
+    "authors": "Mike Mayberry, Scott Rane",
+    "venue": "Journal of Accounting Research",
+    "year": null,
+    "note": "Revising for resubmission",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Shadow Lobbying During Tax Audits",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Adaptation in the Accounting Labor Supply",
+    "authors": "W. Robert Knechel, Paul Madsen",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "When Do Accountants Matter? Evidence from Random Allocation of Tax Experts",
+    "authors": "Kevin Munch, Marvin Nipper",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Florida Warrington|Isabel Maria Ford": {
+  "status": "ok",
+  "source": "https://warrington.ufl.edu/directory/isabel-maria-ford/ (CV: https://apps.warrington.ufl.edu/Directory/uploads/vita/isabel-mendez-13063-cv.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "More than Just a Number: How Overlooking the \"Human\" in Human Capital Affects Audit Quality",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Performance Transparency and Adverse Worker Self-Selection: The Role of Narcissism",
+    "authors": "Paul Madsen, Dan Rimkus",
+    "venue": null,
+    "year": null,
+    "note": "Under review",
+    "url": null
+   },
+   {
+    "title": "Changes in Approach to Audit Regulation: How a Post-Election Environment Shapes Investor Attributions for Changes and Trust in Audit Regulation",
+    "authors": "Mike Ricci",
+    "venue": null,
+    "year": null,
+    "note": "Preparing for initial submission",
+    "url": null
+   },
+   {
+    "title": "When Do CEO Race and Gender Matter to Investors? Evidence from Attribution and Credibility Judgments",
+    "authors": "Stephen Asare, Marcus Kirk",
+    "venue": null,
+    "year": null,
+    "note": "Preparing for initial submission",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|HEC Paris|Yujie Yao": {
+  "status": "ok",
+  "source": "https://yujie-yao.github.io/ (contents/research.md)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "LinkedIn's International Expansion and the Sourcing of Foreign Independent Directors",
+    "authors": "Yanting (Crystal) Shi, Luc Paugam",
+    "venue": "Journal of Accounting and Economics",
+    "year": null,
+    "note": "3rd-round Revise and Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Who Gets the Seat? Evidence from a Codetermination Law",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Independent Director Certification and Governance: Director Compensation, Boardroom Involvement, and Firm-Level Governance",
+    "authors": "Vedran Capkun, Yanting (Crystal) Shi",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|HKU|Ricky Xu Yao": {
+  "status": "ok",
+  "source": "https://www.ricky-yao.com/research",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "Disclosing to Politicians",
+    "authors": "John Gallemore, Jeff Hoopes, Irene Tan",
+    "venue": "Journal of Accounting Research",
+    "year": null,
+    "note": "Revise and resubmit",
+    "url": null
+   },
+   {
+    "title": "Does Public Tax Compliance Recognition Crowd Out Corporate Philanthropy?",
+    "authors": "Travis Chow, Yanju Liu, Le Zhao",
+    "venue": "Review of Accounting Studies",
+    "year": null,
+    "note": "Invited to resubmit as a new submission",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "From Secrecy to Patenting: The Disclosure Effects of Patent Box Incentives",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Does Tax Complexity Hinder Innovation?",
+    "authors": "John Gallemore, Ed Maydew",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Real Effects of Administrative Disclosure on Cross-Border Trade: Evidence from Tax Compliance Rating",
+    "authors": "Guoman She, Le Zhao",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Harvard|Wenxin Wang": {
+  "status": "ok",
+  "source": "https://www.wenxin-wang.com/research.html",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Trust and Corporate Innovation: Evidence from China",
+    "authors": "Bo Zhang, Ruixue Zhou",
+    "venue": "Journal of Accounting, Auditing & Finance",
+    "year": 2024,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Reputation-Building Actions After Corporate Social Irresponsibility",
+    "authors": "Wei Cai, Aneesh Raghunandan, Shivaram Rajgopal",
+    "venue": "Management Science",
+    "year": null,
+    "note": "Under third-round review",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Echoing Employee Reviews",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "How Firms Internally Drive Value: A Measurement Approach",
+    "authors": "Wei Cai, Dennis Campbell, Patrick J. Ferguson",
+    "venue": null,
+    "year": null,
+    "note": "Preparing for submission",
+    "url": null
+   },
+   {
+    "title": "Communication in Organizations",
+    "authors": "Wei Cai",
+    "venue": null,
+    "year": null,
+    "note": "Preparing for submission",
+    "url": null
+   },
+   {
+    "title": "Artificial Intelligence, Decision Rights, and the Returns to Decentralization",
+    "authors": "Jasmijn C. Bol, Dennis Campbell, Jake Krupa",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Efficiency or Bias: AI Interview as a Control System",
+    "authors": "Wei Cai, Yiwei Li",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|LSE|Parth Shah": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/parthvshah/research",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Occupational Licensing and Labor Market Exit: Evidence from Continuing Education Requirements for Accountants",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Occupation-Specific Education Requirements and Occupational Silos: Evidence from CPA Licensing Rules",
+    "authors": "Anthony Le",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Licensing the Profession: Do Entry Routes Influence Accountant Quality",
+    "authors": "Xi Li, Alexa Scherf",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|LSE|Wan Chu Cheong": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/wan-chu-cheong-website/research",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "Beyond the Wisdom of the Crowd: Concentrated Informed Trading in Earnings Prediction Markets",
+    "authors": "Ane Tamayo",
+    "venue": "Journal of Accounting Research",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Autonomous LLM Agents Trading in Decentralized Financial Markets",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Lost in Definition: The Complexity of Accounting Terms and Stock Price Informativeness",
+    "authors": "Xi Li",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "What Do Bank Conference Call Q&A Tell Us about Emerging Risk?",
+    "authors": "Robert Bushman, Anya Kleymenova, Yinan Li",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|LSE|Xinyun Liu": {
+  "status": "no_papers_listed",
+  "source": "https://www.lse.ac.uk/people/xinyun-liu (LSE profile lists no papers; JMP title taken from the batch file)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Users as Imagined, Users as They Are: Accountability in Platform-Mediated Giving",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|MIT Sloan|Fabio da Silva Soares": {
+  "status": "no_papers_listed",
+  "source": "https://mitsloan.mit.edu/programs/phd/fabio-da-silva-soares; https://mitsloan.mit.edu/phd/students/on-the-job-market",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|MIT Sloan|Jason Kim": {
+  "status": "ok",
+  "source": "https://jasonkim.pro/research/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "Does Offshoring the Accounting Function Affect Financial Reporting Quality?",
+    "authors": "Nemit Shroff, Fabio Soares, Felix Vetter",
+    "venue": "Management Science",
+    "year": null,
+    "note": "Revise & Resubmit; 2025 PCAOB/Management Science Registered Report",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Does Ownership Structure Affect Audit Quality? Evidence from Non-CPA Ownership Provisions",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Tax-Induced Distortion in Managerial Horizon",
+    "authors": "Jen Choi, Rachel Yoon",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Before the Government Speaks: Insider Trading on Federal Contract Awards",
+    "authors": "Ji Eon Kim",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "How Do Audit Partner Retirements Reshape the Audit Market?",
+    "authors": "Joseph Moran, Joseph Weber",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Economics of Shared Cybersecurity Assurance",
+    "authors": "David Kim",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Valuing Performance-Vesting Equity and the Rise in CEO Pay",
+    "authors": "John Core",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Michigan Ross|Collin Whitmore": {
+  "status": "ok",
+  "source": "https://www.collinwhitmore.com/research",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Effect of Monetary Policy on Community Bank Financial Reporting",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Lender Financial Reporting and Debt Contracting",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Dissertation",
+    "url": null
+   },
+   {
+    "title": "Effect of Private Equity Acquisition on Financial Reporting Accuracy: Evidence from the Health Care Industry",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   },
+   {
+    "title": "Media Ownership and Content Bias",
+    "authors": "Jon Woo",
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   },
+   {
+    "title": "Bank Participation in Dividend Recaps",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   },
+   {
+    "title": "Non-fundamental Trading around Earnings Announcements",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Michigan Ross|Wren Belskus": {
+  "status": "ok",
+  "source": "http://wrenbelskus.com/research.html",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Trading Gifts for Transparency: Insider Giving and the SEC",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Setting the Bar Early: Investor Relations and the Path to Meeting or Beating Analyst Expectations",
+    "authors": "Kimball Chapman, Greg Miller, Jed Nielson",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "SEC Politicization and Shareholder Voice: Evidence from the No-Action Letter Process",
+    "authors": "Lindsey Gallo, Kendall Lynch, Greg Miller",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Hybrid Governance Models and Firm Financial Outcomes",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "External Monitors of Internal Controls: Evidence from Caremark Claims",
+    "authors": "Greg Miller",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Northwestern Kellogg|Siqi Zheng": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/siqizheng2026/research",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "Talking to hire: How small firms pave their way to hire when large firms lay off",
+    "authors": "Jung Min Kim, Sugata Roychowdhury",
+    "venue": "Journal of Accounting and Economics",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Patents as Collateral: How Disclosure Shapes Lending and Innovation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Net zero coefficients in accounting research",
+    "authors": "Andrew Leone, Shibao Liu",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Shifting Liability and the Allocation of Accounting Expertise: Evidence from the Rejection of the Audit Interference Rule",
+    "authors": "Xiumin Martin, Sugata Roychowdhury",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Northwestern Kellogg|Yuze Xia": {
+  "status": "ok",
+  "source": "https://yuzexia.com/research.html",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Private Information Transmission by Lenders",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Cost Anchoring in Fair Value Estimation",
+    "authors": "Spencer B. Anderson, Thomas C. Hagenberg, Leslie Hodder",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Learning from the Shadows: How Public Firms Use Loan Disclosures to Inform Acquisition Decisions of Private Firms",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State Smeal|Jialu Xin": {
+  "status": "no_papers_listed",
+  "source": "https://smeal.psu.edu/directory/person/jxx5159",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|Penn State Smeal|Jinzhiyang (Scott) Wang": {
+  "status": "ok",
+  "source": "https://scottjwang.github.io/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "Market-based Incentives for Audit Quality",
+    "authors": "Andrew Acito, Amir Amel-Zadeh, James Anderson, William Anderson, Daniel Aobdia, Thomas Bourveau, Francois Brochet, Huaizhi Chen, Jonathan Fluharty-Jaidee, Martin Schmalz, Manyun Tang, Joshua White, William Zame",
+    "venue": "Management Science",
+    "year": null,
+    "note": "Minor revision",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Behind Closed Doors: Presidential Meetings and Strategic Public Disclosure",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Knightian Uncertainty and Fair Value Estimation",
+    "authors": "Rick Mergenthaler",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "PCAOB Inspection Reports and Information Dissemination",
+    "authors": "Andrew Acito, Amir Amel-Zadeh, James Anderson, William Anderson, Daniel Aobdia, Francois Brochet, Huaizhi Chen, Jonathan Fluharty-Jaidee, Martin Schmalz, Manyun Tang",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Climate Risk and Corporate Green Innovation: Evidence from Nearby Climate Disasters",
+    "authors": "Phong Truong",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Inflation and Accrual Anomaly: From a View of Conditional Asset Pricing",
+    "authors": "Nastaran Mirzayi",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Bypassing the Bureaucracy: The Presidential Information Transmission and Regulatory Outcomes",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Presidential Interaction and Judicial Independence: Evidence from Corporate Litigation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Accounting Standards and University Bonds",
+    "authors": "Daniel Aobdia, Yuchen Li",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State Smeal|Mina Zarrin Miandoab": {
+  "status": "no_papers_listed",
+  "source": "https://smeal.psu.edu/directory/person/mkz5281",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|Penn State Smeal|Namisha Bhattarai": {
+  "status": "no_papers_listed",
+  "source": "https://smeal.psu.edu/directory/person/nvb5507 (web search for personal site found nothing)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|Penn State Smeal|Shuoyang Xie": {
+  "status": "ok",
+  "source": "https://shuoyangxie.github.io/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Expansion of Local Institutional Investor Presence and Voluntary Disclosure: Evidence from New Airline Routes",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Demand for Public Information by Credit Rating Agencies during High Market Uncertainty",
+    "authors": "Samuel B. Bonsall IV, Karl A. Muller III",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Do Fast Promotions Affect Audit Quality?",
+    "authors": "Daniel Aobdia, Katie Stone",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Does Option Trading Lead to Firms Having More Optimistic Shareholders? Evidence from Earnings Announcements",
+    "authors": "Karl A. Muller III",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Temple Fox|Joon Hong Kim": {
+  "status": "no_papers_listed",
+  "source": "https://www.fox.temple.edu/academics/fox-phd/students/students-market (also https://www.fox.temple.edu/directory/joon-hong-kim)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|UCLA Anderson|Kai Yang": {
+  "status": "ok",
+  "source": "https://www.anderson.ucla.edu/degrees/phd-program/current-job-market-candidates (only JMP title listed; no personal site found)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Rating design and intermediary scrutiny",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|USC Marshall|Xiangyu Li": {
+  "status": "ok",
+  "source": "https://sites.google.com/usc.edu/xiangyuli/research",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Re-doing the Audit",
+    "authors": "Isabel J. Cho, Clive Lennox",
+    "venue": "Journal of Accounting and Economics",
+    "year": 2026,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "To Hide or Highlight? How Borrowing Firms Summarize Their Loan Contracts",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Lender-borrower Interactions and Loan Contracting",
+    "authors": "Allen Huang, Xinlei Li",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Auditor Responses to Financial Crises",
+    "authors": "Isabel J. Cho, Clive Lennox",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UT Austin McCombs|Michael Gonari": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/michael-gonari (site lists no papers; JMP title from batch input)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Innovation and Investor Judgments: Experimental Evidence",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UT Austin McCombs|Sean Kemsley": {
+  "status": "ok",
+  "source": "https://seankemsley.com/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Tax evasion savings versus unlawful predicate proceeds: a substance-based approach",
+    "authors": "Deen Kemsley",
+    "venue": "Journal of Money Laundering Control",
+    "year": 2024,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Tax evasion on lawful income: is it a form of money laundering?",
+    "authors": "Deen Kemsley, Frank T. Morgan",
+    "venue": "Journal of Financial Crime",
+    "year": 2024,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Tax evasion and money laundering: a complete framework",
+    "authors": "Deen Kemsley, Frank T. Morgan",
+    "venue": "Journal of Financial Crime",
+    "year": 2022,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Does Firm-level Slack Affect Firms' Responses to Fiscal Policy Shocks? Evidence from Tariff Announcements",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Alternative Book-based Taxes and Earnings Management",
+    "authors": "Braden M. Williams",
+    "venue": null,
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Equity Composition and the Geometry of Valuation",
+    "authors": "Deen Kemsley",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UW Foster|Carter Sampson": {
+  "status": "ok",
+  "source": "CV: https://foster.uw.edu/wp-content/uploads/2022/10/Carter-Sampson-CV.pdf (Feb 2026; personal site carter-sampson.com behind Cloudflare bot wall)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Do Firms Manipulate their Carbon Emissions Reporting?",
+    "authors": "Brandon Gipper, Shawn Shi",
+    "venue": null,
+    "year": null,
+    "note": "Under review at Journal of Accounting Research",
+    "url": null
+   },
+   {
+    "title": "Show Your Work: Paystub Requirements and Wage Theft",
+    "authors": "Beth Blankespoor",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Investor Processing of Supply Chain Disasters",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ }
+}
