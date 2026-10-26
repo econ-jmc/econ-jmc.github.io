@@ -682,6 +682,113 @@
    }
   ]
  },
+ "2026-2027|Indiana Kelley|Qianfan Wu": {
+  "status": "ok",
+  "source": "https://www.qianfanw.com/research (CV Oct 2026 via Google Drive)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Order Book Queue Hawkes-Markovian Modeling",
+    "authors": "Shihao Yang, Philip Protter",
+    "venue": "SIAM Journal on Financial Mathematics",
+    "year": 2024,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Innovation α: What Do Innovation-Intensive Stock Price Indexes Tell Us about Innovation?",
+    "authors": "Carol Corrado, David E. Martin",
+    "venue": "AEA Papers and Proceedings",
+    "year": 2020,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Cleaner Credit, Closed Doors: Medical Debt Reporting Bans and Access to Hospital Care",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Intergenerational Effects of Debt Relief: Evidence from Bankruptcy Protection",
+    "authors": "Ankit Kalda, Naser Hamdi",
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Partisan Inequality in Property Tax Assessments: A Fiscal Burden on Political Minorities",
+    "authors": "Ankit Kalda, Vikas Soni",
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Informing Independent Directors",
+    "authors": "Cassandra Marshall, Jun Yang, Messod Daniel Beneish",
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Parents' Love in Debt: Intergenerational Effects of Student Loans",
+    "authors": "David Sovich, Ankit Kalda",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Debt Relief Across the Income Distribution",
+    "authors": "Kristoph Kleiner, Ankit Kalda",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Indiana Kelley|Yunjoo An": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/yunjooan/home (CV: Oct 2026 on Google Drive)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Property Tax Protection and Municipal Bond Valuation",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Housing Affordability via Macroprudential Policy",
+    "authors": "Isaac Hacamo, Kristoph Kleiner",
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Price of Inflation Protection: Evidence from Housing",
+    "authors": "Dean Ryu",
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
  "2026-2027|LSE|Andrew Wang": {
   "status": "ok",
   "source": "https://andrewjmwang.github.io/",

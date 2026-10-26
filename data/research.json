@@ -39779,5 +39779,401 @@
     "url": null
    }
   ]
+ },
+ "2026-2027|Northeastern University|Dayanara Diaz Vargas": {
+  "status": "ok",
+  "source": "https://dayanaradiazvargas.com/DiazVargas_CV.pdf",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Healthcare Privatization and Patient Health: Evidence from Puerto Rico",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://dayanaradiazvargas.com/DiazVargas_JMP.pdf"
+   },
+   {
+    "title": "Corporate Tax Incentives Retraction: Evidence from Puerto Rico",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Physician Migration from Puerto Rico and the Health of Receiving Communities",
+    "authors": "Jori Barash",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Northeastern University|Jae Wook Jung": {
+  "status": "ok",
+  "source": "https://j-jaewook.github.io/cv.pdf",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Priced Out of Work, Into School: Minimum Wages and Schooling in Thailand's Dual Labor Market",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Is AI Labor-Augmenting? Evidence from Korean Firms",
+    "authors": "Ziyao Wang",
+    "venue": null,
+    "year": null,
+    "note": "Under review",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7525778"
+   },
+   {
+    "title": "Open to All? Diversity Statements in Job Advertisements and Hiring Discrimination",
+    "authors": "Mark Granberg, Shantanu Khanna, Samantha Sinclair",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Competitive Federalism and Development: Evidence from a place-based policy in India (Tentative title)",
+    "authors": "Shantanu Khanna",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Northeastern University|Ben Roble": {
+  "status": "ok",
+  "source": "https://cssh.northeastern.edu/economics/wp-content/uploads/sites/8/2026/10/Ben-Roble-CV.pdf",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Simulated Welfare Effects of the EU's EV Transition",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://cssh.northeastern.edu/economics/wp-content/uploads/sites/8/2026/10/Roble-Job-Market-Paper.pdf"
+   },
+   {
+    "title": "The Effect of State Supply Chain Regulations on Retail Alcohol Prices",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Determinants of a Successful EV Transition: Evidence from Norway",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Northeastern University|Muhammad H Shabanpour": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/muhammad-shabanpour",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "\"Praying for Inflation\": How Market Concentration Facilitates Inflationary Pressures",
+    "authors": "John Kwoka",
+    "venue": "Competition Policy International, Antitrust Chronicle",
+    "year": 2025,
+    "note": null,
+    "url": "https://ssrn.com/abstract=5736285"
+   },
+   {
+    "title": "A Decision-Support Audit Protocol for Supervision Drift in Proxy-Labeled Credit-Risk Prediction",
+    "authors": "Mehrdad Shoeibi, Waldemar Karwowski, Niloofar Yousefi",
+    "venue": "Proceedings of the 60th Hawaii International Conference on System Sciences",
+    "year": 2027,
+    "note": "Proceedings",
+    "url": "https://arxiv.org/pdf/2609.16102"
+   }
+  ],
+  "rr": [
+   {
+    "title": "Algorithmic Pricing for Efficient Electricity Grid Performance: A Calibrated Counterfactual of Residential and Industrial Demand Response",
+    "authors": "Solmaz Abbaspour",
+    "venue": "Energy Policy",
+    "year": null,
+    "note": "Revise and resubmit",
+    "url": "https://ssrn.com/abstract=7088078"
+   }
+  ],
+  "wp": [
+   {
+    "title": "Sale Pricing and Demand Dynamics",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5545042"
+   },
+   {
+    "title": "Algorithmic Price Personalization Through the Surveillance of Endogenous Search",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Inflation as a Pretext for Raising Prices: A Test of State-Dependent Cost Pass-Through",
+    "authors": "John Kwoka",
+    "venue": null,
+    "year": null,
+    "note": "Submitted to International Journal of Industrial Organization",
+    "url": "https://ssrn.com/abstract=7540768"
+   },
+   {
+    "title": "Hidden Demand-side Links and Predictable Returns",
+    "authors": "Ali Sharifkhani",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5550958"
+   },
+   {
+    "title": "Agentic AI and Algorithmic Price Discrimination: Delegated Search, Disclosure, and Surveillance Pricing",
+    "authors": "Mehrdad Shoeibi",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Vertical Licensing, Pricing, and Welfare: Evidence from the Instant Coffee Market",
+    "authors": "Ziyao Wang",
+    "venue": null,
+    "year": null,
+    "note": "Listed on Wang CV",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Northeastern University|Ziyao Wang": {
+  "status": "ok",
+  "source": "https://ziyaowangecon.github.io/research/ (CV: https://cssh.northeastern.edu/economics/wp-content/uploads/sites/8/2025/10/CV_Ziyao_JM.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "From State to Market: Labor Market Power and Non-Neutral Productivity in Chinese Manufacturing",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Is AI Labor-Augmenting? Evidence from Korean Firms",
+    "authors": "Jae Wook Jung",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7525778"
+   },
+   {
+    "title": "Ownership and Non-Neutral Technological Change: Evidence from China's State-Owned Enterprise Privatization",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176447"
+   },
+   {
+    "title": "Decomposing Multi-Dimensional Productivity",
+    "authors": "Zhezhi Hou, Shunan Zhao",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Maverick Firm: Bringing Theory to Policy",
+    "authors": "John Kwoka",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Tulane University|Mehrdad Baratian": {
+  "status": "ok",
+  "source": "https://m-baratian.github.io/ (CV: https://m-baratian.github.io/cv.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Children of Welfare Reform: Early Childhood Under TANF and Adult Outcomes",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Shocks, Reallocation, and the Direction of Innovation: The Case of COVID-19",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "SNAP Generosity and Mental Health",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Tulane University|Michael Cobar": {
+  "status": "ok",
+  "source": "https://michaelecobar.github.io/ (CV: https://michaelecobar.github.io/files/CV_Michael_Cobar_Ref.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Healthy Skepticism? Medical Mistrust and Health Behaviors",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Clearer Lungs, Clearer Minds? Analyzing the Effects of Tobacco 21 Laws on Youth Smoking Behavior and Mental Health",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Yearning to Breathe Free? Cigarette Taxes, Smoking Bans, and the Well-Being of Smokers",
+    "authors": "Kevin Callison, Silda Nikaj, Rujun Zhao",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "When Storms Strike: Air Pollution and Health Effects of Electricity Sector Disruptions",
+    "authors": "Felipe Gómez Trejos, Xiaochen Sun",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Tulane University|Yu Liu": {
+  "status": "ok",
+  "source": "https://kellyyliu.github.io/ (CV: https://drive.google.com/file/d/16R8eOM5hFcnistKCPjs-zGLHWqUOeM9e/view)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Facility Acquisition and Care Quality in the U.S. Dialysis Industry",
+    "authors": "I. Segal, T. Bui, Kevin Callison",
+    "venue": "Journal for Healthcare Quality",
+    "year": 2026,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Retirement, Grandchild Care, and Inpatient Recovery: Evidence from China's Gender- and Occupation-Specific Retirement Ages",
+    "authors": "Lele Zhao, Lu Yao, Guisong Wang",
+    "venue": null,
+    "year": null,
+    "note": "Revise and Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Higher Education and Long-Term Health: Evidence from China's College Entrance Exam Suspension",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://drive.google.com/file/d/1JD2pR_LKRFN-EVKZeMrIYRmaqREs9XQn/view?usp=sharing"
+   },
+   {
+    "title": "The Effect of State Mental Health Parity Laws on Physician Behavior",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Hidden Costs of Police Brutality: Police-Involved Killings and Public Finance",
+    "authors": "Feng Chen, Stephanie F. Cheng, Wei Long",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Gender Identity, Race, Ethnicity, and Health Insurance Discrimination in Access to Mental Health Care: Evidence from an Audit Correspondence Field Experiment",
+    "authors": "Patrick Button, Barbara Lundebjerg, Luca Fumarco, Benjamin Harrell",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Effect of Health Insurance on the Health of Near-elderly in the U.S.",
+    "authors": "Kevin Callison, Robert Kaestner",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Impact of Telemedicine on Physicians' Offline Behavior and Patient Health Outcomes: Evidence from China",
+    "authors": "Lele Zhao, Lu Yao",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Medicare Spending, Mobility and Health Outcomes",
+    "authors": "Kevin Callison",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
  }
 }

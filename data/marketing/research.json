@@ -1,4 +1,120 @@
 {
+ "2026-2027|BU Questrom|Andde Indaburu": {
+  "status": "ok",
+  "source": "https://anddeindaburu.com/ (CV: https://anddeindaburu.com/assets/docs/Andde_Indaburu_CV.pdf; BU CV http://questromapps.bu.edu/faculty/uploadFiles/cvUploadsProfile/MK_Indaburu_Andde_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "When and How Simplified Nutrition Labels Improve Fast-Food Choices",
+    "authors": "Pierre Chandon",
+    "venue": "Journal of the Academy of Marketing Science",
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "From Insight to Impact: Advancing Climate Policy Through Behavioral Science and Marketing",
+    "authors": "Remi Trudel, Matthew D. Meng",
+    "venue": "Handbook of Public Policy and Marketing",
+    "year": null,
+    "note": "Forthcoming",
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "The Material Diversity Paradox: Why More or Less Material Diversity Is a Misleading Eco-Friendliness Cue",
+    "authors": "Remi Trudel, Daniella Kupor",
+    "venue": "Journal of Consumer Research",
+    "year": null,
+    "note": "Second round review",
+    "url": null
+   },
+   {
+    "title": "How LLMs Describe and Prescribe Sustainability",
+    "authors": "Remi Trudel, Gordon Burtch",
+    "venue": "Management Science",
+    "year": null,
+    "note": "Second round review",
+    "url": null
+   },
+   {
+    "title": "Beyond 'Use it or Lose it': Promoting Purchase and Controlling Consumption through Utility Preservation",
+    "authors": "Sherrie Y. Xue, Stephanie C. Lin, Pierre Chandon",
+    "venue": "Journal of Marketing",
+    "year": null,
+    "note": "Third round review",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "How Portion Segmentation Increases Size Perceptions: Disentangling the Role of Numerosity, Ease of Reassembly, and Surface Area to Promote Downsizing More Effectively",
+    "authors": "Pierre Chandon, Maria Langlois",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Strengthening Trust in Climate Scientists Megastudy",
+    "authors": "Jan Pfänder, et al.",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "How LLMs Prioritize Sustainability in Product Choice?",
+    "authors": "Remi Trudel, Gordon Burtch",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Which Interventions Can Improve the Accuracy of Carbon Inequality Perceptions?",
+    "authors": "Remi Trudel, Christian Truelsen Elbæk",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "A Self-Concept Approach to Sustainable Behaviors",
+    "authors": "Joya Kemper, Remi Trudel",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|BU Questrom|Jason Lin": {
+  "status": "ok",
+  "source": "https://www.bu.edu/questrom/profiles/jason-lin/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "The Robin Hood Effect in Transgressions Against Firms: How Political Ideology Shapes Consumer Justifications",
+    "authors": "Anat Keinan, Hannah H. Chang, Donald R. Lehmann",
+    "venue": "Journal of Consumer Research",
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Culture for Sale: Unpacking Consumer Perceptions of Cultural Appropriation",
+    "authors": "Nari Kim, Ezgi Uduehi, Anat Keinan",
+    "venue": "Journal of Consumer Research",
+    "year": 2024,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": []
+ },
  "2026-2027|Berkeley Haas|Kristine Cho": {
   "status": "ok",
   "source": "https://kristinecho.com/current-research-projects/",
@@ -610,6 +726,39 @@
     "authors": "A. Rindfleisch, M. Kim",
     "venue": "Journal of Macromarketing",
     "year": 2024,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|Indiana Kelley|Hanyang Wang": {
+  "status": "ok",
+  "source": "https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=hw70 ; Google Scholar SbHFdk4AAAAJ ; https://blogs.iu.edu/kelleyphd/2026/06/16/hanyang-hans-wang-27-marketing/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Catastrophe risk sharing among individuals, private insurance, and government",
+    "authors": "R. Jia, J. Lin, M. R. Powers",
+    "venue": "Journal of Risk and Insurance",
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The impact of long-term care insurance on the utilization of inpatient service: Evidence and mechanisms in China",
+    "authors": "X. Han, X. Du",
+    "venue": "Health Economics",
+    "year": 2024,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Soft activism and corporate dividend policy: Evidence from institutional investors site visits",
+    "authors": "J. Cao, S. Zhou",
+    "venue": "Journal of Corporate Finance",
+    "year": 2022,
     "note": null,
     "url": null
    }

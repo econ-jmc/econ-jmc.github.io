@@ -480,6 +480,63 @@
    }
   ]
  },
+ "2026-2027|Indiana Kelley|Simon Harre": {
+  "status": "ok",
+  "source": "CV https://apps.kelley.iu.edu/SystemsAPI/vitae/profilecv?username=siharre",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Information Aggregation and Participation in DAO Governance",
+    "authors": null,
+    "venue": null,
+    "year": 2025,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Value Relevance & Cryptocurrencies: Evidence from DeFi Markets",
+    "authors": "Ken Merkley, Brian Miller, Brian Williams",
+    "venue": null,
+    "year": 2025,
+    "note": "Under review at The Accounting Review",
+    "url": null
+   },
+   {
+    "title": "The Impact of Increasing the Accessibility of Information Incorporated by Reference: Evidence from the Exhibit Hyperlink Mandate",
+    "authors": "Jessica Watkins, Brian Miller",
+    "venue": null,
+    "year": 2025,
+    "note": "In preparation for submission",
+    "url": null
+   },
+   {
+    "title": "Investor Learning Absent of Central Regulators - Evidence from Insider Trading in DeFi Markets",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Who Leads the Price? Evidence from Automated Market Makers and Order Book Exchanges",
+    "authors": "Matt Lyle, Eric Weisbrod",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Strategic Disclosure and Market Power – Evidence from price hikes during inflationary periods",
+    "authors": "Daniel Beneish, Jeff McMullin",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
  "2026-2027|LSE|Parth Shah": {
   "status": "ok",
   "source": "https://sites.google.com/view/parthvshah/research",
