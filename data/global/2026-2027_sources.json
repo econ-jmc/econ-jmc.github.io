@@ -189,10 +189,10 @@
  },
  {
   "school": "Penn State University",
-  "status": "not_posted",
+  "status": "posted",
   "url": "https://econ.la.psu.edu/ph-d-program/2025-2026-job-market-candidates/",
-  "n": 0,
-  "note": "Latest page found is 2025-2026 (13 candidates); no 2026-27 page found (guessed URL 404; site behind Cloudflare for curl).",
+  "n": 15,
+  "note": "Page at the old 2025-2026 URL is now titled 2026-2027 Job Market Candidates (15 candidates).",
   "checked": "2026-10-26"
  },
  {

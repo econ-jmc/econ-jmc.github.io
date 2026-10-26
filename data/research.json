@@ -40175,5 +40175,569 @@
     "url": null
    }
   ]
+ },
+ "2026-2027|Penn State University|Leah Hunt": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/leahhunt/research (CV: Google Drive)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Reconciling Diversity and Meritocracy",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://drive.google.com/file/d/1WGWDQ75imGAj8HeDVGHe6hPfO8KOojXC/view?usp=sharing"
+   },
+   {
+    "title": "Information Exchange in Hiring",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Differentiating Diversity and Meritocratic Objectives",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State University|Sheikh Atiya Islam": {
+  "status": "ok",
+  "source": "https://atiya-islam.github.io/ (CV: Sheikh_Atiya_Islam_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Physicians' Location Choice and Access to Healthcare: The Case of Dobbs",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Role of Information on Physicians' Prescription Choice: Evidence from FDA Accelerated Approval",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Energy Transition in the Context of the First Market-Based Cap-and-Trade Program in the U.S.",
+    "authors": "Emily Pakhtigian",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State University|Vladimir Kamionko": {
+  "status": "unreachable",
+  "source": "https://econ.la.psu.edu/people/vladamir-kamionko/ (blocked, 403); web search found no personal site",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|Penn State University|Sinjeong Kim": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/sinjeong-kim-econ/research (CV: Google Drive)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Evidence on Firm-to-Firm R&D Collaboration Intensity",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6188758"
+   },
+   {
+    "title": "The Hidden Inflation in Homeowners' Insurance",
+    "authors": "Mallick Hossain, Natee Amornsiripanitch, Siddhartha Biswas",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Disaster Risk and Insurer Competition",
+    "authors": "Mallick Hossain, Conor Ryan",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Identifying Causal Effects of Information Interventions under Network Interference",
+    "authors": "Ju Hyun Oh",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State University|Ryo Kimoto": {
+  "status": "ok",
+  "source": "https://ryokimoto.github.io/ (CV: files/Ryo_Kimoto_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Inference on Conditional Moment Restriction Models with Generated Variables",
+    "authors": "Taisuke Otsu",
+    "venue": "Economics Letters",
+    "year": 2022,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Identification and Estimation of Semi-nonparametric Gravity Equation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://ryokimoto.github.io/papers/job-market-paper.pdf"
+   },
+   {
+    "title": "Ordered Differencing with a Generated Index in Partially Linear Models",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": "https://ryokimoto.github.io/papers/ordered-differencing.pdf"
+   },
+   {
+    "title": "Measuring Robot Quality: Has Quality Improvement Slowed Down?",
+    "authors": "Ippei Fujiwara, Shigenori Shiratsuka, Toyoichiro Shirota",
+    "venue": null,
+    "year": 2021,
+    "note": "RIETI Discussion Paper 21-E-054",
+    "url": "https://www.rieti.go.jp/jp/publications/summary/21070005.html"
+   }
+  ]
+ },
+ "2026-2027|Penn State University|Nikita Pavlov": {
+  "status": "ok",
+  "source": "https://nmp5624.github.io/Research/ (Labor-Economics, Theoretical-Econometrics; CV: Nikita_Pavlov_Academic_CV_job_market_v2.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Minimax regret treatment rules with finite samples when a quantile is the object of interest",
+    "authors": "Patrik Guggenberger, Nihal Mehta",
+    "venue": "Econometric Theory",
+    "year": 2026,
+    "note": "Accepted",
+    "url": "https://nmp5624.github.io/assets/pdf/Quantile_Rule.pdf"
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Corporal Punishment, Child Development and Household Labor Supply",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "JMP",
+    "url": "https://nmp5624.github.io/assets/pdf/JMP_October.pdf"
+   },
+   {
+    "title": "Finite-Sample Minimax-Regret Treatment Choice with Interval-Observed Outcomes",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": "https://nmp5624.github.io/assets/pdf/Minimax_Regret_Bracketed.pdf"
+   },
+   {
+    "title": "Government Transfers, Parental Incentives and Child Development",
+    "authors": "Ewout Verriest",
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": "https://nmp5624.github.io/assets/pdf/verriest_pavlov_transfers.pdf"
+   },
+   {
+    "title": "From Rules to Hugs: The Impact of Parental Strictness and Warmth on Juvenile's Time Allocation",
+    "authors": null,
+    "venue": null,
+    "year": 2023,
+    "note": "Third-year paper",
+    "url": "https://nmp5624.github.io/assets/pdf/Rules_to_Hugs.pdf"
+   },
+   {
+    "title": "Asymptotically optimal statistical treatment rules when a quantile is the object of interest",
+    "authors": null,
+    "venue": null,
+    "year": 2024,
+    "note": "Draft coming soon",
+    "url": "https://nmp5624.github.io/assets/pdf/ASTR5.pdf"
+   }
+  ]
+ },
+ "2026-2027|Penn State University|Jiaqi Ren": {
+  "status": "ok",
+  "source": "https://www.jiaqirenpsuecon.com/ (CV PDF)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Testing Firm Conduct with Cost Information",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Identification of Peer Effects in Social Networks",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Neil Wallace Best Third-Year Paper Award",
+    "url": null
+   },
+   {
+    "title": "Dams and Violence in Africa",
+    "authors": "Li Han, Yabin Yin",
+    "venue": null,
+    "year": null,
+    "note": "Accepted at 2025 AEA Annual Meeting",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State University|Eric San Miguel": {
+  "status": "ok",
+  "source": "https://ericsanmiguel.github.io/research.html (CV: EricSanMiguel_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Medicare and Hospital Quality",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://ericsanmiguel.github.io/EricSanMiguel_JMP.pdf"
+   },
+   {
+    "title": "Horizontal Mergers Post-Deregulation: The Case of the Mexico City Retail Gasoline Market",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": "https://ericsanmiguel.github.io/EricSanMiguel_Gasoline.pdf"
+   },
+   {
+    "title": "Criminal Politicians, Political Parties, and Selection: Evidence from Indian National Elections",
+    "authors": "Amrutha Manjunath",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State University|Hideyuki Tomiyama": {
+  "status": "ok",
+  "source": "https://thideyuki.github.io/ (CV: https://thideyuki.github.io/cv.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Inference on Incomplete Information Games with Multi-Dimensional Actions",
+    "authors": "Taisuke Otsu",
+    "venue": "Economics Letters",
+    "year": 2022,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Causal Model of a Two-Sided Matching Market: Application to Intergenerational Spillover Effects of Education",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://thideyuki.netlify.app/Matching_treatment.pdf"
+   },
+   {
+    "title": "Identification and Estimation of Panel Regression Models with Unknown Aggregated Spatial Units",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": "https://thideyuki.netlify.app/Reg_space.pdf"
+   }
+  ]
+ },
+ "2026-2027|Penn State University|Jiming Wang": {
+  "status": "ok",
+  "source": "https://jimwang-econ.github.io/ (CV: https://jimwang-econ.github.io/files/JW_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "Heterogeneity of Indirect Network Effects: Empirical Analysis of the Chinese Electric Vehicle Market",
+    "authors": "Jianwei Xing, Junji Xiao, Xiaodan Guo",
+    "venue": "Journal of the Association of Environmental and Resource Economists",
+    "year": null,
+    "note": "Revise and Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Spatial Heterogeneity of Externalities in EV Charging Investments",
+    "authors": "Jianwei Xing",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Growth or Redistribution? The Business Effects of EV Charging Infrastructure in Kansas City",
+    "authors": "Ruohao Zhang, Xibo Wan, Zhen Lei, Junxian Tang",
+    "venue": null,
+    "year": null,
+    "note": "Under Review",
+    "url": null
+   },
+   {
+    "title": "Rule-Bound Buyers Seek Discretion Most? Procurement Discretion, Thresholds, and Supplier Selection in China",
+    "authors": "Songrui Liu, Guangrong Ma, Yaohong Zhao",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State University|Jen-Kuan Wang": {
+  "status": "ok",
+  "source": "https://jenkuanwang.github.io/research/ (CV: https://jenkuanwang.github.io/file/CV.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Monetary policy and housing market cycles",
+    "authors": "Shiu-Sheng Chen, Tzu-Yu Lin",
+    "venue": "Macroeconomic Dynamics",
+    "year": 2024,
+    "note": null,
+    "url": "https://doi.org/10.1017/S1365100523000615"
+   },
+   {
+    "title": "Detecting persistent one-sided intervention in foreign exchange markets: A simple test",
+    "authors": "Shiu-Sheng Chen",
+    "venue": "International Finance",
+    "year": 2022,
+    "note": null,
+    "url": "https://doi.org/10.1111/infi.12401"
+   }
+  ],
+  "rr": [
+   {
+    "title": "Roots of the Taiwanese Miracle? Reassessing Land Reform, 1950-1961",
+    "authors": "Oliver W. Kim",
+    "venue": "Journal of Development Economics",
+    "year": null,
+    "note": "Revise and resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Quality and Outsourcing in Advanced Manufacturing Networks",
+    "authors": "Jin-Tan Liu",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Size-dependent Tax Audit Policy and Manufacturing Firm Dynamics in Taiwan",
+    "authors": "Elisa Yu-Chun Cheng, Yu-Chen Liu",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State University|Ruoyan Zhang": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/ruoyanzhang/home (CV: Google Drive link on site)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Patent Disclosure and Innovation: The Role of Patent Trade",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5340996"
+   },
+   {
+    "title": "Entry and Exit Dynamic under Short-Term Rental Regulation: Evidence from NYC",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Engineering Privacy Concerns: A Cross-Country Survey Experiment",
+    "authors": "Yu Gao, Ying Lei, Shuo Liu, Juanjuan Meng, Xi Weng",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State University|Amy Zhang": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/amyminzhang/ (CV on Google Drive)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Spatial Dynamics of Environmental Regulation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Accounting for the Dynamics of Global Carbon Emissions",
+    "authors": "Jing Zhang",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Climate and Trade Policies in Energy Transition: Carbon Tariffs and Innovation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Rigidity and the Skill Premium in a Dynamic Trade and Migration Model",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Restraining Boom-bust Cycles under Occasionally Binding Constraints and Unconventional Disturbances",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Predoctoral working paper",
+    "url": null
+   },
+   {
+    "title": "An Anatomy of the Pollution Technique Effect",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Trade, Migration, and Minimum Wage Constraints",
+    "authors": "Sungwan Hong",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State University|Yidi Zhao": {
+  "status": "ok",
+  "source": "https://endyiscoding.github.io/Zhao-Yidi.github.io/ (CV: .../files/YidiZhao_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Robust Inference under Local Distribution Shift in Wasserstein Distance",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Multinomial Logistic Regression with Sample Selection",
+    "authors": "Onil Boussim",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Nonparametric Tests for Proprietary Information at First-Price, Common Value Auctions",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Penn State University|Xiaoyan Zhuang": {
+  "status": "ok",
+  "source": "https://xiaoyan-zhuang.github.io/ (CV: assets/Xiaoyan_Zhuang_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Alliance Capacity Sharing and Market Congestion in Container Shipping",
+    "authors": "Anhua Chen",
+    "venue": null,
+    "year": 2026,
+    "note": "JMP (current site title; dept list title: Risk Sharing and Market Congestion in Container Ship Leasing)",
+    "url": "https://xiaoyan-zhuang.github.io/papers/Zhuang_JMP_Capacity_Risk.pdf"
+   },
+   {
+    "title": "Owning or Leasing? The Role of Capital Leasing Market in the Investment Cycle",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
  }
 }
