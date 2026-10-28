@@ -40739,5 +40739,194 @@
     "url": null
    }
   ]
+ },
+ "2026-2027|UPenn|Bernardo de Moura": {
+  "status": "ok",
+  "source": "Vita Pack 2026-2027 CV https://economics.sas.upenn.edu/system/files/2026-10/Vita%20Pack%202026-2027.pdf ; https://bdemoura.com",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Finance and competition in B2B markets",
+    "authors": "Eliana Sena",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://bdemoura.com/research/factoring.pdf"
+   },
+   {
+    "title": "Can Auctions Promote Competition in Regulated Pension Fund Markets? Evidence from Chile",
+    "authors": "Keunsang Song",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Factoring and Firm Dynamics",
+    "authors": "Agustín Díaz, Ramiro de Elejalde",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Equilibrium Effects of Voluntary Delayed Retirement: Optimality and Adverse Selection",
+    "authors": "Gastón Illanes, Ursula Schwarzhaupt, Benjamin Vatter",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UPenn|Artemii Korolkov": {
+  "status": "ok",
+  "source": "Vita Pack 2026-2027 CV https://economics.sas.upenn.edu/system/files/2026-10/Vita%20Pack%202026-2027.pdf",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Fiscal Consolidations under Political Frictions: Deleveraging through Disinvestment",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Debt, Taxes, and the Composition of Fiscal Adjustment",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Political Sustainability of Pensions",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UPenn|Keunsang Song": {
+  "status": "ok",
+  "source": "Vita Pack 2026-2027 CV https://economics.sas.upenn.edu/system/files/2026-10/Vita%20Pack%202026-2027.pdf",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Can Auctions Promote Competition in Regulated Pension Fund Markets? Evidence from Chile",
+    "authors": "Bernardo de Moura",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Revenue in Dynamic Multi-Unit Auctions with Asymmetric Bidders",
+    "authors": "J. Lee, H. Sabourian",
+    "venue": null,
+    "year": null,
+    "note": "In progress",
+    "url": null
+   },
+   {
+    "title": "Tax Exclusion, Spousal Insurance, and Labor Market Outcomes of Households",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "In progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UPenn|Natacha Spitzer": {
+  "status": "ok",
+  "source": "Vita Pack 2026-2027 CV https://economics.sas.upenn.edu/system/files/2026-10/Vita%20Pack%202026-2027.pdf ; https://natachaspitzer.github.io",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Contracting with Unknown Complementarity: Ratchets and Replacement Risk",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Optimal Monitoring of AI Use with Reputation Concerns",
+    "authors": "Mengjia Xia",
+    "venue": null,
+    "year": null,
+    "note": "Under review",
+    "url": null
+   },
+   {
+    "title": "On the Irrelevance of Networks in Repeated Games",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Under review",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UPenn|Ruben Piazzesi": {
+  "status": "ok",
+  "source": "Vita Pack 2026-2027 CV https://economics.sas.upenn.edu/system/files/2026-10/Vita%20Pack%202026-2027.pdf",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Productivity Effects of Aging: Skill Composition and Technology Adoption",
+    "authors": "Stefano Cravero",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Role of Training for Technology Diffusion",
+    "authors": "Carolina Bussotti",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Technifying Ventures",
+    "authors": "Yoshiki Ando, Emin Dinlersoz, Jeremy Greenwood",
+    "venue": null,
+    "year": null,
+    "note": "Submitted",
+    "url": null
+   },
+   {
+    "title": "Managing to Start a Firm? Managerial Experience and Entrepreneurship",
+    "authors": "Daniel Jaar, Alexander Sawyer",
+    "venue": null,
+    "year": null,
+    "note": "In progress",
+    "url": null
+   },
+   {
+    "title": "Wage Disclosure, Amenities, and Labor Search",
+    "authors": "Carolina Bussotti, Loujaina Abdel Wahed",
+    "venue": null,
+    "year": null,
+    "note": "In progress",
+    "url": null
+   }
+  ]
  }
 }

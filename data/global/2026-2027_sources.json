@@ -68,11 +68,11 @@
  },
  {
   "school": "UPenn",
-  "status": "not_posted",
+  "status": "posted",
   "url": "https://economics.sas.upenn.edu/graduate/job-market-candidates",
-  "n": 0,
-  "note": "Page is headed 2026-2027 but the candidate table is empty as of 2026-10-24.",
-  "checked": "2026-10-26"
+  "n": 5,
+  "note": "Ruben Piazzesi is in the Vita Pack 2026-2027 (summary table and CV) but not yet on the web table of the department list page.",
+  "checked": "2026-10-28"
  },
  {
   "school": "UCLA",
@@ -331,8 +331,8 @@
   "status": "not_posted",
   "url": "https://economics.rice.edu/graduate-program/phd/job-market-candidates",
   "n": 0,
-  "note": "Page still shows the 2025-26 list (candidate sites say 2025-26 market; Jabbari already PhD 2026).",
-  "checked": "2026-10-26"
+  "note": "Page (no year label) still lists the 2025-26 cohort as of 2026-10-28: Huang, Jabbari, Kim, Li, Yan per their own sites/CVs are 2025-26 or earlier; Coudsi and Yang unclear.",
+  "checked": "2026-10-28"
  },
  {
   "school": "Texas A&M University",
