@@ -328,10 +328,9 @@
  },
  {
   "school": "Rice University",
-  "status": "not_posted",
+  "status": "posted",
   "url": "https://economics.rice.edu/graduate-program/phd/job-market-candidates",
-  "n": 0,
-  "note": "Page (no year label) still lists the 2025-26 cohort as of 2026-10-28: Huang, Jabbari, Kim, Li, Yan per their own sites/CVs are 2025-26 or earlier; Coudsi and Yang unclear.",
+  "n": 6,
   "checked": "2026-10-28"
  },
  {

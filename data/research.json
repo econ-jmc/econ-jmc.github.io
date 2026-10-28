@@ -40928,5 +40928,335 @@
     "url": null
    }
   ]
+ },
+ "2026-2027|Rice University|Defne Sandikcioglu": {
+  "status": "ok",
+  "source": "https://defnesandikcioglu.github.io/ (CV: Google Drive PDF)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "Simultaneous Auctions with Common and Private Value Bidders: Evidence from Online Car Auctions",
+    "authors": null,
+    "venue": "The RAND Journal of Economics",
+    "year": 2026,
+    "note": "Revise & Resubmit",
+    "url": "https://drive.google.com/file/d/1mICUBk_rAMyCqf5UQXEnvZiMc58h1CUV/view?usp=sharing"
+   }
+  ],
+  "wp": [
+   {
+    "title": "Auctions vs. Posted Prices: When Do Sellers Switch Formats?",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "JMP",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Rice University|Eduard Van Der Merwe": {
+  "status": "ok",
+  "source": "https://eduardvandermerwe.com/ (CV: https://eduardvandermerwe.com/assets/Curriculum_Vitae_EvdM.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Religious Discrimination and Othering in the U.S. After October 7th: A Data Overview",
+    "authors": "Elaine Howard Ecklund, Kerby Goff",
+    "venue": "Religions",
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Climate Change and Child Malnutrition: A Nigerian Perspective",
+    "authors": "Matthew Clance, Eleni Yitbarek",
+    "venue": "Food Policy",
+    "year": 2022,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Preaching Against the Choir: Religious Leaders and Reproductive Norms in Kenya",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "JMP",
+    "url": "https://eduardvandermerwe.com/assets/Publications/Van_der_Merwe_JMP_PATC.pdf"
+   },
+   {
+    "title": "Heritage of Hunger: Ethnicity, Resource Allocation, and Child Poverty",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "Submitted to the Journal of Economic Behavior & Organization",
+    "url": null
+   },
+   {
+    "title": "Americans' Moral Boundaries regarding Antisemitic and Islamophobic Speech",
+    "authors": "Kerby Goff, Elaine Howard Ecklund",
+    "venue": null,
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Government Religious Preference and Intrastate Conflict",
+    "authors": "Carolyn Chisadza, Matthew Clance",
+    "venue": null,
+    "year": 2021,
+    "note": "ERSA Working Paper No. 867",
+    "url": null
+   },
+   {
+    "title": "Unequal Gains: The Changing Landscape of Global Individual Poverty",
+    "authors": "Rossella Calvi, Tanmay Devi, Yunjie Xie",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Collective Action for Climate Resilience",
+    "authors": "Aanchal Bagga, Tanmay Devi, Yunjie Xie",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Religion, Poverty, and Conflict: How Beneficial Is It to Adhere to the State's Religion?",
+    "authors": "Matthew Clance",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Understanding Refugee Poverty",
+    "authors": "Theresa Beltramo, Rossella Calvi, Giacomo De Giorgi, Ibrahima Sarr",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Rice University|Grace Molina": {
+  "status": "ok",
+  "source": "https://gracemolina.carrd.co/ (CV: Google Drive PDF)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Team Production with Adverse Selection and Moral Hazard",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Incomplete Contracts and Renegotiations in a Procurement Auction",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Rice University|Pei Yu": {
+  "status": "ok",
+  "source": "https://peiyu1707.github.io/ (CV link returns 404; education from LinkedIn via web search, degree names/institutions only, no years)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Network Games with Triadic Interactions",
+    "authors": "Wei Shi, Chunchao Wang",
+    "venue": "International Economic Review",
+    "year": 2026,
+    "note": null,
+    "url": "https://doi.org/10.1111/iere.70043"
+   },
+   {
+    "title": "Key Links in Network Interactions: Assessing Route-Specific Travel Restrictions in China During the Covid-19 Pandemic",
+    "authors": "Xi Chen, Yun Qiu, Wei Shi",
+    "venue": "China Economic Review",
+    "year": 2022,
+    "note": null,
+    "url": "https://doi.org/10.1016/j.chieco.2022.101800"
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Semiparametric Estimation of Network Formation Models with Nonrandomly Missing Nodes",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://drive.google.com/file/d/1IMCeWFFgN60hxWiDezTWVh9tEnWbgGPz/view"
+   },
+   {
+    "title": "Estimation of Random-Coefficient Dynamic Panel Data Models with a Fixed T",
+    "authors": "Xun Tang",
+    "venue": null,
+    "year": null,
+    "note": "Submitted to Econometrica",
+    "url": "https://arxiv.org/pdf/2608.23988"
+   },
+   {
+    "title": "Addressing Endogeneity under Network Interference",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Rice University|Jiewen Luo": {
+  "status": "ok",
+  "source": "https://www.jiewen-luo.com/ (CV: Google Drive PDF)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Who Holds the Conditional Cash Transfer? A Structural Evaluation of Shifting Benefit Recipients from Mothers to Adolescents",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://drive.google.com/file/d/11en74lCD61SYUTXgj6BGUXU6oH1jpn0M/view?usp=sharing"
+   },
+   {
+    "title": "Public Works and Children's Human Capital Formation: Evidence from Ethiopia's Productive Safety Net Program",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Submitted to the Journal of Development Economics",
+    "url": null
+   },
+   {
+    "title": "Is Universal Scholarship Good for Everyone? The Role of Cash Transfers on School Choice",
+    "authors": "Victor Delgado, Rui Zeng",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Food for Thought: In-Kind Transfers, Schooling, and Children's Welfare in India",
+    "authors": "Tanmay Devi",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|Rice University|Victor Hugo Delgado-Barrera": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/victordelgado/ and /research (CV requires Google sign-in, not used; no years)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Intergenerational Economic Mobility in Mexico",
+    "authors": "Raymundo Campos, Roberto Vélez",
+    "venue": "Estudios Económicos",
+    "year": 2021,
+    "note": null,
+    "url": "https://estudioseconomicos.colmex.mx/index.php/economicos/en/article/view/412/534"
+   },
+   {
+    "title": "The Effects of a Place-Based Tax Cut and Minimum Wage Increase on Labor Market Outcomes",
+    "authors": "Raymundo Campos, Alexis Rodas",
+    "venue": "IZA Journal of Labor Policy",
+    "year": 2020,
+    "note": null,
+    "url": "https://www.econstor.eu/bitstream/10419/298755/1/1735468436.pdf"
+   },
+   {
+    "title": "Política social y combate a la pobreza en México: Análisis de la Cartilla Social",
+    "authors": "Raymundo Campos, Eduardo Medina",
+    "venue": "Gestión y Política Pública",
+    "year": 2020,
+    "note": null,
+    "url": "https://doi.org/10.29265/gypp.v29i2.777"
+   },
+   {
+    "title": "Residential Water Demand and Price Perception under Increasing Block Rates",
+    "authors": "René Cabral Torres, Luciano Ayala",
+    "venue": "Economics Bulletin",
+    "year": 2017,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Policy and Incidence of the Corporate Income Tax with Informality: Evidence from Mexico",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP (research page lists earlier title 'Tax Incidence in Developing Countries: Evidence from Mexico')",
+    "url": null
+   },
+   {
+    "title": "Tax Policy and Investment Behavior: Evidence from Mexico",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Spatial Inequality and High School Choice: Implications from Mexico City",
+    "authors": "Jintao Sun, Rui Zeng",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Is Universal Scholarship Good for Everyone? The Role of Cash Transfers on School Choice",
+    "authors": "Jiewen Luo, Rui Zeng",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Assessing the Incidence of the Property Tax in Sonora, Mexico",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Bunching at the Investment Kink? Immediate Expensing and Small-Firm Investment in Mexico",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Measuring Income Inequality in Mexico",
+    "authors": "Alex Rivadeneira, Rodolfo Oviedo Moguel",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
  }
 }
