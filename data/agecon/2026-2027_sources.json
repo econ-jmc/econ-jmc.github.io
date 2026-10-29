@@ -29,7 +29,7 @@
   "url": "https://ace.illinois.edu/academics/graduate-degrees/job-market-candidates",
   "n": 0,
   "note": "Page still shows the 2025-2026 list.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Purdue",
@@ -53,7 +53,7 @@
   "url": "https://aae.wisc.edu/people/job-market-candidates/",
   "n": 0,
   "note": "Page returns 404 (2025-26 page removed); placement page lists only 2026 placements.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Michigan State",
@@ -61,7 +61,7 @@
   "url": "https://www.afrejobcandidates.com/",
   "n": 0,
   "note": "Site still shows the 2025 - 2026 AFRE Job Candidates list.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "NC State",
@@ -69,7 +69,7 @@
   "url": "https://poole.ncsu.edu/gradecon/about-us/job-candidates/",
   "n": 0,
   "note": "Joint econ/ARE page says '2026-2027 PhD Job Market Candidates - Coming soon.' as of Oct 24 2026.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Maryland",
@@ -85,7 +85,7 @@
   "url": "https://aese.psu.edu/graduateprograms/eefe/job-market-candidates",
   "n": 0,
   "note": "Page requires Microsoft/PSU login (not bypassed).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Ohio State",
@@ -101,7 +101,7 @@
   "url": "https://agecon.tamu.edu/",
   "n": 0,
   "note": "agecon.tamu.edu is behind a Cloudflare bot wall (HTTP 403); not bypassed. Economics dept page says 2026-27 candidates 'will soon be listed'.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Kansas State",
@@ -109,7 +109,7 @@
   "url": "https://www.ageconomics.k-state.edu/about/people/directory/marketplace/",
   "n": 0,
   "note": "Marketplace page (stamped Updated 6/30/26) still lists the 2025-26 cohort (Ala-Kokko, Sharma, Ofori-Bah, Day, Gharib); several were already placed in 2025 (e.g. Ala-Kokko to Arkansas, Day to Texas A&M). No 2026-27 list found.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Oregon State",
@@ -125,7 +125,7 @@
   "url": "https://ses.wsu.edu/job-market-candidates/",
   "n": 0,
   "note": "Page exists but lists no candidates yet.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Virginia Tech",
@@ -157,7 +157,7 @@
   "url": "https://are.uconn.edu/",
   "n": 0,
   "note": "No job market candidates page found on are.uconn.edu (checked home, /phd/, /graduate-program-2/; searches).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "UMass Amherst",
@@ -165,7 +165,7 @@
   "url": "https://www.umass.edu/resource-economics/academics/graduate",
   "n": 0,
   "note": "Graduate page still links only the 2025-2026 job market candidates page; 2026-2027 URL returns 404.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Missouri",
@@ -173,7 +173,7 @@
   "url": "https://dass.missouri.edu/",
   "n": 0,
   "note": "No AAE job market page found on dass.missouri.edu / cafnr.missouri.edu. (The economics.missouri.edu 2026-27 page belongs to the Arts & Science Economics dept, not AAE.)",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Arizona",
@@ -189,7 +189,7 @@
   "url": "https://agsci.colostate.edu/dare/graduate-student-resources/agricultural-resource-economics-programs/graduate-student-placement/",
   "n": 0,
   "note": "No job market candidates page; only a placements-of-graduates page (through 2024).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Tennessee",
@@ -205,7 +205,7 @@
   "url": "https://agecon.unl.edu/",
   "n": 0,
   "note": "No job market candidates page found on agecon.unl.edu (department now part of SASSA).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Kentucky",
@@ -213,7 +213,7 @@
   "url": "https://agecon.mgcafe.uky.edu/graduate-program",
   "n": 0,
   "note": "No job market candidates page found on department site.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Arkansas",
@@ -221,7 +221,7 @@
   "url": "https://agribusiness.uark.edu/",
   "n": 0,
   "note": "No job market candidates page found on department site or by search.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Oklahoma State",
@@ -229,7 +229,7 @@
   "url": "https://agriculture.okstate.edu/departments-programs/agecon/graduate/",
   "n": 0,
   "note": "Department site returned HTTP 403 to automated access (bot wall); not bypassed. No candidate page found.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Auburn",
@@ -245,7 +245,7 @@
   "url": "https://www.lsu.edu/agriculture/agecon/",
   "n": 0,
   "note": "No job market candidates page found.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Mississippi State",
@@ -261,7 +261,7 @@
   "url": "https://www.ndsu.edu/programs/graduate/agribusiness-and-applied-economics",
   "n": 0,
   "note": "No job market candidates page found on NDSU site; PhD in Applied Economics reportedly small/not admitting.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Montana State",
@@ -277,7 +277,7 @@
   "url": "https://www.usu.edu/degrees-majors/economics_applied-economics_phd",
   "n": 0,
   "note": "No job market page found; department site URLs returned 404.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Rhode Island",
@@ -285,7 +285,7 @@
   "url": "https://web.uri.edu/enre/",
   "n": 0,
   "note": "PhD program exists; no job market candidates page found.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Delaware",
@@ -301,7 +301,7 @@
   "url": "https://www.uoguelph.ca/oac/fare/graduate",
   "n": 0,
   "note": "FARE has a PhD program but no job market candidates page found (checked fare site/graduate pages).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Alberta",
@@ -309,7 +309,7 @@
   "url": "https://www.ualberta.ca/en/agriculture-life-environment-sciences/programs/graduate-programs/prospective-students/resource-economics-and-environmental-sociology/index.html",
   "n": 0,
   "note": "University site returned 403 to automated fetch; no candidates page found via search.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Saskatchewan",
@@ -317,7 +317,7 @@
   "url": "https://agbio.usask.ca/departments/agricultural-and-resource-economics.php",
   "n": 0,
   "note": "PhD program exists; no job market candidates page found.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "UBC FRE",

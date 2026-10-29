@@ -41258,5 +41258,2187 @@
     "url": null
    }
   ]
+ },
+ "2026-2027|George Washington University|Neha Betai": {
+  "status": "ok",
+  "source": "https://neha-betai.github.io/research.html (CV: https://neha-betai.github.io/Resume_NehaBetai.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Implications of Brexit for Skilled Migration from India to the UK",
+    "authors": "Rupa Chanda",
+    "venue": "Foreign Trade Review",
+    "year": 2021,
+    "note": null,
+    "url": "https://doi.org/10.1177/00157325211012207"
+   },
+   {
+    "title": "The Skilled South Asian Diaspora in the OECD",
+    "authors": "Rupa Chanda",
+    "venue": "Routledge Handbook of Asian Diaspora and Development",
+    "year": 2021,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Role of Private Higher Education Institutions in Internationalization of Higher Education",
+    "authors": "Rupa Chanda",
+    "venue": "Private Higher Education (Routledge)",
+    "year": 2023,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Automation without Borders: Generative AI and Cross-Border Service Outsourcing",
+    "authors": "Maggie X. Chen",
+    "venue": "Journal of International Economics",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "How Workers Invest in Artificial Intelligence: Experimental Evidence from Global Labor Platforms",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://www.dropbox.com/scl/fi/0di9afgioo7w6mxcdt978/JMP.pdf?rlkey=f6y0o1j6um6unp5cvo5q2g3hr&st=yjpd1vb9&dl=0"
+   },
+   {
+    "title": "Unlocking Choices: The Impact of Credit Availability on Product Mix - Evidence from India",
+    "authors": "Shatakshi Gupta",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "What Drives Demand for AI Governance?",
+    "authors": "Maggie X. Chen",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Generative AI and Competition in Online Labor Markets",
+    "authors": "Rodimiro Rodrigo, Zhao Xue",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|George Washington University|Ammu Lavanya": {
+  "status": "ok",
+  "source": "https://ammulavanya.github.io/research.html (CV: https://ammulavanya.github.io/files/CV.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "The Openness-Inflation Puzzle: An Asymmetric Approach",
+    "authors": "Irfan Ahmad Shah",
+    "venue": "Macroeconomics and Finance in Emerging Market Economies",
+    "year": 2022,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Does Government Deficit Crowd Out Private Investment? An Empirical Analysis for National and Sub-National Governments",
+    "authors": "Pushpa Trivedi, Sangita Misra, Kaushiki Singh",
+    "venue": "ICFAI University Press Journal of Applied Economics",
+    "year": 2019,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "International Financial Flows, Credit Allocation and Productivity",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://ammulavanya.github.io/files/JMP_Latest_Lavanya.pdf"
+   },
+   {
+    "title": "A History of the Future of Emerging Markets",
+    "authors": "Atish R. Ghosh",
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   },
+   {
+    "title": "Do Open Capital Markets Spur Growth? Evidence from Asian Countries, 1820-1931",
+    "authors": "Graciela Kaminsky, Zheyu Yang",
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   },
+   {
+    "title": "Monetary Policy Transmission to Consumption: Evidence from Transaction-Level Data",
+    "authors": "Donghao Wu",
+    "venue": null,
+    "year": null,
+    "note": "Research in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|George Washington University|Jae Hoon Lee": {
+  "status": "ok",
+  "source": "https://jaehoonlee-econ.github.io/ (CV: https://jaehoonlee-econ.github.io/files/JaeHoonLee_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Fiscal Rules When Sovereign Debt Is Risky but Convenient",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Financial Liberalization and Investment-Specific Technological Change",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": "https://jaehoonlee-econ.github.io/files/JaeHoonLee_ISTC.pdf"
+   }
+  ]
+ },
+ "2026-2027|George Washington University|Qingyu Liu": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/qingyuliu/research (CV: Google Drive PDF linked from /cv)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "A Search Model of Financial Bubbles",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Ethereum Price Cycles and On-Chain Transaction Patterns",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Evaluation of Policies against Chinese Housing Bubble",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|George Washington University|Kathryn Nicholson": {
+  "status": "ok",
+  "source": "http://www.kathrynnicholson.com/research (CV: Google Drive PDF from /cv)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Urban Informality and Floods in Spatial Equilibrium: Evidence from Mumbai",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "What Happened to Midnight's Children? Long-run Impacts of Refugee Resettlement during the 1947 Partition of British India",
+    "authors": "Siddharth George",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Navigating the Dry Corridor: Climate Change, Structural Transformation and Migration around the Corredor Seco in Central America",
+    "authors": "Carlos Rodriguez Castelan, Remi Jedwab, Roman Zarate",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Climate Change, Migration and Slum Growth in India, 2002-2012",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|George Washington University|Mallory Perillo": {
+  "status": "ok",
+  "source": "http://www.malloryperillo.com/research (CV: Dropbox PDF perilloRESUMEjobmkt2026.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Can Public Goods be Self-Financing? An Analysis of Tax Incremental Financing in Wisconsin",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Love or Taxes: Separating Tax Benefits from Other Motivations to Marry within Same-sex Partnerships",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Artificial Intelligence and Public School Teacher Hiring: Evidence from Wisconsin",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress; working title",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|George Washington University|Yueyi (Angela) Qin": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/angelaqin/research-projects (CV: Google Drive PDF)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Tariffs, Prices, and Consumers: Unpacking the Pass-through Puzzle",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Impact of Import Tariffs on Retail Prices: Evidence from the 2018 US-China Trade War",
+    "authors": "Lidong Yang",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "From China Shock to Trade War: Did Tariffs Bring Back Manufacturing Jobs?",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|George Washington University|Kavya Ravindranath": {
+  "status": "ok",
+  "source": "https://kavya-ravindranath.github.io/research/ (CV: https://kavya-ravindranath.github.io/assets/pdfs/KavyaRavindranath_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Raising Revenues: Evidence from Property Tax Assessments in India",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://kavya-ravindranath.github.io/assets/pdfs/KR_Oct20.pdf"
+   },
+   {
+    "title": "Bridging the Solar Divide: Demand Responses to Subsidies among Low-Income Households",
+    "authors": "Rui Zhong",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "How much influence does a bureaucrat have? A study of caste and crime in India",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Political Economy of State Borrowing and Financial Crowding Out",
+    "authors": "Viral Acharya, Nirupama Kulkarni, Rahul Singh Chauhan",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Pass-Through of Consumption Taxes under Political Pressure",
+    "authors": "Sai Pitre",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Digital Land and Property Improvement Tax Payment Mechanism in Malawi",
+    "authors": "Klaus W. Deininger, Daniel Ayalew Ali",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|George Washington University|Geyue (Grace) Sun": {
+  "status": "ok",
+  "source": "https://geyuesun.github.io/publications/ (CV: https://geyuesun.github.io/files/CV_Geyue_Sun.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Learning to Regulate: A New Event-Level Dataset of Capital Control Measures",
+    "authors": "Xiao Liu, Tomas Williams, Roberto Samaniego",
+    "venue": "The Journal of Finance and Data Science",
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "RMB Carry Trade and the Theoretical Framework of the Impossible Trinity: An Empirical Analysis Based on a TVP-SV-VAR Model",
+    "authors": null,
+    "venue": "Finance Forum",
+    "year": 2022,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "An Impact Analysis of the Shanghai Free Trade Zone on Hong Kong's Port Economy",
+    "authors": null,
+    "venue": "National Circulation Economy",
+    "year": 2017,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Not Just Talk: Crypto Activity, Equity Repricing, and Macro-Financial Transmission",
+    "authors": null,
+    "venue": null,
+    "year": 2026,
+    "note": "JMP",
+    "url": "https://geyuesun.github.io/files/JMP_Geyue.pdf"
+   },
+   {
+    "title": "What Drives Stablecoin Flows in Asia and the Pacific? Crypto-Market Shocks, Capital Controls, and Institutional Quality",
+    "authors": "S. B. Nowak, T. Saadi Sedik",
+    "venue": "IMF Working Paper",
+    "year": 2026,
+    "note": "Forthcoming IMF working paper",
+    "url": null
+   },
+   {
+    "title": "Stablecoins: A Revolutionary Payment Technology with Financial Risks",
+    "authors": "R. Ahmed, J. A. Clouse, F. Natalucci, A. Rebucci",
+    "venue": "NBER Working Paper No. 34475",
+    "year": 2025,
+    "note": null,
+    "url": "https://www.nber.org/papers/w34475"
+   },
+   {
+    "title": "An LLM-based Survey of Stablecoin Podcasts",
+    "authors": "R. Ahmed, A. Rebucci",
+    "venue": "SSRN",
+    "year": 2025,
+    "note": null,
+    "url": "http://dx.doi.org/10.2139/ssrn.5628451"
+   },
+   {
+    "title": "Bypassing Capital Interventions: Carry Trades via Commodity Futures Market",
+    "authors": null,
+    "venue": null,
+    "year": 2024,
+    "note": "Conference paper (SEA 2024)",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|George Washington University|Donghao Wu": {
+  "status": "ok",
+  "source": "https://donghaowu-yes.github.io/ (CV: https://donghaowu-yes.github.io/assets/Donghao_Wu_Academic_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "How Does City-Center Spending Respond to COVID-19 Relative to Surrounding Areas? Evidence from U.S. Metropolitan Areas",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Temporary Tax Relief and Consumer Demand: Evidence from US Sales Tax Holidays",
+    "authors": "Rui Zhong",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Monetary Policy Transmission to Consumption: Evidence from Transaction-Level Data",
+    "authors": "Ammu Lavanya",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|George Washington University|Erdong Xu": {
+  "status": "ok",
+  "source": "http://exu-econ.github.io/research.html (CV: http://exu-econ.github.io/cv.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Printing Morality: Uncle Tom's Cabin and the Antebellum Political Realignment",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "When Local Police Become Immigration Agents",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Tariff Interests and Political Realignment after the Panic of 1857",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Annual Historical Data from Boston City Directories: Construction and Applications",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|George Washington University|Kunyao (Richard) Xu": {
+  "status": "ok",
+  "source": "https://richardxuecon.github.io/",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Correlates of Pretransplant Outcomes in United States Kidney Transplant Programs, 2015 to 2020",
+    "authors": "Xingxing Cheng, et al.",
+    "venue": "Kidney International Reports",
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Medical Costs of Determining Eligibility and Waiting for a Kidney Transplantation",
+    "authors": "Avi Dor, et al.",
+    "venue": "Medical Care",
+    "year": 2024,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Expectation Sentiment and Consumption Fluctuation from the Covid Era: A Natural Language Processing Approach",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Leveraging ChatGPT to Analyze Heterogeneous Treatment Effects: The Effect of Pfizer's COVID-19 Vaccine Announcement on U.S. Consumption",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Accepted to 2025 IAAE and PEA conferences",
+    "url": null
+   },
+   {
+    "title": "Balancing Act: A Multi-Stakeholder Analysis of IMF Perceptions Using LLMs",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|George Washington University|Rui Zhong": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/rui-zhong/research (CV: Dropbox PDF Zhong.Rui.CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Political Impact of Curtailing Migrant Workers: Evidence From The Bracero Program",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://www.dropbox.com/scl/fi/sr1rlwv3nz9kdrba3s225/Bracero_10_25.pdf?rlkey=8fdods2939fth6czyeh72c0sx&st=wbaystjl&dl=0"
+   },
+   {
+    "title": "Bridging the Solar Divide: Demand Responses to Subsidies Among Low-Income Households",
+    "authors": "Kavya Ravindranath",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Temporary Tax Relief and Consumer Demand: Evidence from U.S. Sales Tax Holidays",
+    "authors": "Donghao Wu",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Labor Market Conditions and College Major Choice",
+    "authors": "Erdong Xu",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Community Opinions toward Data Center Development",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Spillover Effects of Low-Income Solar Subsidies on Panel Adoption",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UC Berkeley|Anand Bharadwaj": {
+  "status": "unreachable",
+  "source": "https://econ.berkeley.edu/graduate/placement/job-market-candidates-phd",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": []
+ },
+ "2026-2027|UC Berkeley|Uyanga Byambaa": {
+  "status": "ok",
+  "source": "https://www.uyangabyambaa.com/research (CV: https://drive.google.com/file/d/1euYiD3WPpryKGZBkUm7YAxmyVj75OTI3/view)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "Beyond Education and Occupation: Unpacking the Large Gender Wage Gap in Kenya",
+    "authors": "Edward Miguel, Michael Walker, Samuel Zicheng Wang",
+    "venue": "Journal of Development Economics",
+    "year": 2026,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Building Capacity to Learn: Experimental Evidence from Two Countries",
+    "authors": "Jonathan Old",
+    "venue": null,
+    "year": 2026,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Building Minds: Evidence from a School-Based Cognitive Enrichment Intervention in Kenya",
+    "authors": "Jonathan Old",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Transmission of Cognitive Skills across Generations in Kenya",
+    "authors": "William H. Dow, Alden L. Gross, Jean N. Ikanga, Matthew C. H. Jukes, Edward A. Miguel, Eric Ochieng, Alexandra V. Schubert",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Impact of Chess Program on Criminal Behaviour",
+    "authors": "Omar Gill",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Script, Skills, and Identity: The Economic and Political-Economy Effects of Mongolia's 1990s Traditional-Script Education Reform",
+    "authors": "Avralt-Od Purevjav",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UC Berkeley|Eva Davoine": {
+  "status": "ok",
+  "source": "https://www.evadavoine.com/eva-davoine-research (CV: Dropbox Resume_Eva_Davoine.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Mapping the Grandes Gabelles in Early Modern France",
+    "authors": "Joseph Enguehard, Victor Gay, Igor Kolesnikov",
+    "venue": "Explorations in Economic History",
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Trust in Scientists in Times of Pandemic: Panel Evidence from 12 Countries",
+    "authors": "Yann Algan, Daniel Cohen, Martial Foucault, Stefanie Stantcheva",
+    "venue": "Proceedings of the National Academy of Sciences",
+    "year": 2021,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Negotiating Taxes: Evidence from Agreements between Multinationals and the French Government",
+    "authors": "Sébastien Laffitte",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Political Costs of Tax Enforcement",
+    "authors": "Joseph Enguehard, Igor Kolesnikov",
+    "venue": null,
+    "year": null,
+    "note": "Under review",
+    "url": null
+   },
+   {
+    "title": "The Rise of Anger: Emotions and Policy Views",
+    "authors": "Yann Algan, Thomas Renault, Stefanie Stantcheva",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Global Transparency and Tax Enforcement on Foreign Capital",
+    "authors": "Ségal Le Guern Herry, Elvin Le Pouhaër, Wouter Leenders",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Legal Antecedents of Fiscal Capacity: Evidence from D.R. Congo",
+    "authors": "Augustin Bergeron, Gabriel Granato, Marina Ngoma, James Robinson, Jonathan Weigel",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Emotions Write History",
+    "authors": "Yann Algan, Thomas Renault, Stefanie Stantcheva",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UC Berkeley|Margaret G. Kallus": {
+  "status": "ok",
+  "source": "https://margaretgkallus.github.io/research.html",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+    "authors": "Raj Chetty, John N. Friedman, Michael Stepner, Opportunity Insights Team",
+    "venue": "Quarterly Journal of Economics",
+    "year": 2024,
+    "note": "Pre-PhD",
+    "url": "https://doi.org/10.1093/qje/qjad048"
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Deadpooling: Strategic Lock-In in the Medigap Market",
+    "authors": "Elaine Shen",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Price of \"Free\" Advice: Measuring Agency Problems in the Medicare Broker Market",
+    "authors": "Elaine Shen",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Medigap Access and Medicare Advantage Disenrollment Among Disabled Beneficiaries at Age 65",
+    "authors": "Daria Pelech",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Insurance Agent Licensure: Turnover, Trends, and Spatial Differences",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Personality Testing in the Hiring Process",
+    "authors": "Hadar Avivi, Elaine Shen",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Advertising and Persuasion in Medicare Insurance Markets",
+    "authors": "Elaine Shen",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UC Berkeley|Chiara Motta": {
+  "status": "ok",
+  "source": "https://chimotta.github.io/ (CV: https://chimotta.github.io/files/Motta_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [
+   {
+    "title": "The Cost of Buying American",
+    "authors": "Matilde Bombardini, Andres Gonzalez-Lira, Bingjing Li",
+    "venue": "American Economic Review",
+    "year": null,
+    "note": "Resubmitted",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Can Place-Based Subsidies Improve Labor Market Efficiency?",
+    "authors": "Federico Cingano",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "It is Never too Late",
+    "authors": "Filippo Palomba",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Labor Market Effects of Competition: Evidence from the Hudson's Bay Company",
+    "authors": "Lukas Leucht, Davis Kedrosky",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Monopsony Power Across Firms",
+    "authors": "Sydnee Caldwell, Ingrid Haegele, Joerg Heining",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "On-the-Job Training in the Age of AI",
+    "authors": "Jinci Liu, Dominik Wehr",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Product and Labor Market Power: Evidence from Firm-to-Firm Networks",
+    "authors": "Eugenia Menaguale",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UC Berkeley|Jonathan Old": {
+  "status": "ok",
+  "source": "https://jonathanold.github.io/ (CV: https://jonathanold.github.io/pdf/JOld_CV_public.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Healthy ageing trends in England between 2002 to 2018: Improving but slowing and unequal",
+    "authors": "Andrew J. Scott",
+    "venue": "The Journal of the Economics of Ageing",
+    "year": 2023,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Cycles of Fire: Politics and Forest Burning in Indonesia",
+    "authors": "Clare Balboni, Robin Burgess, Anton Heil, Ben Olken",
+    "venue": "AEA Papers and Proceedings",
+    "year": 2021,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Democracy and the transnational dimensions of low-level conflict and state repression",
+    "authors": "Martin Rößler, Patrick Zwerschke",
+    "venue": "International Studies Quarterly",
+    "year": 2021,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Measuring Bid Rigging at Scale: Detection and Prices in Indian Procurement",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Power-Sharing and Low-Level Conflict: Evidence from Political Reservations in India",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Building Capacity to Learn: Experimental Evidence from Two Countries",
+    "authors": "Uyanga Byambaa",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Strategic Political Donations: Evidence from India",
+    "authors": "Amol Singh Raswan",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UC Berkeley|Petra Oreskovic": {
+  "status": "ok",
+  "source": "https://petra-laura-oreskovic.eu (CV: https://petra-laura-oreskovic.eu/cv.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Where Campaigns Matter: Evidence from Labour's 2024 General Election Campaign",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://petra-laura-oreskovic.eu/papers/where-campaigns-matter.pdf"
+   },
+   {
+    "title": "The Electoral Costs of Within-Bloc Competition: A Nationwide Canvassing Experiment",
+    "authors": "Velibor Mačkić",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": "https://petra-laura-oreskovic.eu/papers/within-bloc-competition.pdf"
+   },
+   {
+    "title": "Selective Omission of Stories and Sources of Bias in Cable News",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Understanding Voting, Political Behaviour and Public Opinion: An Introduction to Political Analytics",
+    "authors": "Miriam Sorace",
+    "venue": null,
+    "year": null,
+    "note": "Forthcoming textbook, SAGE 2027",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UC Berkeley|Sharath Venkata Sonti": {
+  "status": "ok",
+  "source": "https://sharathsonti.github.io/research.html (CV: https://sharathsonti.github.io/Sharath_Sonti_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Reference-Dependent Utility over Prices and the Welfare Cost of Inflation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Overconfident Forecasters and the Impact of Inflation Information: Evidence from a Randomized Survey Experiment",
+    "authors": "Filippo Natoli",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Divided Views, Clearer Signals: FOMC Disagreement and Monetary Policy Uncertainty",
+    "authors": "Patrik Räty",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Local Housing Market Experiences and Homeownership Decisions",
+    "authors": "Gene Woo Kang, Junru Lyu",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UC Berkeley|Elaine Shen": {
+  "status": "ok",
+  "source": "https://www.elaine-shen.com/research/ (CV: https://www.elaine-shen.com/assets/pdf/Elaine_Shen_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "A Clear Advantage: The Benefits of Transparency to Crisis Recovery",
+    "authors": "George E. Shambaugh",
+    "venue": "European Journal of Political Economy",
+    "year": 2018,
+    "note": "Pre-PhD",
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Price of \"Free\" Advice: Measuring Agency Problems in the Insurance Broker Market",
+    "authors": "Margaret Kallus",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Dollars and Sense: Self-Selection in Financial Literacy Education",
+    "authors": "Junru Lyu, Laila Voss",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Deadpooling: Strategic Lock-In in the Medigap Market",
+    "authors": "Margaret Kallus",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Hidden Curriculum",
+    "authors": "Michael Cuna",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Money Therapy: AI Advice and Financial Decision-Making",
+    "authors": "Emanuel Renkl, William Zhang",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Overconfidence and Information Seeking: Implications for Financial Decision-Making",
+    "authors": "Vanessa Sticher",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Personality Assessment Algorithms in Hiring",
+    "authors": "Hadar Avivi, Margaret Kallus",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "AI, Beliefs, and Job Search",
+    "authors": "Marion Carr, Michael Cuna",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Long-Term Impact of Financial Literacy: Evidence from Community College",
+    "authors": "Junru Lyu",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Insurance Agent Licensure: Turnover, Trends, and Spatial Differences",
+    "authors": "Margaret Kallus",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Advertising and Persuasion in Medicare Insurance Markets",
+    "authors": "Margaret Kallus",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UC Berkeley|Dustin Swonder": {
+  "status": "ok",
+  "source": "https://dustinswonder.github.io/ (CV: https://dustinswonder.github.io/Dustin_Swonder_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Tax Policy and Business Entry",
+    "authors": "Ian Sapollnik",
+    "venue": "Journal of Public Economics",
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "A Simple Model of Corporate Tax Incidence",
+    "authors": "Damián Vergara",
+    "venue": "AEA Papers and Proceedings",
+    "year": 2024,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "A Sufficient Statistics Approach to Optimal Corporate Taxes",
+    "authors": "Damián Vergara",
+    "venue": "Journal of Political Economy",
+    "year": 2026,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Homeownership and Government-Provided Liquidity: Evidence from a California Lottery",
+    "authors": "Ian Sapollnik",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Crisis Relief through the Tax Code: Effects of Corporate Loss Refunds on Firms and Workers",
+    "authors": "Ian Sapollnik",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UC Berkeley|Anna Vakarova": {
+  "status": "ok",
+  "source": "http://annavakarova.github.io/research.html (CV: http://annavakarova.github.io/files/cv.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Envy-Free and Efficient Allocation in General Environments",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP; earlier title: The Power of Sperner's Lemma in Fair Division",
+    "url": "http://annavakarova.github.io/papers/jmp.pdf"
+   },
+   {
+    "title": "Multi-Period House Allocation as a Public Good Problem",
+    "authors": "Federico Echenique, Albin Erlanson",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Implementation in the Cake-Cutting Problem",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Almost Marginal Product Allocations",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UC Berkeley|Teresita Cruz Vital": {
+  "status": "ok",
+  "source": "https://www.teresitacruzvital.com/research (CV: Dropbox tcv_cv.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Comprehensive Student Support and the Academic Performance of First-Gen, Low-Income Students: An Evaluation of the Incentive Awards Program at UC Berkeley",
+    "authors": null,
+    "venue": "The Berkeley McNair Research Journal",
+    "year": 2019,
+    "note": "Pre-PhD",
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Found in Translation? The Effects of Dual Language Immersion Programs",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "When Constraints Bind: The Effects of the California DREAM Act Application on Undocumented Student Success",
+    "authors": "Kassandra Hernández",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Reading the Road: Language Policy, Labor Supply, and Safety in the Trucking Industry",
+    "authors": "Steve Ramos",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UC Berkeley|Lucio Martin Wasserman": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/luciowasserman/research (CV: Google Drive Wasserman_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Shrinkflation: What Happens When Package Sizes Change?",
+    "authors": "Pedro Pires",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Fake News: What Is Its Impact? Can We Do Something About It?",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Role of Price History and Expectations in Consumer Choice",
+    "authors": "Alexander Whitefield",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "What Determines Support for Labor Movements? An Analysis of a Randomized Digital Campaign",
+    "authors": "Junru Lyu",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|University of Florida|Pedro Almeida": {
+  "status": "ok",
+  "source": "https://pedrodesousaalmeida.github.io/research.html (CV: https://pedrodesousaalmeida.github.io/cv.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Downstream Effects of Airport Privatization: Evidence from Brazil",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Reduced Capacity and Price Dispersion: Evidence from a Regional Shock in Brazilian Air Travel",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|University of Florida|Ann Atwater": {
+  "status": "ok",
+  "source": "https://www.annatwater.com/research (CV: https://annatw.github.io/Job_Market_Materials/AnnAtwaterCV_Main.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "The Quality of Online Instruction and Returns to Instructor Experience",
+    "authors": "Xi Zhang",
+    "venue": "Economics of Education Review",
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Does Online Testing Make the Grade? Evidence from a Randomized Controlled Trial",
+    "authors": "Mark Rush, Perihan Saygin",
+    "venue": "Education Finance and Policy",
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Gender Differences in Leaving Questions Blank on High-Stakes Standardized Tests",
+    "authors": "Perihan Saygin",
+    "venue": "Economics of Education Review",
+    "year": 2021,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Distributional Effects of Mergers: Evidence from the Attempted JetBlue-Spirit Merger",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5500318"
+   },
+   {
+    "title": "Airline Mergers and the Reallocation of Productive Assets",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Whose Experience Matters? Returns During the COVID-19 Shock",
+    "authors": "Xi Zhang",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress (CV only)",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|University of Florida|Qiushi Hua": {
+  "status": "ok",
+  "source": "https://qiushi-hua.github.io/research.html (CV: https://qiushi-hua.github.io/cv.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Monetary Policy and Firm Innovation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5137261"
+   },
+   {
+    "title": "Artificial Intelligence and Inventory Management: Evidence from U.S. Retail Industry",
+    "authors": "Shuang Chen, Min Fang, Boyuan Li, Baolian Wang",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress; draft available",
+    "url": null
+   },
+   {
+    "title": "Solving the Macro and Micro Investment Elasticity Inconsistency with Incomplete Information",
+    "authors": "Jonathan Adams, Min Fang, Eugenio Rojas",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|University of Florida|Anand Mathew": {
+  "status": "ok",
+  "source": "https://anandmathewecon.github.io/research.html (CV: https://anandmathewecon.github.io/cv/Mathew_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Credit Where Credit Is Withdrawn: Weather Shocks and the Household Coping Portfolio in India",
+    "authors": "Sankalp Mathur",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Cannabis Access and College Persistence: Evidence from Washington State's Dispensary Lottery",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|University of Florida|Qilin Zhang": {
+  "status": "ok",
+  "source": "https://qilinzhang97.github.io/research.html (CV: https://qilinzhang97.github.io/files/CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Gender-biased Dynastic Savings and the Marriage Market: Evidence from China",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP (title as on candidate site/CV)",
+    "url": null
+   },
+   {
+    "title": "A Micro Anatomy of the Hidden Local Government Debt in China: 2014-2023",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Mass Layoffs and Fertility: Evidence from WARN-Based Shocks",
+    "authors": "Yuchen Zhu",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Residential Mobility and Household Consumption",
+    "authors": "Yanqi Li",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress (CV only)",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|University of Florida|Yuchen Zhu": {
+  "status": "ok",
+  "source": "https://yuchenzhu122.github.io/",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Predicting College Major Switching with Machine Learning",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Migration Responses to Targeted K-12 Funding: Evidence from California's Local Control Funding Formula",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Academic Effects of Performance Requirements for Staying in College Majors",
+    "authors": "Robert Ainsworth, Thomas Knight, Macy McClaren",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Mass Layoffs and Fertility: Evidence from WARN-Based Shocks",
+    "authors": "Qilin Zhang",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Quantifying Quality Growth in China: 1988-2009",
+    "authors": "Qilin Zhang",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UoT|Rawnak Amin": {
+  "status": "ok",
+  "source": "https://rawnakamin.github.io (CV: https://rawnakamin.github.io/files/AminRawnak_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Mill Family Revisited: Outcomes and Evidence from the North Carolina Textile Industry",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://rawnakamin.github.io"
+   },
+   {
+    "title": "Railroads and Race: Black socioeconomic outcomes post-emancipation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UoT|Grant Benjamin": {
+  "status": "ok",
+  "source": "https://grantbenjamin.github.io (CV: https://grantbenjamin.github.io/documents/GrantBenjaminPhDCV.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Reproducibility and Robustness of Economics and Political Science Research",
+    "authors": "Abel Brodeur et al.",
+    "venue": "Nature",
+    "year": 2026,
+    "note": "Other project",
+    "url": null
+   },
+   {
+    "title": "Preventing and Countering Violent Extremism: Best Practices and Standardizations",
+    "authors": "Matthew John Cross",
+    "venue": "Handbook of Security Science (Springer)",
+    "year": 2022,
+    "note": "Other project",
+    "url": null
+   },
+   {
+    "title": "Negative COVID-19 vaccine information on Twitter: content analysis",
+    "authors": "Niko Yiannakoulias, J Connor Darlington, Catherine E Slavik",
+    "venue": "JMIR Infodemiology",
+    "year": 2022,
+    "note": "Other project",
+    "url": null
+   },
+   {
+    "title": "Mortality, temperature, and public health provision: A comment on Cohen and Dechezlepretre (2022)",
+    "authors": "Benjamin Couillard, Jonathan Hall",
+    "venue": "I4R Discussion Paper Series",
+    "year": 2022,
+    "note": "Other project",
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Braking Habits: The Impact of Leading Pedestrian Intervals",
+    "authors": null,
+    "venue": "Journal of Public Economics",
+    "year": null,
+    "note": "Revise and Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "It Only Takes OneBite: Attention Shocks in Local Markets",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Wheels on the Bus Go First",
+    "authors": "Devin Bissky-Dziadyk",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Urban Reserves",
+    "authors": "Stephan Heblich",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Housing Affordability Under Tax Reforms",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UoT|Alison Cane": {
+  "status": "ok",
+  "source": "https://alisoncane.github.io (bio text; CV link returns 404)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Immigration, Internal Migration, and the Rental Market",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP; draft coming soon",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UoT|Harrison Chang": {
+  "status": "ok",
+  "source": "https://sites.google.com/view/harrisonc/research (CV via Google Drive)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Breaking Silence: How Intimate Partner Violence and Reporting Shape Later Life Outcomes",
+    "authors": "Shiau-Fang Chao, Kuan-Ming Chen, Ming-Jen Lin",
+    "venue": "Journal of Labor Economics",
+    "year": 2027,
+    "note": "Forthcoming",
+    "url": null
+   },
+   {
+    "title": "Estimating Intergenerational Health Transmission in Taiwan Using Administrative Health Records",
+    "authors": "Timothy J. Halliday, Ming-Jen Lin, Bhash Mazumder",
+    "venue": "Journal of Public Economics",
+    "year": 2024,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Intended and Unintended Effects of Drunk Driving Policies",
+    "authors": "Kehao Chang, Elliott Fan",
+    "venue": "Oxford Bulletin of Economics and Statistics",
+    "year": 2020,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Economic Depression and Labor Union Formation: Evidence from the Panic of 1873",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Early-Life Radio Exposure and Long-Run Outcomes",
+    "authors": "D. Mark Anderson, Casper Worm Hansen, Dan I. Rees, Tianyi Wang",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "The Short- and Long-Term Consequences of Child Labor Law in the US",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Reporting Intimate Partner Violence: Determinants and Measuring Underreporting",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Childhood Abuse and Long-Run Economic Outcomes",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Early Trauma, Lasting Consequences: Childhood Sexual Abuse and Adult Outcomes",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UoT|Taryn Eames": {
+  "status": "ok",
+  "source": "https://taryneames.com (CV: Curriculum_Vitae.pdf on site)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Computer-assisted learning in the real world: How Khan Academy influences student math learning",
+    "authors": "Emma Brunskill, Kaylee Weatherholtz, Bogdan Yamkovenko, Philip Oreopoulos",
+    "venue": "Proceedings of the National Academy of Sciences",
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "How does the intersection of sex and nonbinary gender identity affect hiring discrimination? Evidence from a correspondence field experiment",
+    "authors": null,
+    "venue": "AEA Papers and Proceedings",
+    "year": 2025,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Taryn versus Taryn (she/her) versus Taryn (they/them): A field experiment on pronoun disclosure and nonbinary hiring discrimination",
+    "authors": null,
+    "venue": "Journal of Human Resources",
+    "year": null,
+    "note": "Revise and Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "The Cost of Being Seen: Passing, Covering, and Hiring Discrimination Against Transgender Women",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UoT|Nanxi Fu": {
+  "status": "ok",
+  "source": "https://nanxifu.github.io (CV: https://nanxifu.github.io/files/CV_Nanxi%20Fu.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Assortment Policy: How Far Can It Move Consumption?",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Would Consumers Do Grocery Shopping Differently with Better Vehicle Access? An Investigation of Heterogeneous Treatment Effects",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Pre-doctoral work",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UoT|Xiaoya Gao": {
+  "status": "ok",
+  "source": "https://gaoxiaoya.com (CV: https://gaoxiaoya.com/files/cv.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Incentive Compatibility in Experiments with Incomplete Preference",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Incomparability and Status Quo Bias",
+    "authors": "Yoram Halevy",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Incomplete Preference in Time",
+    "authors": "Anujit Chakraborty, Yoram Halevy",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UoT|Chenyue Liu": {
+  "status": "ok",
+  "source": "https://chenyueliu.com (no CV found; education not listed)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Non-parametric Identification of Dynamic Treatment Effects: a Graphical Approach to Causality",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6517978"
+   }
+  ]
+ },
+ "2026-2027|UoT|Reza Moradi": {
+  "status": "ok",
+  "source": "https://reza-moradi.com (CV: https://reza-moradi.com/Reza_Moradi_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Ride-hailing demand elasticity: A regression discontinuity method",
+    "authors": "S. A. Madanizadeh, H. Joshaghani",
+    "venue": "Journal of Industrial and Business Economics",
+    "year": 2023,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "A Framework for Assessing the Distributional Effects of School Closures: Evidence from Puerto Rico",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Effects of School Consolidation on Students and Teachers: Evidence from an Underperforming System",
+    "authors": "Gustavo J. Bobonis, Orlando J. Sotomayor, Jeancarlo Vélez Lebrón, Jessica Wagner",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Limiting the Influence of Rich Voters on Elections: The Case of Democracy Voucher in Seattle",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UoT|Mohammad Seyedsalehi": {
+  "status": "ok",
+  "source": "https://www.smhssalehi.com (CV: /documents/mohammad-seyedsalehi-cv.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "The Effects of Order Flow Imbalance on Stock Prices in Tehran Stock Exchange",
+    "authors": "Mahdi Barakchian",
+    "venue": "Journal of Financial Management Perspective",
+    "year": 2022,
+    "note": "In Persian",
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "Empirical Bayes with Side Information: Incorporating Geographic Relevance into Neighborhood Impact Estimation",
+    "authors": null,
+    "venue": "Journal of Applied Econometrics",
+    "year": null,
+    "note": "Second-round Revise and Resubmit",
+    "url": null
+   }
+  ],
+  "wp": [
+   {
+    "title": "Decarbonization Policy Along the Fuel Supply Chain: A Structural Analysis of Brazil's RenovaBio",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Euler Equations for Dynamic Games",
+    "authors": "Victor Aguirregabiria",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Who Benefits from Green Subsidies? Labor Standards and the Distribution of Gains",
+    "authors": "Zahra Sedaghat Telgard",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "One Carbon Market or Many? Optimal Integration of Sectoral Carbon Markets",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UoT|Atom Vayalinkal": {
+  "status": "ok",
+  "source": "https://vayalinkal.github.io/research/ (CV dated April 2024; JMP title not listed on site)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Multiple Testing with Covariate Adjustment in Experimental Economics",
+    "authors": "John A. List, Azeem M. Shaikh",
+    "venue": "Journal of Applied Econometrics",
+    "year": 2023,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Horowitz-Manski-Lee Bounds with Multilayered Sample Selection",
+    "authors": "Kory Kroft, Ismael Mourifié",
+    "venue": null,
+    "year": 2024,
+    "note": "NBER Working Paper (Sept 2024, rev. June 2026)",
+    "url": "https://www.nber.org/papers/w32952"
+   },
+   {
+    "title": "Nothing Propinks Like Propinquity: Using Machine Learning to Estimate the Effects of Spatial Proximity in the Major League Baseball Draft",
+    "authors": "Majid Ahmadi, Nathan Durst, Jeff Lachman, John A. List, Mason List, Noah List",
+    "venue": null,
+    "year": 2022,
+    "note": "NBER Working Paper 30786",
+    "url": "https://www.nber.org/papers/w30786"
+   },
+   {
+    "title": "Sharp Identification Regions in General Selection Models with (Un)ordered Treatments and Discrete Instruments",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Multiple Testing under Covariate-Adaptive Randomization",
+    "authors": "Azeem M. Shaikh",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UoT|Sixia Xie": {
+  "status": "ok",
+  "source": "https://sixiaxie.com (CV: https://sixiaxie.com/cv_sixia_xie.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Collusion beyond Prices: Product Variety and Welfare in the LCD Panel Industry",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Estimation of Cost Efficiency in a Consolidating Banking Industry",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Selection in Product Variety and Welfare Measurement",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Capital Requirements and Lender Competition in the U.S. Mortgage Industry",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UoT|Yanzun Yang": {
+  "status": "ok",
+  "source": "https://www.yanzunyang.com (CV: https://yanzunyang.github.io/files/Yanzun_Yang_CV.pdf)",
+  "checked": "2026-10",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "The Impact of Arriving During Recessions on Immigrant Integration",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "The Impact of International Students on US Colleges: Higher Education as a Service Export",
+    "authors": "Mingyu Chen",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Marriage Type and Immigrant Integration: Evidence from Canada",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Impact of Artificial Intelligence on Occupations",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
+ "2026-2027|UoT|Maximiliano Machado": {
+  "status": "ok",
+  "source": "https://maximilianomachado.github.io (CV: cv_machado.pdf)",
+  "checked": "2026-10",
+  "publications": [
+   {
+    "title": "Innovation, work organization and knowledge sharing in Uruguayan firms",
+    "authors": "Carlos Bianchi",
+    "venue": "Technology Analysis and Strategic Management",
+    "year": 2023,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "El Aprendizaje entre Pares y sus Efectos en el Desempeño de los Estudiantes",
+    "authors": null,
+    "venue": "Desarrollo y Sociedad",
+    "year": 2022,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Dependency Change with Aging and Associated Factors in Uruguay: A Cohort Study",
+    "authors": "Alejandra Marroig, Graciela Muniz-Terrera",
+    "venue": "Journal of Aging and Health",
+    "year": 2021,
+    "note": null,
+    "url": null
+   }
+  ],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Fewer Buyers, Higher Pay? Monopsony and Product Market Power in the U.S. Publishing Industry",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Gender-Based Price Differences: The Case of Deodorants",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Insuring Consumers Against World Energy Shocks: Pass-Through, Market Power, and the Design of Fuel-Price Stabilization",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Splitting the Crowd: Network Effects and Welfare Implications of Platform Competition",
+    "authors": "Regina Seibel, Michael Sullivan",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Does Top-Level Diversity Trickle Down? Evidence from U.S. Literary Prizes",
+    "authors": "Yakov Bart, Samsun Knight, Julianna Spahr, Stephanie Young",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "When Context Matters: Uneven Firms' Innovation Persistence in Developing Countries. Evidence from Uruguay",
+    "authors": "Carlos Bianchi",
+    "venue": null,
+    "year": null,
+    "note": "Submitted; pre-PhD work",
+    "url": null
+   }
+  ]
  }
 }

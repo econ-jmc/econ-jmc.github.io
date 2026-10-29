@@ -5,7 +5,7 @@
   "url": "https://doctoral.wharton.upenn.edu/students-job-market/ https://fnce.wharton.upenn.edu/phd-job-market/",
   "n": 0,
   "note": "Finance page lists 1 finance candidate (plus a Health Care Management candidate, Grace Park, excluded). Accounting and marketing sections on the doctoral job-market page are empty; no 2026-27 lists on department sites.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "UT Dallas",
@@ -13,7 +13,7 @@
   "url": "https://jindal.utdallas.edu/phd-programs/placements/",
   "n": 0,
   "note": "No 2026-27 job market candidates page found for Finance, Accounting or Marketing (only historical placement pages on jindal.utdallas.edu / fin.utdallas.edu / marketing.utdallas.edu).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Columbia",
@@ -45,7 +45,7 @@
   "url": "https://www.stern.nyu.edu/programs-admissions/phd/job-placement/students-job-market https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance/academic-programs/phd-overview/phd-students-in-the-job-market",
   "n": 0,
   "note": "Stern PhD job market page still shows 2025-2026 list (Economics only: Farina, Kaplowitz); Finance dept page shows 2024-25 list. No 2026-27 list posted as of 2026-10-24.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "USC Marshall",
@@ -77,7 +77,7 @@
   "url": "https://www.gsb.stanford.edu/programs/phd/placement/job-market-candidates",
   "n": 0,
   "note": "Page says 2026-27 info updated as available; only Marketing (and OB/Political Economics) candidates listed so far; Accounting and Finance not yet listed.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "UT Austin McCombs",
@@ -93,7 +93,7 @@
   "url": "https://www.johnson.cornell.edu/Programs/PhD-Program/Current-Students/Job-Market-Candidates https://business.cornell.edu/admissions/graduate/phd-management/",
   "n": 0,
   "note": "Old Johnson job market URL redirects to the business.cornell.edu/johnson homepage; no Johnson (Management PhD) job market candidates page found. Dyson (AEM) and ILR pages are other units.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Toronto Rotman",
@@ -101,7 +101,7 @@
   "url": "https://www.rotman.utoronto.ca/programs/phd-program/students-on-the-market/",
   "n": 0,
   "note": "Page still shows the 2024 list (Junhao Liu, Stacey Choy, Ying Zeng already placed per Rotman placements page).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "WashU Olin",
@@ -109,7 +109,7 @@
   "url": "https://olin.washu.edu/programs/doctoral/placements.php",
   "n": 0,
   "note": "No job market candidates page found; placements page lists only completed placements (through 2026).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "UW Foster",
@@ -133,7 +133,7 @@
   "url": "https://wpcarey.asu.edu/finance-degrees/job-market",
   "n": 0,
   "note": "Finance job-market page has no candidates listed (only placement coordinator Oliver Boguth); no job-market pages found for accounting or marketing (marketing page shows only past placements).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Duke Fuqua",
@@ -141,7 +141,7 @@
   "url": "https://areas.fuqua.duke.edu/finance/phd-overview/placement/ https://areas.fuqua.duke.edu/marketing/ph-d-program/placement/ https://areas.fuqua.duke.edu/accounting/ph-d-program/placement/",
   "n": 0,
   "note": "No 2026-27 job market candidate page found; area pages show only past placements (current-student lists are not rendered); fuqua.duke.edu/programs/phd/marketing returned 403 (not bypassed).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "UNC Kenan-Flagler",
@@ -149,7 +149,7 @@
   "url": "https://www.kenan-flagler.unc.edu/programs/phd/job-market-candidates-placements/",
   "n": 0,
   "note": "Page lists 5 candidates total (Finance: 2; no accounting or marketing candidates; others in Operations/Strategy/OB skipped). Matthew Johnsen has no website found. Nishesh degree year not found.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Minnesota Carlson",
@@ -157,7 +157,7 @@
   "url": "https://carlsonschool.umn.edu/graduate/phd/current-students/job-market-candidates",
   "n": 0,
   "note": "Page currently lists only two Work & Organizations students; no Accounting/Finance/Marketing candidates shown.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Ohio State Fisher",
@@ -165,7 +165,7 @@
   "url": "https://fisher.osu.edu/academic-departments/department-finance/programs/phd-program/job-market-candidates",
   "n": 0,
   "note": "Only Finance has a job market page; AMIS and Marketing & Logistics PhD pages list no job market candidates. Yicheng Liu: no personal site/CV found.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Penn State Smeal",
@@ -189,7 +189,7 @@
   "url": "https://www.rhsmith.umd.edu/programs/phd/your-career",
   "n": 0,
   "note": "Job Market Candidates table on PhD 'Your Career' page is stale (2022 cohort; only finance entry is Jing (Sophia) Xue; no 2026-27 list).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Illinois Gies",
@@ -197,7 +197,7 @@
   "url": "https://giesbusiness.illinois.edu/academics/doctoral/finance/phd-in-finance-current-students https://giesbusiness.illinois.edu/academics/doctoral/business-administration/current-students",
   "n": 0,
   "note": "Finance: 1 candidate listed. Business Administration page lists 3 job-market candidates; only Erica Lee is marketing (others are IS/strategy, skipped). Accountancy PhD has no job-market page. Lee's JMP not found.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Purdue Daniels",
@@ -205,7 +205,7 @@
   "url": "https://business.purdue.edu/academics/marketing/job-market-candidates.php https://business.purdue.edu/academics/finance/job-market-candidates.php https://business.purdue.edu/academics/accounting/job-market-candidates.php",
   "n": 0,
   "note": "Finance page still shows 2025-26 list (Suyang Xu, Yunrong Zhou, expected Aug 2026) so treated as not posted; Accounting page lists no candidates. Pages return a WAF block to curl; read via WebFetch.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Texas A&M Mays",
@@ -213,7 +213,7 @@
   "url": "https://mays.tamu.edu/graduate/phd/finance/ https://mays.tamu.edu/graduate/phd/accounting/ https://mays.tamu.edu/graduate/phd/marketing/",
   "n": 0,
   "note": "No job market candidates page found on the Mays PhD pages; dept placement subpages return 403 (bot wall).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Yale SOM",
@@ -221,7 +221,7 @@
   "url": "https://som.yale.edu/programs/phd/job-market-candidates",
   "n": 0,
   "note": "2026-2027 page; Accounting and Marketing tabs are empty. Dong Huang: only website bio (no CV found), so education partial.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "UCLA Anderson",
@@ -237,7 +237,7 @@
   "url": "https://www.bu.edu/questrom/phd-program/placements/",
   "n": 0,
   "note": "Placements page 'Students on the Job Market' lists only marketing candidates Jason Lin and Andde Indaburu (Indaburu titled Lecturer, Marketing); other listed students are Strategy & Innovation (skipped). Finance and accounting not posted. Indaburu CV: BU PhD 2022-present, 2026 dissertation proposal award, so 2026-27 market plausible (expected 2027 assumed). Lin: no CV/personal site found; PhD year assumed 2027 and B.S. year unknown. JMPs not identified for either.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Notre Dame Mendoza",
@@ -253,7 +253,7 @@
   "url": "https://www.colorado.edu/business/phd https://www.colorado.edu/business/phd/phd-placements",
   "n": 0,
   "note": "No job market candidates page; only a placements page (2026 graduates).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Florida Warrington",
@@ -269,7 +269,7 @@
   "url": "https://haas.berkeley.edu/phd/careers/job-market-candidates/",
   "n": 0,
   "note": "Page says 'Candidates coming soon' for Finance (one so far) and Accounting. Amanda Geiser is listed under Marketing but is already an assistant professor at Minnesota (stale entry), so excluded. Haas page returns 403 to curl; read via WebFetch.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Temple Fox",
@@ -285,7 +285,7 @@
   "url": "https://goizueta.emory.edu/phd/career",
   "n": 0,
   "note": "Career page job candidate list is undated; it still lists Kyle Broderick (Accounting), already Acting Assistant Professor at Indiana since July 2026 per his CV, so excluded as a 2025-26 candidate. Malakhov confirms 2026-27 on his site; Nguyen is listed on the page (own site unreachable, JMP unknown). Hanyu Zhang (Marketing) appears on the program page only.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "McGill Desautels",
@@ -293,7 +293,7 @@
   "url": "https://www.mcgill.ca/desautels/programs/phd/our-students/job-market-candidates",
   "n": 0,
   "note": "Page still shows the previous cycle (accounting: Tomas Milo, Ximi Wang; Milo's thesis defense was May 2026).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Boston College Carroll",
@@ -301,7 +301,7 @@
   "url": "https://www.bc.edu/bc-web/schools/carroll-school/graduate/phd-programs/phd-finance.html",
   "n": 0,
   "note": "No job market candidates page found for Finance/Accounting/Marketing.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Wisconsin",
@@ -309,7 +309,7 @@
   "url": "https://business.wisc.edu/phd/placements/",
   "n": 0,
   "note": "No 2026-27 job market candidates page found on business.wisc.edu/phd (placements page lists only completed 2026 placements).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "UBC Sauder",
@@ -317,7 +317,7 @@
   "url": "https://www.sauder.ubc.ca/phd-business-administration/overview/people/meet-our-phd-students-job-market",
   "n": 0,
   "note": "Official job-market page lists only 2 candidates (Lu, marketing; Wesseler, strategy/business economics - skipped). No finance/accounting candidates listed yet although the PhD people page has finance/accounting PhD candidates.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "CMU Tepper",
@@ -333,7 +333,7 @@
   "url": "https://www.terry.uga.edu/phd/accounting/ https://www.terry.uga.edu/phd/economics/",
   "n": 0,
   "note": "No Finance/Accounting/Marketing job market page found (only an Economics job-candidates page exists in the Terry PhD nav). Several terry.uga.edu pages (finance, marketing) return 403 to automated requests; not bypassed.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Utah Eccles",
@@ -341,7 +341,7 @@
   "url": "https://eccles.utah.edu/programs/phd/job-market-candidates/",
   "n": 0,
   "note": "Page last updated 2025-10-15 and lists the 2025-26 cohort (Accounting: David Wong, Eunyoung Lee; Finance: Jeffrey Yang, Ryan Voges; Marketing: Hongye Sun, Ye Bai).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Georgia Tech Scheller",
@@ -349,7 +349,7 @@
   "url": "https://www.scheller.gatech.edu/explore-programs/phd/index.html",
   "n": 0,
   "note": "No job market candidates page found on the Scheller PhD site (only a placements list).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Johns Hopkins Carey",
@@ -357,7 +357,7 @@
   "url": "https://carey.jhu.edu/programs/phd",
   "n": 0,
   "note": "carey.jhu.edu returns HTTP 403 (bot wall) to automated requests; no job market page found via search.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "UConn",
@@ -365,7 +365,7 @@
   "url": "https://www.business.uconn.edu/contact/phd-students/on-the-market/",
   "n": 0,
   "note": "Only two marketing candidates listed (Finance/Accounting department pages list none). Ziyuan Li JMP and personal site not found.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Miami Herbert",
@@ -373,7 +373,7 @@
   "url": "https://www.mbs.miami.edu/graduate/doctoral-programs/index.html",
   "n": 0,
   "note": "No job market candidates page found on the Miami Business School site (now mbs.miami.edu); PhD program pages exist for accounting, finance, marketing.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Houston Bauer",
@@ -381,7 +381,7 @@
   "url": "https://www.bauer.uh.edu/doctoral/placement.php",
   "n": 0,
   "note": "No job market candidates page; only recent placements (through 2026 graduates).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "South Carolina Moore",
@@ -389,7 +389,7 @@
   "url": "https://sc.edu/study/colleges_schools/moore/study/phd_programs/our_people/students_on_the_job_market/index.php",
   "n": 0,
   "note": "School job-market page lists only Economics PhD students (Ebrahimitorki, Jakaria), not finance/accounting/marketing programs; no F/A/M candidates found.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Georgia State Robinson",
@@ -397,7 +397,7 @@
   "url": "https://robinson.gsu.edu/phd/students-on-the-job-market/",
   "n": 0,
   "note": "2026-27 page (updated Oct 2026) has tabs only for CIS, Management, Marketing and RMI; no Finance or Accountancy tab. Holmes has no designated JMP; listed title is his first dissertation essay (CV).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "LSE",
@@ -413,7 +413,7 @@
   "url": "https://www.london.edu/phd https://www.london.edu/phd/careers",
   "n": 0,
   "note": "/programmes/phd/job-market-candidates redirects to the PhD overview; area profile pages showed no 2026-27 candidates; careers page only shows PhD2026 placements.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Oxford Saïd",
@@ -421,7 +421,7 @@
   "url": "https://www.sbs.ox.ac.uk/programmes/degrees/dphil-management/job-market-candidates",
   "n": 0,
   "note": "Page (HTTP 403 to curl, content seen via search) lists Ken Deng and Manyun Tang, who were on the 2025-26 market (Deng's site says 2025/26; Tang presented Dec 2025). Old list.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Cambridge Judge",
@@ -429,7 +429,7 @@
   "url": "https://www.jbs.cam.ac.uk/phd-research-masters/job-market-candidates/",
   "n": 0,
   "note": "Page lists only Rhys Williams (Economics) and Monika Zebrowska (organisations); no Finance/Accounting/Marketing candidates. (Page fetched via WebFetch; curl gets 403.)",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Warwick WBS",
@@ -437,7 +437,7 @@
   "url": "https://www.wbs.ac.uk/courses/doctoral/",
   "n": 0,
   "note": "No PhD job market candidates page found on wbs.ac.uk (checked doctoral programme, research/academics-and-research-students and subject group pages).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "UCL",
@@ -445,7 +445,7 @@
   "url": "https://centreforfinance.org/jmc.htm https://www.mgmt.ucl.ac.uk/phd",
   "n": 0,
   "note": "UCL Centre for Finance JMC page shows 2025-2026 only (Gabriel Ruiz Radrigan); School of Management has no job market page.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Western Ivey",
@@ -461,7 +461,7 @@
   "url": "https://smith.queensu.ca/grad_studies/PHD/our-students/index.php",
   "n": 0,
   "note": "No job market candidates page; only a general PhD student directory with no 2026-27 market designation (most 'expected graduation' years are 2025-2026 or 2028+).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "Calgary Haskayne",
@@ -469,7 +469,7 @@
   "url": "https://haskayne.ucalgary.ca/future-students/doctoral-programs/phd/phd-students-area",
   "n": 0,
   "note": "No job market candidates/placement page found on haskayne.ucalgary.ca.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "HKU",
@@ -485,7 +485,7 @@
   "url": "https://fina.hkust.edu.hk/programs/phd/job-market-candidates",
   "n": 0,
   "note": "Finance page lists Xicheng Li and Xudong Wen, but Wen's site says PhD completed 2026 and he is already faculty at Univ. of Macau: old list. No accounting/marketing job market page found (acct URL 404, mark URL not found).",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "CUHK",
@@ -493,7 +493,7 @@
   "url": "https://grad.bschool.cuhk.edu.hk/",
   "n": 0,
   "note": "No job market candidates page found on CUHK Business School sites.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "NUS",
@@ -501,7 +501,7 @@
   "url": "https://bschool.nus.edu.sg/",
   "n": 0,
   "note": "bschool.nus.edu(.sg) blocked automated access (Incapsula/SSL error); no job market page could be reached. WebSearch budget exhausted.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "SMU Singapore",
@@ -509,7 +509,7 @@
   "url": "https://business.smu.edu.sg/phd-business-finance-research/students-job-market https://accountancy.smu.edu.sg/phdaccounting https://business.smu.edu.sg/phd-business-marketing-research",
   "n": 0,
   "note": "Finance 'Students In The Job Market' page lists only Ruxue Gong (2020 intake, graduated June 2025, placed at HKUST) = stale. Accountancy and Marketing PhD sites have no job-market page.",
-  "checked": "2026-10-26"
+  "checked": "2026-10-28"
  },
  {
   "school": "INSEAD",
