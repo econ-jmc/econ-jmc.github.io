@@ -42,7 +42,7 @@
   "url": "https://economics.princeton.edu/graduate-program/job-market-and-placements/",
   "n": 0,
   "note": "Page still says candidate info will be posted each fall; no list.",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "Yale",
@@ -50,7 +50,7 @@
   "url": "https://economics.yale.edu/phd-program/placement",
   "n": 0,
   "note": "Page says 2026-2027 candidates will be posted November 4.",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "Northwestern",
@@ -76,11 +76,11 @@
  },
  {
   "school": "UCLA",
-  "status": "not_posted",
+  "status": "posted",
   "url": "https://economics.ucla.edu/graduate/graduate-profiles/job-market-candidates/",
-  "n": 0,
-  "note": "Job market candidates page is password-protected.",
-  "checked": "2026-11-01"
+  "n": 14,
+  "note": "Page headed \"2026 Candidates\" (= 2026-27 market; CVs say PhD expected 2027).",
+  "checked": "2026-11-03"
  },
  {
   "school": "NYU",
@@ -208,7 +208,7 @@
   "url": "https://www.bc.edu/bc-web/schools/morrissey/departments/economics/graduate/phd-candidates.html",
   "n": 0,
   "note": "Page still shows 2025-26 cohort (Cappello listed).",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "University of Virginia",
@@ -266,7 +266,7 @@
   "url": "https://wpcarey.asu.edu/economics-degrees/candidates-on-the-market",
   "n": 0,
   "note": "Page says 'Coming soon'.",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "Georgetown University",
@@ -295,7 +295,7 @@
   "url": "https://economics.indiana.edu/graduate/job-candidates/index.html",
   "n": 0,
   "note": "Page still shows the same 13 names as the 2025-26 list.",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "University of Arizona",
@@ -310,7 +310,7 @@
   "url": "https://www.economics.uci.edu/grad/jobmarket.php",
   "n": 0,
   "note": "Page still labeled 2025-26.",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "University of Pittsburgh",
@@ -346,7 +346,7 @@
   "url": "https://www.colorado.edu/economics/graduate/job-market-candidates",
   "n": 0,
   "note": "Static HTML shows only placement director and nav, no candidates",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "University of Notre Dame",
@@ -412,7 +412,7 @@
   "url": "https://tippie.uiowa.edu/phd/job-market-candidates",
   "n": 0,
   "note": "Blocked: 403 bot wall to curl and WebFetch",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "University of Oregon",
@@ -457,7 +457,7 @@
   "url": "https://www.gc.cuny.edu/economics/2026-2027-job-market-candidates",
   "n": 0,
   "note": "Blocked: 403 to curl (UA) and WebFetch",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "George Washington University",
@@ -481,7 +481,7 @@
   "url": "https://aysps.gsu.edu/economics/",
   "n": 0,
   "note": "No job market page found on dept page",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "Iowa State University",
@@ -513,7 +513,7 @@
   "url": "https://www.brandeis.edu/global/careers/phd-candidates.html",
   "n": 0,
   "note": "Fetched OK; only older cohort content (Chen Chen etc.), no 2026-27 list",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "Claremont Graduate University",
@@ -521,7 +521,7 @@
   "url": "https://www.cgu.edu/school/ssspe/division-of-politics-economics/economic-sciences-department/",
   "n": 0,
   "note": "Not rechecked; no JM page previously found",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "Tufts University",
@@ -529,7 +529,7 @@
   "url": "https://as.tufts.edu/economics/people/nfepp-program-job-market-candidates",
   "n": 0,
   "note": "NFEPP page still shows Candidates for 2025-2026.",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "University of Houston",
@@ -537,7 +537,7 @@
   "url": "https://www.uh.edu/class/economics/graduate/job-candidates/",
   "n": 0,
   "note": "Page titled Ph.D. Job Candidates 2025-2026.",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "Virginia Tech",
@@ -545,7 +545,7 @@
   "url": "https://econ.vt.edu/graduate/jobmarket.html",
   "n": 0,
   "note": "Candidates table still TBD placeholders.",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "Florida State University",
@@ -569,7 +569,7 @@
   "url": "https://econ.uic.edu/people/job-market-candidates/",
   "n": 0,
   "note": "Page still headed 2025-2026.",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "University of Massachusetts--Amherst",
@@ -601,7 +601,7 @@
   "url": "https://gatton.uky.edu/programs/phd/phd-economics/job-market-candidates",
   "n": 0,
   "note": "Page still shows 2025-2026 candidates.",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "University of Miami",
@@ -609,7 +609,7 @@
   "url": "https://www.herbert.miami.edu/graduate/doctoral-programs/phd-in-economics.html",
   "n": 0,
   "note": "No JM candidates page found",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "American University",
@@ -617,7 +617,7 @@
   "url": "https://www.american.edu/cas/economics/phd/job-market-candidates.cfm",
   "n": 0,
   "note": "Blocked: 403 curl; WebFetch certificate rejected",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "Clemson University",
@@ -649,7 +649,7 @@
   "url": "https://www.albany.edu/economics/phd-job-market-candidates-2025",
   "n": 0,
   "note": "Page still shows 2025-2026 candidates.",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "University at Buffalo--SUNY",
@@ -689,7 +689,7 @@
   "url": "https://www.ou.edu/cas/economics/people/job-market-candidates",
   "n": 0,
   "note": "Page still lists expected-2026 graduates (2025-26 cohort).",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "University of Missouri",
@@ -729,7 +729,7 @@
   "url": "https://ses.wsu.edu/job-market-candidates/",
   "n": 0,
   "note": "Page fetched; no candidates listed (heading plus guide/placements links only)",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "Fordham University",
@@ -737,7 +737,7 @@
   "url": "https://www.fordham.edu/academics/departments/economics/graduate-studies/phd-in-economics/phd-job-market-candidates/",
   "n": 0,
   "note": "Blocked: 302 to CAS login",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "Howard University",
@@ -765,11 +765,11 @@
  },
  {
   "school": "University of Delaware",
-  "status": "not_posted",
+  "status": "posted",
   "url": "https://lerner.udel.edu/departments/economics/job-market-candidates/",
-  "n": 0,
-  "note": "Page mixes the 2025-26 cohort with at most one possible 2026-27 candidate (Wai Ting Sze, unconfirmed); treated as not posted. Mixed page. Of 7 listed, Bielsa (PhD Spring 2026, seeking employment), Wang (PhD Aug 2026, now postdoc), Kamble, Raza, Romberger, Roshi appear old cohort. Sze is still 'PhD candidate', site updated 2026-10-19, so likely 2026-27 but PhD-2027 date not directly confirmed (medium confidence). Kosiso Madu says he is on 2026-27 market but is not listed on this page.",
-  "checked": "2026-11-01"
+  "n": 8,
+  "note": "Page has no year label; all 8 candidates' sites/CVs show Ph.D. expected 2027 (Madu, Sohail, Pandit, Li state they are on the 2026-27 market).",
+  "checked": "2026-11-03"
  },
  {
   "school": "University of Wisconsin--Milwaukee",
@@ -789,11 +789,11 @@
  },
  {
   "school": "Oxford",
-  "status": "not_posted",
+  "status": "posted",
   "url": "https://www.economics.ox.ac.uk/job-market-candidates",
-  "n": 0,
-  "note": "Page titled 'Job Market Candidates 2025-26'; all candidates 2025-26",
-  "checked": "2026-11-01"
+  "n": 7,
+  "note": "Page titled 2026-27",
+  "checked": "2026-11-03"
  },
  {
   "school": "Cambridge",
@@ -809,7 +809,7 @@
   "url": "https://www.ucl.ac.uk/social-historical-sciences/economics/job-market-candidates",
   "n": 0,
   "note": "Blocked: 403 to curl; web search snippet still shows 2025-26 cohort (Amorim Cabaco, Boncompte Guarda), so likely not yet updated",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "Warwick",
@@ -817,7 +817,7 @@
   "url": "https://warwick.ac.uk/fac/soc/economics/staff/job-market-candidates",
   "n": 0,
   "note": "Page says candidate information will be available soon.",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "LBS",
@@ -825,7 +825,7 @@
   "url": "https://www.london.edu/faculty-and-research/economics/phd-programme",
   "n": 0,
   "note": "No candidate list on programme page",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "McGill",
@@ -868,11 +868,11 @@
  },
  {
   "school": "HKUST",
-  "status": "not_posted",
+  "status": "posted",
   "url": "https://econ.hkust.edu.hk/programs-n-courses/mphd/job-market-n-placement",
-  "n": 0,
-  "note": "Blocked: curl no response, WebFetch ECONNRESET",
-  "checked": "2026-11-01"
+  "n": 3,
+  "note": "Page titled 2026-27; HKUST lists research fields only, no JMP titles (taken from candidates' sites/CVs; Wang's from HKUST PhD program listing of dissertation title). Wang's PhD expected year not stated (empty); his education is from a 2022 HKUST CV.",
+  "checked": "2026-11-03"
  },
  {
   "school": "CUHK",
@@ -880,7 +880,7 @@
   "url": "https://www.econ.cuhk.edu.hk/en/people/phd-job-market-candidates",
   "n": 0,
   "note": "Page says 'Information will be available from Nov 2026. No Result Found'",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "NUS",
@@ -888,7 +888,7 @@
   "url": "https://fass.nus.edu.sg/ecs/phd-job-market-candidates",
   "n": 0,
   "note": "Blocked: Incapsula block",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  },
  {
   "school": "SMU Singapore",
@@ -896,6 +896,6 @@
   "url": "https://economics.smu.edu.sg/phd-economics/students/student-placements",
   "n": 0,
   "note": "Blocked: Incapsula block",
-  "checked": "2026-11-01"
+  "checked": "2026-11-02"
  }
 ]

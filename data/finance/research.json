@@ -1599,6 +1599,79 @@
    }
   ]
  },
+ "2026-2027|Stanford GSB|Zunda Winston Xu": {
+  "status": "ok",
+  "source": "https://www.zundaxu.com/ ; CV: https://www.gsb.stanford.edu/sites/default/files/phd-cv/CV_Zunda_Winston_Xu_revised.pdf",
+  "checked": "2026-11",
+  "publications": [],
+  "rr": [],
+  "wp": [
+   {
+    "title": "Acquiring to Hire: Team Complementarity and Innovation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": "https://www.gsb.stanford.edu/sites/default/files/paper-or-publication/Acquihire_JMP_Winston_Xu_Draft_102526.pdf"
+   },
+   {
+    "title": "Watchdog or Showdog? Spotlight Chasing in Antitrust Enforcement",
+    "authors": "Tianshu Lyu",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Taking the Road Less Traveled? Market Misreaction and Firm Innovation Directions",
+    "authors": "Tianshu Lyu",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Chinese Sputnik Moments?",
+    "authors": "Josh Lerner, Namrata Narain, Dimitris Papanikolaou, Amit Seru",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Innovation Diffusion, the Extent of the Market, and Growth",
+    "authors": "Stephen Haber, Dimitris Papanikolaou, Amit Seru",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Protect Consumers or Banks: Why Do States Regulate Nonbanks?",
+    "authors": "Susan Cherry, Gregor Matvos, Amit Seru",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "State Coordination and the Organization of Innovation",
+    "authors": "Josh Lerner, Namrata Narain, Dimitris Papanikolaou, Amit Seru",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Too Disruptive to Launch: The Innovator's Dilemma at Scale",
+    "authors": "Tianshu Lyu, Jiawen Wu",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   }
+  ]
+ },
  "2026-2027|Temple Fox|Sebeom Oh": {
   "status": "ok",
   "source": "https://sites.google.com/view/sebeom-oh",
