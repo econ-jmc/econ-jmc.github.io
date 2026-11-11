@@ -417,6 +417,7 @@ def load_global(cn_candidates: list[dict], known_fields: set[str], region_map: K
             education = parse_education(r["education"])
             cn = next((by_key[k] for k in ((cycle, norm(r["school"]), v) for v in name_variants(r["name"])) if k in by_key), None)
             if cn is not None:  # already in the China JMC data: fill gaps only
+                cn.setdefault("_gkeys", []).append(f"{cycle}|{r['school']}|{r['name']}")
                 cn["jmp"] = cn["jmp"] or r["jmp"] or None
                 cn["website"] = cn["website"] or website
                 if fields and not cn["fields"]:
@@ -561,6 +562,11 @@ def main() -> int:
     global_candidates = load_global(all_candidates, known_fields, region_map, inst_map, warnings)
     for w in warnings[n_warn:]:
         print("   " + w)
+    for c in all_candidates:  # China JMC entry without papers under its own key: use the global CSV row's key
+        for gk in c.pop("_gkeys", []):
+            r = research.get(gk)
+            if r and not c.get("research"):
+                c["research"] = {k: r.get(k) or [] for k in ("publications", "rr", "wp")} | {"source": r.get("source"), "checked": r.get("checked")}
     for g in global_candidates:  # papers from research.json, same key format as China JMC
         r = research.get(f"{g['cycle']}|{g['school']}|{g['name']}")
         g["research"] = {k: r.get(k) or [] for k in ("publications", "rr", "wp")} | {"source": r.get("source"), "checked": r.get("checked")} if r else None

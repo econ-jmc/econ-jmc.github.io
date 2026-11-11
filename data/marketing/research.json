@@ -185,7 +185,7 @@
  "2026-2027|Berkeley Haas|Peiyao Li": {
   "status": "ok",
   "source": "https://www.peiyao-li.com/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Determining the validity of large language models for automated perceptual analysis",
@@ -199,8 +199,8 @@
     "title": "AI and perception biases in investments: An experimental study",
     "authors": "Anastassia Fedyk, Ali Kakhbod, Ulrike Malmendier",
     "venue": "Journal of Financial Economics",
-    "year": null,
-    "note": "Forthcoming",
+    "year": 2026,
+    "note": null,
     "url": null
    },
    {
@@ -210,18 +210,17 @@
     "year": 2026,
     "note": null,
     "url": null
-   }
-  ],
-  "rr": [
+   },
    {
     "title": "Measuring Creative Destruction",
     "authors": "Ali Kakhbod, Leonid Kogan, Dimitris Papanikolaou",
     "venue": "Review of Financial Studies",
     "year": null,
-    "note": "Revise & Resubmit",
+    "note": "Conditionally accepted",
     "url": null
    }
   ],
+  "rr": [],
   "wp": [
    {
     "title": "No Spoilers: A Contamination-Free LLM for Brand Perception Analysis",
@@ -1541,7 +1540,7 @@
  "2026-2027|UConn|Lukas Schnabel": {
   "status": "ok",
   "source": "https://www.lukasschnabel.com/research",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "The Impact of Voluntary Carbon Goal Announcements on Stock Returns",
@@ -1555,35 +1554,11 @@
   "rr": [],
   "wp": [
    {
-    "title": "Price Perceptions",
-    "authors": "Stefan J. Hock, Christina Kan",
-    "venue": null,
-    "year": null,
-    "note": "Work in progress",
-    "url": null
-   },
-   {
-    "title": "Championship Wins and Firm Performance",
-    "authors": "Setareh Heidari, Stefan J. Hock, Sascha Raithel",
-    "venue": null,
-    "year": null,
-    "note": "Work in progress",
-    "url": null
-   },
-   {
-    "title": "The Impact of Rescinded and Failed Carbon Goals on Stock Returns",
-    "authors": "Setareh Heidari, Stefan J. Hock, Sascha Raithel",
-    "venue": null,
-    "year": null,
-    "note": "Work in progress",
-    "url": null
-   },
-   {
     "title": "The Impact of Ingredient Purpose Disclosures on Purchasing Behavior: The Role of Perceived Company CSR",
     "authors": "Stefan J. Hock",
     "venue": null,
     "year": null,
-    "note": "Work in progress",
+    "note": "Working paper (presented at SCP 2026)",
     "url": null
    }
   ]

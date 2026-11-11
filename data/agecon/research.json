@@ -51,14 +51,22 @@
  },
  "2026-2027|Auburn|Roshan Saha": {
   "status": "ok",
-  "source": "https://roshansaha.scholar.st/ (CV: https://roshansaha.scholar.st/media_files/19947)",
-  "checked": "2026-10",
+  "source": "https://roshansaha.scholar.st/cv (CV PDF)",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Caste Dominance in Agricultural Credit Markets, but for Whom? Evidence from India",
     "authors": "Mykel R. Taylor, Valentina Hartarska",
     "venue": "European Journal of Development Research",
     "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Farm Management Education: Insights from Industry Stakeholders",
+    "authors": "Hannah E. Shear, Mykel R. Taylor, Maria A. Boerngen",
+    "venue": "Journal of the ASFMRA",
+    "year": 2024,
     "note": null,
     "url": null
    },
@@ -125,13 +133,38 @@
  },
  "2026-2027|Auburn|Yingyun Lin": {
   "status": "ok",
-  "source": "https://sites.google.com/view/yingyunlin/research",
-  "checked": "2026-10",
-  "publications": [],
+  "source": "https://sites.google.com/view/yingyunlin/cv -> CV PDF (Sept 2026); research page removed from site",
+  "checked": "2026-11",
+  "publications": [
+   {
+    "title": "The Impacts of Non-Local Buyers on Farmland Market in Alabama",
+    "authors": "Mykel Taylor, Sunjae Won",
+    "venue": "Journal of the ASFMRA",
+    "year": 2026,
+    "note": "Accepted",
+    "url": null
+   }
+  ],
   "rr": [],
   "wp": [
    {
-    "title": "Does Crop Losses Experience Influence Conservation Reserve Program Land Enrollment?",
+    "title": "When Land Got Drier: Estimating the Impacts of Drought on Farmland Values in Alabama",
+    "authors": "Sunjae Won, Mykel Taylor",
+    "venue": null,
+    "year": null,
+    "note": "Ready to submit",
+    "url": null
+   },
+   {
+    "title": "Perceptions and Adoption of Artificial Intelligence in Rural Appraisal Practices",
+    "authors": "Mykel Taylor, Kelli Russell, Sunjae Won",
+    "venue": null,
+    "year": null,
+    "note": "Under review",
+    "url": null
+   },
+   {
+    "title": "Does Crop Production Losses Experience Influence Land Enrollment in Conservation Reserve Program?",
     "authors": "Mykel Taylor, Sunjae Won",
     "venue": null,
     "year": null,
@@ -139,11 +172,35 @@
     "url": null
    },
    {
-    "title": "Does Gender Matter in the Rental Housing Market? Empirical Evidence from Taipei, Taiwan",
-    "authors": "Mykel Taylor",
+    "title": "Impacts of Crop Rotation on Corn Yields and Production Risks: Evidence from Remote Sensing Data",
+    "authors": "Mykel Taylor, Sunjae Won",
     "venue": null,
     "year": null,
     "note": null,
+    "url": null
+   },
+   {
+    "title": "How Does Climate Change Influence Mango Production? Empirical Evidence from Taiwan",
+    "authors": "Sunjae Won, Mykel Taylor",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "The Impacts of Drought on U.S. Land Use Patterns",
+    "authors": "Mykel Taylor, Sunjae Won",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Impacts of Solar Expansion on Agricultural Land Use in the United States",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
     "url": null
    }
   ]
@@ -356,12 +413,12 @@
  "2026-2027|Cornell|Emil Kee-Tui": {
   "status": "ok",
   "source": "https://www.emilkeetui.com/research.html",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
    {
-    "title": "When Pollution Rises, Reporting Falls: Coal Mining and Self-Monitoring under the Safe Drinking Water Act",
+    "title": "Hidden Violations or Costly Self-Reporting: Drinking Water Utilities’ Mandatory Self-Reporting and Water Pollution",
     "authors": null,
     "venue": null,
     "year": null,
@@ -1124,8 +1181,8 @@
  },
  "2026-2027|Florida|Md Roknuzzaman": {
   "status": "ok",
-  "source": "https://mdroknuzzaman.com/ (data from https://api.mdroknuzzaman.com/api/publications/)",
-  "checked": "2026-10",
+  "source": "https://api.mdroknuzzaman.com/api/publications/ (JS site data feed)",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Exploring the impact of financial development and technological innovation on green growth in BRICS",
@@ -1158,6 +1215,14 @@
     "year": 2026,
     "note": null,
     "url": "https://www.sciencedirect.com/science/article/pii/S0973082626001808"
+   },
+   {
+    "title": "The Impact of Energy Efficiency and Conservation Master Plan on Primary Energy Consumption in Bangladesh",
+    "authors": "Md Al Amin",
+    "venue": "Energy Nexus",
+    "year": 2026,
+    "note": null,
+    "url": "https://www.sciencedirect.com/science/article/pii/S2772427126001993"
    }
   ],
   "rr": [],
@@ -1167,7 +1232,7 @@
     "authors": null,
     "venue": null,
     "year": null,
-    "note": "JMP",
+    "note": "JMP; Under review at Food Policy",
     "url": "https://ageconsearch.umn.edu/record/404558/?v=pdf"
    },
    {
@@ -1221,14 +1286,6 @@
    {
     "title": "The Effect of COVID-19 on the Demand for Frozen Foods: Demand Estimation and Forecasted Average Treatment Effects (FAT)",
     "authors": "Suraj Gurung",
-    "venue": null,
-    "year": null,
-    "note": null,
-    "url": null
-   },
-   {
-    "title": "The Impact of Energy Efficiency and Conservation Master Plan on Primary Energy Consumption in Bangladesh",
-    "authors": "Md Al Amin",
     "venue": null,
     "year": null,
     "note": null,
@@ -2323,12 +2380,12 @@
  "2026-2027|Maryland|Michael Gibson": {
   "status": "ok",
   "source": "https://mtgibson.github.io/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
    {
-    "title": "Harvesting the Toll: Economic losses from poor farmer health in the United States",
+    "title": "Harvesting the Toll: Rural Hospital Closures and the Health of American Farmers",
     "authors": null,
     "venue": null,
     "year": null,
@@ -2336,7 +2393,7 @@
     "url": null
    },
    {
-    "title": "Do natural resource booms lead to resource curses? The impact of avocado export restrictions on Michoacan",
+    "title": "Resource Booms or Curses: The impact of avocado export expansion on Michoacán",
     "authors": null,
     "venue": null,
     "year": null,
@@ -2946,10 +3003,18 @@
  },
  "2026-2027|Ohio State|Ashish Adhikari": {
   "status": "ok",
-  "source": "https://ashish-adhikari.com",
-  "checked": "2026-10",
+  "source": "https://ashish-adhikari.com/",
+  "checked": "2026-11",
   "publications": [],
   "rr": [
+   {
+    "title": "Planting, Harvest, and Hope: Agricultural Production and Migration Aspirations",
+    "authors": "Tom Whittington, Alexis Villacis",
+    "venue": "Journal of Agricultural and Resource Economics",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   },
    {
     "title": "Irrigation in Transition: Changing Patterns of Groundwater Use in Nepal",
     "authors": "Leah Bevis, Avinash Kishore, Anton Urfels",
@@ -2982,14 +3047,6 @@
     "venue": null,
     "year": null,
     "note": null,
-    "url": null
-   },
-   {
-    "title": "Planting, Harvest, and Hope: Agricultural Production and Migration Aspirations",
-    "authors": "Tom Whittington, Alexis Villacis",
-    "venue": null,
-    "year": null,
-    "note": "Under review",
     "url": null
    },
    {
@@ -3434,7 +3491,7 @@
  "2026-2027|Ohio State|Vishavdeep Sharma": {
   "status": "ok",
   "source": "https://vishavdeepsharma.com",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Economic Baselines for Evaluating Disaster Resilience and Recovery",
@@ -3458,6 +3515,14 @@
     "title": "Price Floors, Market Structure, and Bertrand Equilibrium under Subadditive Costs",
     "authors": null,
     "venue": "Journal of Mathematical Economics",
+    "year": 2026,
+    "note": "Revise & Resubmit",
+    "url": null
+   },
+   {
+    "title": "Consumer–Firm Pareto Efficiency in Differentiated Bertrand Oligopoly",
+    "authors": null,
+    "venue": "Economics Letters",
     "year": 2026,
     "note": "Revise & Resubmit",
     "url": null
@@ -3606,17 +3671,98 @@
  },
  "2026-2027|Ohio State|Xuesen Fan": {
   "status": "ok",
-  "source": "https://sites.google.com/view/xuesenfan (research page renders empty)",
-  "checked": "2026-10",
-  "publications": [],
+  "source": "https://sites.google.com/view/xuesenfan/research",
+  "checked": "2026-11",
+  "publications": [
+   {
+    "title": "Are Americans Willing to Pay to Improve Food Access for Others? Evidence from a Real Donation Experiment",
+    "authors": "J. Penn, W. Hu",
+    "venue": "Journal of Food Distribution Research",
+    "year": 2026,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Price Premiums for Geographical Indication under the Coexistence of Self-Claims and Certification",
+    "authors": "M. Wang, J. Ge, W. Hu",
+    "venue": "Australian Journal of Agricultural and Resource Economics",
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Consumer Preferences for Meal Delivery: The Offsetting and Complementary Effects of Virtual Restaurants",
+    "authors": "D. Wang, W. Hu, J. Li, P. Qing",
+    "venue": "Agribusiness",
+    "year": 2025,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Contents of Product Attributes and the Decoy Effect: A Study on Traceable Pork from the Perspective of Consumer Utility",
+    "authors": "L. Wu, P. Liu, X. Chen, W. Hu",
+    "venue": "Managerial and Decision Economics",
+    "year": 2021,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Decoy Effect in Food Appearance, Traceability, and Price: Case of Consumer Preference for Pork Hindquarters",
+    "authors": "L. Wu, P. Liu, X. Chen, W. Hu, Y. Chen",
+    "venue": "Journal of Behavioral and Experimental Economics",
+    "year": 2020,
+    "note": null,
+    "url": null
+   }
+  ],
   "rr": [],
   "wp": [
    {
-    "title": "Can AI-Generated Cheap Talk Correct Hypothetical Bias? Evidence from a Food Choice Experiment",
-    "authors": null,
+    "title": "Can AI-Generated Cheap Talk Reduce Hypothetical Bias? Evidence from a Food Choice Experiment",
+    "authors": "L. Shi, X. Chen, W. Hu",
     "venue": null,
     "year": null,
     "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Artificial Intelligence Disclosure and Stated Willingness to Pay: Does Instruction Authorship Matter?",
+    "authors": "W. Hu",
+    "venue": null,
+    "year": null,
+    "note": "Stage 1 Registered Report submitted to ERAE",
+    "url": null
+   },
+   {
+    "title": "Do Discrete Choice Experiments Generate Less Hypothetical Bias? An Artifact of Unconventional Willingness to Pay",
+    "authors": "W. Hu, J. Penn",
+    "venue": null,
+    "year": null,
+    "note": "Under review",
+    "url": null
+   },
+   {
+    "title": "Do Video Instructions Improve Response Quality in Discrete Choice Experiments? Evidence from Attention, Comprehension, and Hypothetical Bias",
+    "authors": "W. Hu, J. Penn",
+    "venue": null,
+    "year": null,
+    "note": "Under review",
+    "url": null
+   },
+   {
+    "title": "The Value of Dummy Variables: Misinterpretation and Cross-Model Comparisons",
+    "authors": "W. Hu",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Combining Instructive Choice Sets and Opt-Out Reminders to Reduce Hypothetical Bias in Discrete Choice Experiments",
+    "authors": "L. Shi, X. Chen, W. Hu",
+    "venue": null,
+    "year": null,
+    "note": null,
     "url": null
    }
   ]
@@ -3690,15 +3836,15 @@
  "2026-2027|Ohio State|Zheng Hou": {
   "status": "ok",
   "source": "https://econzhenghou.com/research.html",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Will the Gig Work Model Work for Agriculture? An Initial Exploration",
-    "authors": "M. Jodlowski, J. Wilkins, B. Gwin",
+    "authors": "M. Jodlowski, J. Wilkins, K. Boone, B. Gwin",
     "venue": "Agricultural Finance Review",
     "year": null,
-    "note": "Accepted",
-    "url": null
+    "note": null,
+    "url": "https://doi.org/10.1108/AFR-12-2025-0232"
    }
   ],
   "rr": [],
@@ -4212,7 +4358,7 @@
  "2026-2027|UC Berkeley|Jie Song": {
   "status": "ok",
   "source": "https://jie-song.github.io/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "The Gendered Impacts of Income Fluctuations on Household Departure, Labor Supply, and Human Capital Decisions: Evidence from Kyrgyzstan",
@@ -4258,7 +4404,7 @@
   "rr": [],
   "wp": [
    {
-    "title": "Drawing Lines: The Endogenous Formation of Local Governments",
+    "title": "Breaking Away: The Endogenous Formation of Local Governments",
     "authors": null,
     "venue": null,
     "year": null,
@@ -4274,7 +4420,7 @@
     "url": null
    },
    {
-    "title": "Coordination Problem in the Investment of Transportation Infrastructure",
+    "title": "Coordination Problem in Transportation Infrastructure Investment",
     "authors": null,
     "venue": null,
     "year": null,
@@ -4311,7 +4457,7 @@
  "2026-2027|UC Berkeley|Max Snyder": {
   "status": "ok",
   "source": "https://sites.google.com/view/maxsnyder/research",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Effects of Risk-Based Pricing Reform on Flood Insurance Uptake",
@@ -4322,11 +4468,28 @@
     "url": null
    }
   ],
-  "rr": [],
+  "rr": [
+   {
+    "title": "Mandated Adaptation to Air Pollution in the Workplace",
+    "authors": "Alexandra Hill",
+    "venue": "Journal of the Association of Environmental and Resource Economists",
+    "year": null,
+    "note": "Revision requested",
+    "url": null
+   }
+  ],
   "wp": [
    {
     "title": "The Welfare Effects of Place-Based Housing Development",
     "authors": "Eva Lyubich, John Voorheis",
+    "venue": null,
+    "year": null,
+    "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Industrial Policy and Worker Mobility",
+    "authors": "Molly Harnish Nichols, John Voorheis",
     "venue": null,
     "year": null,
     "note": "Work in progress",
@@ -4335,14 +4498,6 @@
    {
     "title": "Balancing Affordability and Climate Risk in Housing Markets",
     "authors": null,
-    "venue": null,
-    "year": null,
-    "note": "Work in progress",
-    "url": null
-   },
-   {
-    "title": "Mandated Adaptation to Air Pollution in the Workplace",
-    "authors": "Alexandra Hill",
     "venue": null,
     "year": null,
     "note": "Work in progress",
@@ -4402,17 +4557,17 @@
  },
  "2026-2027|UC Berkeley|Nicolas Polasek": {
   "status": "ok",
-  "source": "https://nicopolasek.github.io/ (resolves to http://nicopolasek.com/)",
-  "checked": "2026-10",
+  "source": "http://nicopolasek.com/",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
    {
-    "title": "Market integration and the effect of internal displacement on host communities",
+    "title": "Market integration and the effects of forced displacement on host communities",
     "authors": null,
     "venue": null,
     "year": null,
-    "note": "JMP; Abstract coming soon",
+    "note": "JMP",
     "url": null
    },
    {
@@ -4444,12 +4599,12 @@
  "2026-2027|UC Berkeley|Shreya Chandra": {
   "status": "ok",
   "source": "https://shreyachandra.com/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
    {
-    "title": "Irregular Labor Supply and Coordination in the Workplace: Experimental Evidence from India",
+    "title": "Irregular Labor Supply and Coordination in Firms: Experimental Evidence from India",
     "authors": null,
     "venue": null,
     "year": null,
@@ -4485,7 +4640,7 @@
  "2026-2027|UC Berkeley|Suvy Qin": {
   "status": "ok",
   "source": "https://www.suvyqin.com/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "The Changing Nature of Pollution, Income, and Environmental Inequality in the United States",
@@ -4493,6 +4648,14 @@
     "venue": "AEA Papers and Proceedings",
     "year": 2024,
     "note": null,
+    "url": null
+   },
+   {
+    "title": "Flood Risk, Insurance, and Housing in the United States",
+    "authors": "John Voorheis",
+    "venue": "Measurement of Housing and the Housing Sector",
+    "year": null,
+    "note": "Forthcoming",
     "url": null
    }
   ],
@@ -4523,14 +4686,6 @@
     "url": null
    },
    {
-    "title": "Flood Risk, Insurance, and Housing in the United States",
-    "authors": "John Voorheis",
-    "venue": null,
-    "year": null,
-    "note": "In preparation for NBER/CRIW Conference Volume on Measurement of Housing and the Housing Sector",
-    "url": null
-   },
-   {
     "title": "Energy Efficiency Mandates and Housing Markets",
     "authors": null,
     "venue": null,
@@ -4542,8 +4697,8 @@
  },
  "2026-2027|UC Berkeley|Takanao Tanaka": {
   "status": "ok",
-  "source": "https://www.takanao-tanaka.com/",
-  "checked": "2026-10",
+  "source": "https://www.takanao-tanaka.com/ ; CV https://takanaotanaka.github.io/papers/Takanao_Tanaka_CV.pdf",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Air pollution and the airborne diseases: Evidence from China and Japan",
@@ -4605,6 +4760,14 @@
     "url": "https://takanaotanaka.github.io/papers/noise_draft.pdf"
    },
    {
+    "title": "Authoritarian Control through the Judiciary",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
     "title": "Environmental Regulation, Cost, Price and Welfare",
     "authors": null,
     "venue": null,
@@ -4617,7 +4780,7 @@
  "2026-2027|UC Berkeley|Thor Larson": {
   "status": "ok",
   "source": "https://sites.google.com/berkeley.edu/thor-larson/research",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Modeling SARS-CoV-2 positivity using laboratory data: Timing is everything",
@@ -4637,13 +4800,37 @@
     "year": null,
     "note": "JMP",
     "url": null
+   },
+   {
+    "title": "Long-Run Forecasting for Climate Policy",
+    "authors": "Aaron Smith, Jim Bushnell",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Optimal and Feasible Trading Ratios for Cap-and-Trade Linkage",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Common-Factor Production Function Estimation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
    }
   ]
  },
  "2026-2027|UC Berkeley|Zachari Pond": {
   "status": "ok",
   "source": "https://zacpond.github.io/research.html",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Simultaneous Confidence Intervals for Partially Identified Parameters",
@@ -4705,7 +4892,7 @@
     "url": null
    },
    {
-    "title": "Welfare Effects of Climate Change for Outdoor Recreation",
+    "title": "The Welfare Effects of Climate Change for Outdoor Recreation",
     "authors": "Jacob Gellman, Matthew Wibbenmeyer",
     "venue": null,
     "year": null,
@@ -5058,8 +5245,17 @@
  "2026-2027|UC Davis|Peter O'Brien": {
   "status": "ok",
   "source": "https://peter-obrien.com/",
-  "checked": "2026-10",
-  "publications": [],
+  "checked": "2026-11",
+  "publications": [
+   {
+    "title": "Do California's Cattle Emit Less Carbon Than We Think?",
+    "authors": "James Sayre",
+    "venue": "ARE Update",
+    "year": 2025,
+    "note": null,
+    "url": null
+   }
+  ],
   "rr": [],
   "wp": [
    {
@@ -5073,6 +5269,14 @@
    {
     "title": "Does Eating Local Reduce Emissions?",
     "authors": "Levi Crews, Ishan Nath, Milan Quentel, James Sayre",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Growth Beneath the Surface: Trade, Groundwater, and Agricultural Development",
+    "authors": null,
     "venue": null,
     "year": null,
     "note": "Work in progress",
@@ -5183,12 +5387,12 @@
  "2026-2027|UC Davis|Will Troske": {
   "status": "ok",
   "source": "https://will-troske.github.io//research/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
    {
-    "title": "Production Impacts to Maritime Fuel Content Regulations",
+    "title": "The Behavioral Impact of Sulfur Fuel Content Regulations in Maritime Shipping",
     "authors": null,
     "venue": null,
     "year": null,
@@ -5197,10 +5401,34 @@
    },
    {
     "title": "Behavioral Responses to Information on PFAS in Drinking Water",
-    "authors": null,
+    "authors": "Laura Alcocer Quiñones, Jeffrey Hadachek",
     "venue": null,
     "year": null,
     "note": null,
+    "url": null
+   },
+   {
+    "title": "Refrigeration and the Spread of California Agriculture",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Early stage work",
+    "url": null
+   },
+   {
+    "title": "Pipeline Shutdowns and Jones Act Waivers: Estimating the Cost of the Jones Act",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Early stage work",
+    "url": null
+   },
+   {
+    "title": "The Effect of Low Water Levels on the Mississippi River and Agricultural Transportation",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Early stage work",
     "url": null
    }
   ]
@@ -5518,7 +5746,7 @@
  "2026-2027|Virginia Tech|Renu Ojha": {
   "status": "ok",
   "source": "https://sites.google.com/view/renuojha/research-portfolio",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Good for the environment and safer? Food safety halo effect of eco-labels",
@@ -5548,16 +5776,24 @@
   "rr": [],
   "wp": [
    {
-    "title": "Techno-economic Analysis of S3AM Under Ownership vs. Solution-as-a-Service Model",
-    "authors": null,
+    "title": "Economic feasibility analysis of S3AM under ownership vs. solution-as-a-service model",
+    "authors": "J. van Senten, A. Pattillo",
     "venue": null,
     "year": null,
-    "note": "Submitted to World Aquaculture Society",
+    "note": "Under review, Journal of the World Aquaculture Society (second round)",
     "url": null
    },
    {
     "title": "Economic valuation of ecosystem services provided by oyster reefs in the Chesapeake Bay",
-    "authors": null,
+    "authors": "K. Moeltner, K. Stephenson, S. Hegde, J. van Senten",
+    "venue": null,
+    "year": null,
+    "note": "In preparation (targeted: Journal of Environmental Economics and Management)",
+    "url": null
+   },
+   {
+    "title": "Impact of fishery subsidies on greenhouse gas emissions",
+    "authors": "W. Zhang",
     "venue": null,
     "year": null,
     "note": "Work in progress",

@@ -208,12 +208,12 @@
  "2026-2027|Columbia|Meha Sadasivam": {
   "status": "ok",
   "source": "https://mehasadasivam.github.io",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
    {
-    "title": "The Financing Limits of Local Adaptation",
+    "title": "The Value and Limits of Local Climate Adaptation",
     "authors": null,
     "venue": null,
     "year": null,
@@ -339,7 +339,7 @@
  "2026-2027|HEC Paris|Romain Rossello": {
   "status": "ok",
   "source": "https://www.romainrossello.com/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
@@ -352,16 +352,16 @@
     "url": null
    },
    {
-    "title": "Stablecoin Issuers' Financial Policies",
-    "authors": "Zijun Wang",
+    "title": "Voters' Heterogeneity and the Willingness to Pay for Voting Rights: New Evidence from Decentralized Finance",
+    "authors": "Stefano Balietti, Stefan Kitzler, Pietro Saggese",
     "venue": null,
     "year": null,
     "note": null,
     "url": null
    },
    {
-    "title": "Voters' Preferences and the Willingness to Pay for Voting Rights: New Evidence from Decentralized Finance",
-    "authors": "Stefano Balietti, Stefan Kitzler, Pietro Saggese",
+    "title": "Stablecoin Issuers' Financial Policies",
+    "authors": "Zijun Wang",
     "venue": null,
     "year": null,
     "note": null,
@@ -374,13 +374,29 @@
     "year": null,
     "note": null,
     "url": null
+   },
+   {
+    "title": "The Underdog and the Wolf Pack: Activism and Disclosure of Managerial Entrenchment",
+    "authors": null,
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Financial Ledgers under Increasing Data Costs",
+    "authors": "Christopher Hrdlicka",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
    }
   ]
  },
  "2026-2027|HEC Paris|Zijun Wang": {
   "status": "ok",
   "source": "https://sites.google.com/view/zijunwangsite/home",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Does the winner-take-all rule favor minorities?",
@@ -394,7 +410,7 @@
   "rr": [],
   "wp": [
    {
-    "title": "Self-Fulfilling Liquidity in Intermediated Markets",
+    "title": "Insurance, Incentives, and Self-Fulfilling Liquidity",
     "authors": null,
     "venue": null,
     "year": null,
@@ -422,7 +438,7 @@
  "2026-2027|HKU|Yican Liu": {
   "status": "ok",
   "source": "https://www.yicanliu.com/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "AI Exposure and Policy Preferences: Experimental Evidence from Latin America",
@@ -453,6 +469,14 @@
     "url": null
    },
    {
+    "title": "The Environmental Cost of AI Development",
+    "authors": "Zongyuan Deng, Fan Zhang",
+    "venue": null,
+    "year": null,
+    "note": "Draft coming soon",
+    "url": null
+   },
+   {
     "title": "Happy App Happy Tip: The Return Predictability from Amusement Apps Downloads Around the World",
     "authors": "Tse-Chun Lin, Fangzhou Lu",
     "venue": null,
@@ -461,16 +485,24 @@
     "url": null
    },
    {
-    "title": "AI-Writing in the Financial Materials",
-    "authors": "Zongyuan Deng, Yuheng Wang",
+    "title": "Data Center and Firms' Financial Decisions: Theory and Evidence from a Field Experiment",
+    "authors": null,
     "venue": null,
     "year": null,
     "note": "Work in progress",
     "url": null
    },
    {
-    "title": "The Environmental Cost of Artificial Intelligence Development",
-    "authors": "Zongyuan Deng, Fan Zhang",
+    "title": "Entrepreneurial Activities, Education, and the Persistent Impact of Historical Conflicts in China",
+    "authors": "Tian Chen, Pei Gao, Yu-Hsiang Lei",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "AI-Writing in the Financial Materials",
+    "authors": "Zongyuan Deng, Yuheng Wang",
     "venue": null,
     "year": null,
     "note": "Work in progress",
@@ -499,14 +531,6 @@
     "year": null,
     "note": "Work in progress",
     "url": null
-   },
-   {
-    "title": "The Persistent Impact of Historical Conflicts in China",
-    "authors": "Tian Chen, Pei Gao, Yu-Hsiang Lei",
-    "venue": null,
-    "year": null,
-    "note": "Work in progress",
-    "url": null
    }
   ]
  },
@@ -530,7 +554,7 @@
  "2026-2027|INSEAD|Minxia Chen": {
   "status": "ok",
   "source": "https://minxia-chen.com/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Clientele Effect in Sovereign Bonds: Evidence from Islamic Sukuk Bonds in Malaysia",
@@ -544,7 +568,7 @@
   "rr": [],
   "wp": [
    {
-    "title": "The Watchlist Trap",
+    "title": "The Watchlist Trap: A Worse List, a Better Pick",
     "authors": null,
     "venue": null,
     "year": null,
@@ -901,7 +925,7 @@
  "2026-2027|LSE|Niels Wagner": {
   "status": "ok",
   "source": "https://www.nielswagner.com/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
@@ -914,7 +938,7 @@
     "url": null
    },
    {
-    "title": "Bank Local Specialisation",
+    "title": "Bank Specialization in Sparse Markets",
     "authors": "Anne Duquerroy, Clément Mazet-Sonilhac, Jean-Stéphane Mésonnier, Daniel Paravisini",
     "venue": null,
     "year": null,
@@ -927,14 +951,6 @@
     "venue": null,
     "year": null,
     "note": null,
-    "url": null
-   },
-   {
-    "title": "Maturity Markups",
-    "authors": "Nuno Clara, Arthur Taburet",
-    "venue": null,
-    "year": null,
-    "note": "Work in progress",
     "url": null
    }
   ]
@@ -1007,7 +1023,7 @@
  "2026-2027|MIT Sloan|Giuditta Perinelli": {
   "status": "ok",
   "source": "https://www.giudittaperinelli.com/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
@@ -1028,7 +1044,7 @@
     "url": null
    },
    {
-    "title": "Financial Accelerator with Specialized Lenders",
+    "title": "Specialized Lending with Limited Pledgeability",
     "authors": "Basile Dubois, Paul Rintamäki",
     "venue": null,
     "year": null,
@@ -1047,8 +1063,8 @@
  },
  "2026-2027|MIT Sloan|Jiageng Liu": {
   "status": "ok",
-  "source": "https://www.jiagengliu.com/ (past research: /past-research)",
-  "checked": "2026-10",
+  "source": "https://www.jiagengliu.com/ ; /past-research",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Anatomy of a Run: The Terra Luna Crash",
@@ -1070,7 +1086,7 @@
   "rr": [],
   "wp": [
    {
-    "title": "Longshot Trading, Limited Arbitrage, and Prediction Market Design",
+    "title": "Price Miscalibration and Prediction Market Design",
     "authors": null,
     "venue": null,
     "year": 2026,
@@ -1086,7 +1102,7 @@
     "url": null
    },
    {
-    "title": "Inflation and the Two Sides of Banks: How Disinflation Replaces Liquidity with Lending",
+    "title": "Inflation and the Two Sides of Banks",
     "authors": "Tomás da Nóbrega",
     "venue": null,
     "year": 2025,
@@ -1102,7 +1118,7 @@
     "url": null
    },
    {
-    "title": "Price Discovery of Post-IPO Stocks in China",
+    "title": "Price Limit of Post-IPO Stocks in China",
     "authors": null,
     "venue": null,
     "year": 2020,
@@ -1114,12 +1130,12 @@
  "2026-2027|Michigan Ross|Filipp Prokopev": {
   "status": "ok",
   "source": "https://sites.google.com/umich.edu/filippprokopev/research",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
    {
-    "title": "A Necessary Lie: Conflict of Interest in Investor-Paid Ratings",
+    "title": "A Necessary Lie: Conflicts of Interest in Investor-Paid Ratings",
     "authors": null,
     "venue": null,
     "year": null,
@@ -1230,7 +1246,7 @@
  "2026-2027|Northwestern Kellogg|Junko Oguri": {
   "status": "ok",
   "source": "https://junkoguri.com/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
@@ -1240,6 +1256,22 @@
     "venue": null,
     "year": null,
     "note": "JMP",
+    "url": null
+   },
+   {
+    "title": "Quantitative Tightening in Segmented Interbank Markets",
+    "authors": "Cristoforo Pizzimenti",
+    "venue": null,
+    "year": null,
+    "note": null,
+    "url": null
+   },
+   {
+    "title": "Crowding Out Lending With Liquidity: The Case of the U.S. National Banking System",
+    "authors": "Tim Seida",
+    "venue": null,
+    "year": null,
+    "note": "Draft available upon request",
     "url": null
    },
    {
@@ -1263,7 +1295,7 @@
  "2026-2027|Northwestern Kellogg|Lior Shabtai": {
   "status": "ok",
   "source": "https://liorshabtai.com/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
@@ -1272,7 +1304,7 @@
     "authors": "Yudan Ying",
     "venue": null,
     "year": null,
-    "note": "JMP; draft coming soon",
+    "note": "JMP",
     "url": null
    },
    {
@@ -1740,8 +1772,8 @@
  },
  "2026-2027|UNC Kenan-Flagler|Naman Nishesh": {
   "status": "ok",
-  "source": "https://www.namannishesh.com/research",
-  "checked": "2026-10",
+  "source": "https://www.namannishesh.com/",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Labor and Corporate Finance",
@@ -1771,7 +1803,7 @@
   "rr": [],
   "wp": [
    {
-    "title": "Debt Relief and the Reallocation of Household Labor and Capital",
+    "title": "Business Debt Relief and the Reallocation of Household Labor",
     "authors": null,
     "venue": null,
     "year": null,
@@ -1799,9 +1831,18 @@
  "2026-2027|UT Austin McCombs|Minjoo Kim": {
   "status": "ok",
   "source": "https://minjookim-finance.github.io/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
-  "rr": [],
+  "rr": [
+   {
+    "title": "Who Bears Rising Commercial Property Insurance Costs?",
+    "authors": "Prateek Mahajan, Zirui Wang",
+    "venue": "Review of Financial Studies",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
   "wp": [
    {
     "title": "Credit Access and Retirement Savings",
@@ -1820,16 +1861,24 @@
     "url": null
    },
    {
-    "title": "Who Bears Rising Commercial Property Insurance Costs?",
-    "authors": "Prateek Mahajan, Zirui Wang",
+    "title": "Labor Market Outcomes and Compensation for High-Skilled Workers",
+    "authors": "Mindy Xiaolan, Aaron Pancost",
     "venue": null,
     "year": null,
-    "note": null,
+    "note": "Work in progress",
     "url": null
    },
    {
-    "title": "Labor Market Outcomes and Compensation for High-Skilled Workers",
-    "authors": "Mindy Xiaolan, Aaron Pancost",
+    "title": "Retirement Asset Allocation across Mutual Funds",
+    "authors": "Clemens Sialm, Hanjiang Zhang",
+    "venue": null,
+    "year": null,
+    "note": "Work in progress",
+    "url": null
+   },
+   {
+    "title": "Housing Wealth and Retirement Savings",
+    "authors": "Clemens Sialm, Hanjiang Zhang",
     "venue": null,
     "year": null,
     "note": "Work in progress",
@@ -1898,9 +1947,26 @@
  "2026-2027|UT Austin McCombs|Zirui Wang": {
   "status": "ok",
   "source": "https://www.zirui-wang.com/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
-  "rr": [],
+  "rr": [
+   {
+    "title": "Are Crypto Anti-Money Laundering Policies Effective?",
+    "authors": "John M. Griffin, Kevin Mei",
+    "venue": "Review of Financial Studies",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   },
+   {
+    "title": "Who Bears Rising Commercial Property Insurance Costs?",
+    "authors": "Minjoo Kim, Prateek Mahajan",
+    "venue": "Review of Financial Studies",
+    "year": null,
+    "note": "Revise & Resubmit",
+    "url": null
+   }
+  ],
   "wp": [
    {
     "title": "Do Mortgage Brokers Help Borrowers Get Better Rates?",
@@ -1911,16 +1977,16 @@
     "url": null
    },
    {
-    "title": "Are Crypto Anti-Money Laundering Policies Effective?",
-    "authors": "John M. Griffin, Kevin Mei",
+    "title": "Is Criminal Crypto a Sideshow? Illicit Activities across Three Major Blockchains",
+    "authors": "John M. Griffin, J. A. Artero Calvo",
     "venue": null,
     "year": null,
-    "note": null,
+    "note": "Invited to submit to Journal of Financial Economics under FRA dual-submission",
     "url": null
    },
    {
-    "title": "Who Bears Rising Commercial Property Insurance Costs?",
-    "authors": "Minjoo Kim, Prateek Mahajan",
+    "title": "Are Carbon Offset Projects an Effective Vehicle for Carbon Emission Reduction?",
+    "authors": null,
     "venue": null,
     "year": null,
     "note": null,
@@ -2062,7 +2128,7 @@
  "2026-2027|Yale SOM|Dolly Yu": {
   "status": "ok",
   "source": "https://dollyyu97.github.io/research/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
@@ -2097,23 +2163,33 @@
     "year": null,
     "note": "Work in progress",
     "url": null
-   },
-   {
-    "title": "Mortgage Securitization and Housing Affordability",
-    "authors": "Daojing Zhai",
-    "venue": null,
-    "year": null,
-    "note": "Work in progress",
-    "url": null
    }
   ]
  },
  "2026-2027|Yale SOM|Dong Huang": {
   "status": "ok",
   "source": "https://www.donghuang-finance.com/",
-  "checked": "2026-10",
-  "publications": [],
-  "rr": [],
+  "checked": "2026-11",
+  "publications": [
+   {
+    "title": "Non-Fungible Tokens as Investment",
+    "authors": "William N. Goetzmann, Milad Nozari",
+    "venue": "International Journal of Arts Management",
+    "year": 2026,
+    "note": "29(1), 74-101; NBER Working Paper No. 34837",
+    "url": null
+   }
+  ],
+  "rr": [
+   {
+    "title": "How Good is AI at Twisting Arms? Experiments in Debt Collection",
+    "authors": "James J. Choi, Zhishu Yang, Qi Zhang",
+    "venue": "Journal of Finance",
+    "year": 2025,
+    "note": "Reject & Resubmit; NBER Working Paper No. 33669",
+    "url": null
+   }
+  ],
   "wp": [
    {
     "title": "Delegating Dirty Work: Blame Shifting and the Boundary of the Firm",
@@ -2124,27 +2200,19 @@
     "url": null
    },
    {
-    "title": "How Good is AI at Twisting Arms? Experiments in Debt Collection",
-    "authors": "James J. Choi, Zhishu Yang, Qi Zhang",
-    "venue": null,
-    "year": 2025,
-    "note": "NBER Working Paper No. 33669",
-    "url": null
-   },
-   {
-    "title": "Non-Fungible Tokens as Investment",
-    "authors": "William N. Goetzmann, Milad Nozari",
-    "venue": null,
-    "year": 2026,
-    "note": "NBER Working Paper No. 34837",
-    "url": null
-   },
-   {
     "title": "Selection-Neglect in the NFT Bubble",
     "authors": "William N. Goetzmann",
     "venue": null,
     "year": 2023,
     "note": "NBER Working Paper No. 31498",
+    "url": null
+   },
+   {
+    "title": "Heterogeneous Housing Markets: Selection Bias and Latent Sub-Markets in U.S. House Price Indexes",
+    "authors": "William N. Goetzmann",
+    "venue": null,
+    "year": null,
+    "note": "Draft available upon request",
     "url": null
    }
   ]
@@ -2152,7 +2220,7 @@
  "2026-2027|Yale SOM|Hongyu Wu": {
   "status": "ok",
   "source": "https://www.hongyu-wu.com/research",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Credit Information in Earnings Calls",
@@ -2180,14 +2248,6 @@
     "venue": null,
     "year": null,
     "note": "JMP",
-    "url": null
-   },
-   {
-    "title": "What Do Investors Fear in the Cross-Section? A News-Based Approach",
-    "authors": null,
-    "venue": null,
-    "year": null,
-    "note": "Work in progress",
     "url": null
    },
    {
@@ -2245,8 +2305,8 @@
  },
  "2026-2027|Yale SOM|Pranav Garg": {
   "status": "ok",
-  "source": "https://www.gargpranav.com/research",
-  "checked": "2026-10",
+  "source": "https://www.gargpranav.com/home ; /research",
+  "checked": "2026-11",
   "publications": [],
   "rr": [],
   "wp": [
@@ -2293,14 +2353,6 @@
    {
     "title": "From Collateral to Credit to Real Activity: Causal Evidence on the Bank Lending Channel",
     "authors": "A.-L. Delatte, J. Imbs",
-    "venue": null,
-    "year": null,
-    "note": "Work in progress",
-    "url": null
-   },
-   {
-    "title": "Passive Money and Asset Volatility",
-    "authors": "M. Famiglietti",
     "venue": null,
     "year": null,
     "note": "Work in progress",

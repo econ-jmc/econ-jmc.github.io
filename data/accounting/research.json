@@ -416,7 +416,7 @@
  "2026-2027|Harvard|Wenxin Wang": {
   "status": "ok",
   "source": "https://www.wenxin-wang.com/research.html",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [
    {
     "title": "Trust and Corporate Innovation: Evidence from China",
@@ -467,15 +467,15 @@
     "authors": "Jasmijn C. Bol, Dennis Campbell, Jake Krupa",
     "venue": null,
     "year": null,
-    "note": "Work in progress",
+    "note": "Under review as a registered report",
     "url": null
    },
    {
-    "title": "Efficiency or Bias: AI Interview as a Control System",
+    "title": "AI Interview as a Control System",
     "authors": "Wei Cai, Yiwei Li",
     "venue": null,
     "year": null,
-    "note": "Work in progress",
+    "note": "Finalizing analyses",
     "url": null
    }
   ]
@@ -640,7 +640,7 @@
  "2026-2027|MIT Sloan|Jason Kim": {
   "status": "ok",
   "source": "https://jasonkim.pro/research/",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [
    {
@@ -670,7 +670,7 @@
     "url": null
    },
    {
-    "title": "Before the Government Speaks: Insider Trading on Federal Contract Awards",
+    "title": "Government Disclosure Timing and Corporate Insider Trading: Evidence from Federal Contract Awards",
     "authors": "Ji Eon Kim",
     "venue": null,
     "year": null,
@@ -812,7 +812,7 @@
  "2026-2027|Northwestern Kellogg|Siqi Zheng": {
   "status": "ok",
   "source": "https://sites.google.com/view/siqizheng2026/research",
-  "checked": "2026-10",
+  "checked": "2026-11",
   "publications": [],
   "rr": [
    {
@@ -839,6 +839,14 @@
     "venue": null,
     "year": null,
     "note": null,
+    "url": null
+   },
+   {
+    "title": "Shared Lenders, Technological Proximity, and the Direction of Innovation",
+    "authors": "Furkan M. Çetin",
+    "venue": null,
+    "year": null,
+    "note": "Extends job market paper",
     "url": null
    },
    {
